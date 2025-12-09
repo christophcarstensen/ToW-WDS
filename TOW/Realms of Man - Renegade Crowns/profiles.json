@@ -983,6 +983,68 @@
     }
   },
   {
+    "Id": "68357b986d966c2c14752254",
+    "Name": "Border Princess Bombard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8cc3-d6f5-da17-6600": "Levies",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "2746-8b42-242b-8634": "Bombard"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bombard",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "7",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "2746-8b42-242b-8634": "Bombard",
+          "f384-89df-fa9b-1d33": "Move Or Shoot",
+          "74ea-d296-5fa6-b617": "Armour Bane (X)",
+          "5a5e-6dc6-10eb-742c": "Cannon Fire",
+          "9db1-2d1d-b6dd-6ff1": "Cumbersome",
+          "85a4-43c5-2bbb-83ca": "Multiple Wounds (X)"
+        }
+      },
+      {
+        "Name": "Crew",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
     "Id": "profile_1764635155669",
     "Name": "Border Princes Mortar",
     "Attributes": {},

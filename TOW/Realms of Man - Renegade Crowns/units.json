@@ -1,5 +1,28 @@
 [
   {
+    "Id": "68357b986d966c2c1475224b",
+    "Name": "Border Princes Bombard",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bombard",
+        "Hand Weapons"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b986d966c2c14752254"
+    ]
+  },
+  {
     "Id": "unit_1764642151839",
     "Name": "Border Princes Brigands",
     "Attributes": {
