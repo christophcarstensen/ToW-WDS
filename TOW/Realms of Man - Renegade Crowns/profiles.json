@@ -1011,10 +1011,10 @@
         "RuleIds": {
           "2746-8b42-242b-8634": "Bombard",
           "f384-89df-fa9b-1d33": "Move Or Shoot",
-          "74ea-d296-5fa6-b617": "Armour Bane (X)",
+          "74ea-d296-5fa6-b617": "Armour Bane (2)",
           "5a5e-6dc6-10eb-742c": "Cannon Fire",
           "9db1-2d1d-b6dd-6ff1": "Cumbersome",
-          "85a4-43c5-2bbb-83ca": "Multiple Wounds (X)"
+          "85a4-43c5-2bbb-83ca": "Multiple Wounds (D3+1)"
         }
       },
       {
