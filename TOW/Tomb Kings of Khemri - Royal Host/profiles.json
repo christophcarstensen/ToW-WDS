@@ -1558,7 +1558,7 @@
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon",
           "dbb2-4d85-84c2-528c": "Light Armour",
-      "d6b8-1ad9-d024-1d72": "Warbow"
+          "d6b8-1ad9-d024-1d72": "Warbow"
         }
       }
     ],
@@ -3262,6 +3262,47 @@
         "width": "25",
         "length": "25"
       }
+    }
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Barded Skeletal Steed",
+    "RuleIds": {
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard"
+    },
+    "EquipmentIds": [],
+    "Statlines": [
+      {
+        "Name": "Barded Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "eb5d-bd8a-c75c-66d7": "Barding"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    },
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard"
     }
   }
 ]

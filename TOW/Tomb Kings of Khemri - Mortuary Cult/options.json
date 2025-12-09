@@ -270,5 +270,29 @@
     "OwnerId": "68357c766d966c2c14a84095",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "option_1765312385582",
+    "Name": "Barded Skeletal Steed",
+    "Type": "Mount",
+    "OwnerId": "68357c636d966c2c14a2bccd",
+    "WDSDataId": "profile_1765311714447",
+    "StatlineIndex": ""
+  },
+  {
+    "Id": "option_1765312419287",
+    "Name": "Barded Skeletal Steed",
+    "Type": "Mount",
+    "OwnerId": "68357c646d966c2c14a3110c",
+    "WDSDataId": "profile_1765311714447",
+    "StatlineIndex": ""
+  },
+  {
+    "Id": "option_1765312443962",
+    "Name": "Barded Skeletal Steed",
+    "Type": "Mount",
+    "OwnerId": "68357c656d966c2c14a36702",
+    "WDSDataId": "profile_1765311714447",
+    "StatlineIndex": ""
   }
 ]
