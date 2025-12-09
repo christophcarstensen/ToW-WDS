@@ -699,7 +699,7 @@
     "Id": "b664-8530-a988-7ba9",
     "Name": "Impetuous",
     "Type": "Global",
-    "Description": "Description: If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, roll a D6. On a roll of 1-3, the unit must declare a charge. On a roll of 4+, the unit may act as normal.\n"
+    "Description": "Description: If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, it must make a Leadership test. If this test is failed, the unit must declare a charge. If this test is passed, the unit may act as normal.\n"
   },
   {
     "Id": "814d-8748-07c1-ab99",
@@ -13768,5 +13768,65 @@
     "Name": "Goretooth",
     "Type": "General",
     "Description": "In addition to the Lores of Magic they may normally know spell from, the bearer of a Goretooth may know spells from the Lore of Primal Magic."
+  },
+  {
+    "Id": "rule_1764616382496",
+    "Name": "The Mercenary Hosts",
+    "Type": "Global",
+    "Description": "For each character in your army that has the Might of Miragliano Infamous Origin, 0-1 unit of Sellsword Infantry or Veteran Sellsword Infantry may change its troop type to ‘heavy infantry’ and may have the Phalanx special rule for +10 points per unit: \nPhalanx: A Close Order unit in which the majority of models have this special rule is considered to be in Combat Order\nrather than Marching Column even if it is deeper than it is wide, provided it contains enough models per rank to claim\na rank bonus. Whilst such a unit is deeper than it is wide it can claim a rank bonus and can perform a charge move,\nbut cannot march at triple its Movement characteristic. In addition, should such a unit be charged by an enemy unit with\nthe First Charge special rule, it does not become Disrupted. If a unit with this special rule wishes to adopt Marching\nColumn and march at triple its Movement characteristic, it must be deeper than it is wide and contain fewer models per\nrank than it requires to claim a rank bonus."
+  },
+  {
+    "Id": "rule_1764616509537",
+    "Name": "The Outcast Knights",
+    "Type": "Global",
+    "Description": "For each character in your army that has the Renegade Knight Infamous Origin, 0-1 unit of Freeblade Knights or Veteran\nFreeblade Knights may have the Lance Formation (see page 107 of Forces of Fantasy) and the Noble Disdain (see page 43) special rules for +2 points per model."
+  },
+  {
+    "Id": "rule_1764616538662",
+    "Name": "The Outlaw & Renegade",
+    "Type": "Global",
+    "Description": "For each character in your army that has the Noble Outlaw Infamous Origin, 0-1 unit of Hireling Outriders may have the\nAmbushers special rule for +1 point per model."
+  },
+  {
+    "Id": "rule_1764616559090",
+    "Name": "The Wandering Duelists",
+    "Type": "Global",
+    "Description": "For each character in your army that has the Wandering Diestro Infamous Origin, 0-1 unit of Border Princes Brigands\nmay have a +1 modifier to their Weapon Skill characteristic for +2 points per model. In addition, once per game, models\nwithin this unit may make enemy models that direct their attacks against them during the Combat phase re-roll\nsuccessful rolls To Hit."
+  },
+  {
+    "Id": "rule_1764962320259",
+    "Name": "\"Look Snorri, Trolls!”",
+    "Type": "Global",
+    "Description": "After deployment, but before deploying Scouts or making any Vanguard moves, all units of Slayers and Brotherhood\nof Grimnir within a Slayer Host Army of Infamy may make a “Look Snorri, Trolls!” move. A unit making a “Look\nSnorri, Trolls!” move moves D3\"+1 as described in the Basic Movement rules. It may manoeuvre normally but cannot\nmarch. Roll separately for each eligible unit. "
+  },
+  {
+    "Id": "rule_1764962435749",
+    "Name": "Wards Of Grimnir",
+    "Type": "Global",
+    "Description": "Any unit in a Slayer Host Army of Infamy that includes a standard bearer may purchase Wards of Grimnir for\n+1 point per model. A unit with Wards of Grimnir has a 6+ Ward save against any wounds suffered during\nthe Shooting phase that were caused by a non-magical enemy attack."
+  },
+  {
+    "Id": "rule_1764962451944",
+    "Name": "From The Wilds",
+    "Type": "Global",
+    "Description": "0-1 unit of Slayers with a Unit Strength of 10 or less in a Slayer Host Army of Infamy may have the Ambushers and\nSkirmishers special rules for +1 point per model. "
+  },
+  {
+    "Id": "rule_1764962667311",
+    "Name": "Worst Among Equals",
+    "Type": "Global",
+    "Description": "If your army includes Ungrim Ironfist, he must be your General. If not, you must nominate a Daemon Slayer or Dragon Slayer to act as your General, even though the Loner special rule would normally prevent this. However, to reflect that Slayers make poor leaders, a Dragon Slayer or Daemon Slayer that is the General of a Slayer Host does not gain the\nInspiring Presence special rule."
+  },
+  {
+    "Id": "rule_1764962969839",
+    "Name": "Blessings Of Grimnir",
+    "Type": "Global",
+    "Description": "A model with this special rule may be nominated to attempt a Wizardly Dispel, as if it were a Wizard. However, unlike regular Wizards, a Shrine Keeper does not have a Level of Wizardry to determine their Dispel range or modify their Dispel rolls. Instead, a Shrine Keeper has a Dispel range of 21” and may apply a +1 modifier to their Dispel rolls."
+  },
+  {
+    "Id": "rule_1764963425805",
+    "Name": "Hatred (Orcs & Goblins)",
+    "Type": "Global",
+    "Description": "Description: A model with this special rule may re-roll any failed rolls To Hit made against a hated enemy during the first round of combat."
   }
 ]

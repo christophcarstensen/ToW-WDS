@@ -1,0 +1,438 @@
+[
+  {
+    "Id": "unit_1764642151839",
+    "Name": "Border Princes Brigands",
+    "Attributes": {
+      "category": "Rare",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "10"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Shield",
+        "Pistol",
+        "Blunderbuss",
+        "Crossbow",
+        "Champion",
+        "Standard Bearer",
+        "Musician",
+        "Ambushers",
+        "Scouts",
+        "Close Order",
+        "Skirmishers"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "68357b986d966c2c1475262b"
+    ],
+    "OptionListIds": [
+      "option_1764642325502",
+      "option_1764642350204",
+      "option_1764642380984"
+    ]
+  },
+  {
+    "Id": "unit_1764636633037",
+    "Name": "Border Princes Mortars",
+    "Attributes": {
+      "category": "Special",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapons",
+        "Mortar"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764635155669"
+    ],
+    "OptionListIds": []
+  },
+  {
+    "Id": "unit_1764636473778",
+    "Name": "Border Princes Organ Guns ",
+    "Attributes": {
+      "category": "Rare",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Organ Gun"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764635155668"
+    ],
+    "OptionListIds": []
+  },
+  {
+    "Id": "unit_1764635045697",
+    "Name": "Hireling Outrider",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764625094894"
+    ],
+    "OptionListIds": [
+      "option_1764643892081",
+      "option_1764643935241",
+      "option_1764643961193"
+    ]
+  },
+  {
+    "Id": "unit_1764634313672",
+    "Name": "Veteran Freeblades",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lances",
+        "Great weapons",
+        "Hand weapons",
+        "Heavy armour",
+        "Shields",
+        "Commander",
+        "Champion",
+        "Standard Bearer",
+        "Musician"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764625096024"
+    ],
+    "OptionListIds": [
+      "option_1764634361684",
+      "option_1764634386241",
+      "option_1764634404506",
+      "option_1764634450939",
+      "option_1764634465832"
+    ]
+  },
+  {
+    "Id": "unit_1764634315489",
+    "Name": "Veteran Freeblades",
+    "Attributes": {
+      "category": "Special",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lances",
+        "Great weapons",
+        "Hand weapons",
+        "Heavy armour",
+        "Shields",
+        "Commander",
+        "Champion",
+        "Standard Bearer",
+        "Musician"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764625096024"
+    ],
+    "OptionListIds": [
+      "option_1764634361684",
+      "option_1764634386241",
+      "option_1764634404506",
+      "option_1764634450939",
+      "option_1764634465832"
+    ]
+  },
+  {
+    "Id": "unit_1764624652867",
+    "Name": "Freeblade Knights",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lances",
+        "Great weapons",
+        "Hand weapons",
+        "Heavy armour",
+        "Shields",
+        "Commander",
+        "Champion",
+        "Standard Bearer",
+        "Musician"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764624702462"
+    ],
+    "OptionListIds": [
+      "option_1764626287054",
+      "option_1764626444313",
+      "option_1764626321367",
+      "option_1764627287190",
+      "option_1764627779573"
+    ]
+  },
+  {
+    "Id": "unit_1764615435659",
+    "Name": "Sellswords Infantry",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Thrusting spears",
+        "Halberds",
+        "Great weapons",
+        "Crossbows",
+        "Handguns",
+        "Shields",
+        "Heavy armour",
+        "Officer",
+        "Champion",
+        "Standard Bearer",
+        "Musician"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764615302059"
+    ],
+    "OptionListIds": [
+      "option_1764615461506",
+      "option_1764616008100",
+      "option_1764616034079"
+    ]
+  },
+  {
+    "Id": "unit_1764614371352",
+    "Name": "Veteran Sellswords",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Thrusting spears",
+        "Halberds",
+        "Great weapons",
+        "Crossbows",
+        "Handguns",
+        "Shields",
+        "Heavy armour",
+        "Veteran Officer",
+        "Champion",
+        "Standard Bearer",
+        "Musician"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764614075567"
+    ],
+    "OptionListIds": [
+      "option_1764614759737",
+      "option_1764614873216",
+      "option_1764614831669"
+    ]
+  },
+  {
+    "Id": "unit_1764611811013",
+    "Name": "Renegade Captain",
+    "Attributes": {
+      "category": "Characters",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Great Weapon",
+        "Halberd",
+        "Lance",
+        "Morning Star",
+        "Warbow",
+        "Crossbow",
+        "Pistol",
+        "Brace of Pistols",
+        "Heavy armour",
+        "Full plate armour"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764611828433"
+    ],
+    "OptionListIds": [
+      "option_1764628805778",
+      "option_1764642720520",
+      "option_1764628805779"
+    ]
+  },
+  {
+    "Id": "unit_1764609204788",
+    "Name": "Renegade Prince",
+    "Attributes": {
+      "category": "Characters",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Great Weapon",
+        "Halberd",
+        "Lance",
+        "Morning Star",
+        "Warbow",
+        "Crossbow",
+        "Pistol",
+        "Brace of Pistols",
+        "Heavy armour",
+        "Full plate armour"
+      ],
+      "Keywords": [],
+      "Keywords2": []
+    },
+    "ProfileIds": [
+      "profile_1764610309360"
+    ],
+    "OptionListIds": [
+      "option_1764628805768",
+      "option_1764642698332",
+      "option_1764628896814"
+    ]
+  },
+  {
+    "Id": "68357b916d966c2c1473e5b4",
+    "Name": "Outcast Wizard",
+    "Attributes": {
+      "category": "Characters",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warhorse",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9ca4903b-8553-478c-b670-926124432501",
+      "ea879f7c-7a36-48d2-bf7f-d7b344e0bc43"
+    ],
+    "ProfileIds": [
+      "68357b916d966c2c1473e5b7"
+    ]
+  },
+  {
+    "Id": "68357c0d6d966c2c148a58bf",
+    "Name": "Empire Archers",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Marksman",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9e3499cd-fdde-43be-8344-1ead0db77e83"
+    ],
+    "ProfileIds": [
+      "68357c0d6d966c2c148a58c2"
+    ]
+  },
+  {
+    "Id": "68357c0e6d966c2c148a8c33",
+    "Name": "Free Company Militia",
+    "Attributes": {
+      "category": "Core",
+      "army": "Realms of Man - Renegade Crowns",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Weapon",
+        "Two Hand Weapons",
+        "Militia Leader",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "40365281-8538-4c6d-8930-f38bad6b3f14"
+    ],
+    "ProfileIds": [
+      "68357c0e6d966c2c148a8c37"
+    ]
+  }
+]
