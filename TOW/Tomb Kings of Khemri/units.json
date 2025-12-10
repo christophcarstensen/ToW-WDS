@@ -101,11 +101,11 @@
     "AttributeLists": {
       "FullOptions": [
         "Skeletal Steed",
-        "Necrolith Bone Dragon",
         "Hand Weapon",
-        "Necrolith Bone Dragon",
         "Wicked Claws",
-        "Breath of Dessication"
+        "Breath of Dessication",
+        "Barded Skeletal Steed",
+        "Necrolith Bone Dragon"
       ]
     },
     "RuleIds": {},
@@ -134,7 +134,8 @@
       "FullOptions": [
         "Skeletal Steed",
         "Hand Weapon",
-        "Battle Standard Bearer"
+        "Battle Standard Bearer",
+        "Barded Skeletal Steed"
       ]
     },
     "RuleIds": {},
@@ -192,7 +193,8 @@
         "Cavalry Spear",
         "Hand Weapon",
         "Battle Standard Bearer",
-        "Shield"
+        "Shield",
+        "Barded Skeletal Steed"
       ]
     },
     "RuleIds": {},
@@ -235,7 +237,8 @@
         "Shortbow",
         "Envenomed Sting",
         "Fiery Roar",
-        "Shield"
+        "Shield",
+        "Barded Skeletal Steed"
       ]
     },
     "RuleIds": {},
@@ -272,7 +275,8 @@
         "Flail",
         "Cavalry Spear",
         "Hand Weapon",
-        "Shield"
+        "Shield",
+        "Barded Skeletal Steed"
       ]
     },
     "RuleIds": {},
