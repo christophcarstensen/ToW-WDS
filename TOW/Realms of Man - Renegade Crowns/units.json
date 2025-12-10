@@ -28,7 +28,7 @@
       "army": "Realms of Man - Renegade Crowns",
       "height": "Standard",
       "type": "Regular Infantry",
-      "defaultFront": "10"
+      "defaultFront": "5"
     },
     "AttributeLists": {
       "FullOptions": [
