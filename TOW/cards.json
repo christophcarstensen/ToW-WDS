@@ -1714,5 +1714,75 @@
     "Duration": "",
     "Level": "",
     "PathName": "The Storm Dragon"
+  },
+  {
+    "Id": "maelstrom of chaos/lore of the shadowlands",
+    "Name": "Maelstrom of Chaos",
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1\". Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -3",
+    "Type": "Magic Missile",
+    "CastingValue": "7+",
+    "Range": "15\"",
+    "PathName": "Lore of the Shadowlands"
+  },
+  {
+    "Id": "blackened bolts/lore of the shadowlands",
+    "Name": "Blackened Bolts",
+    "Description": "The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any unit that suffers one or more unsaved wounds from this spell must make a Panic test as if it had taken heavy casualties.",
+    "PathName": "Lore of the Shadowlands",
+    "CastingValue": "8+",
+    "Range": "18\"",
+    "Type": "Magic Missile",
+    "Level": "1"
+  },
+  {
+    "Id": "veil of gloom/lore of the shadowlands",
+    "Name": "Veil Of Gloom",
+    "Description": "Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ Ward save against any wounds suffered that were caused by a template, and a 5+ Ward save against any wounds suffered in the Shooting phase.",
+    "PathName": "Lore of the Shadowlands",
+    "Level": "2",
+    "Range": "15\"",
+    "Duration": "",
+    "CastingValue": "9+",
+    "Type": "Enchantment"
+  },
+  {
+    "Id": "vortex of darkness/lore of the shadowlands",
+    "Name": "Vortex Of Darkness",
+    "Description": "Remains in play. Place a small (3\") blast template so that its central hole is within 15 of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, with no armour saves allowed (Ward and Regeneration saves can be attempted as normal).\n",
+    "PathName": "Lore of the Shadowlands",
+    "Type": "Magical Vortex",
+    "CastingValue": "10+",
+    "Range": "15\"",
+    "Level": "3"
+  },
+  {
+    "Id": "shadowed assailants/lore of the shadowlands",
+    "Name": "Shadowed Assailants",
+    "Description": "A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 hits, with no armour or Regeneration save permitted (Ward saves can be attempted as normal).\n",
+    "PathName": "Lore of the Shadowlands",
+    "Level": "4",
+    "Type": "Assailment",
+    "CastingValue": "8+",
+    "Range": "Combat"
+  },
+  {
+    "Id": "crawling mists/lore of the shadowlands",
+    "Name": "Crawling Mists",
+    "Description": "If this spell is cast with a casting result of 6 or more, a single friendly unit within 6 of the caster gains the Reserve Move special rule. If this spell is cast with a casting result of 9 or more, every friendly unit within 6\" of the caster gains the Reserve Move special rule. This spell lasts until the end of this turn.\n",
+    "PathName": "Lore of the Shadowlands",
+    "Type": "Conveyance",
+    "CastingValue": "6+/9+",
+    "Range": "Self",
+    "Level": "5"
+  },
+  {
+    "Id": "chains of darkness/lore of the shadowlands",
+    "Name": "Chains Of Darkness",
+    "Description": "Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement (to a minimum of 1) and Leadership characteristics (to a minimum of 2).",
+    "PathName": "Lore of the Shadowlands",
+    "Type": "Hex",
+    "CastingValue": "8+",
+    "Range": "18\"",
+    "Level": "6"
   }
 ]
