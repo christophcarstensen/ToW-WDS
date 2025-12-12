@@ -1992,5 +1992,803 @@
         "length": "40"
       }
     }
+  },  
+  {
+    "Id": "68357c036d966c2c14887bd0",
+    "Name": "Captain of the Empire",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d4cc-fe08-c70d-b8a8": "\"Hold The Line!\"",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Captain of the Empire",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },  
+  {
+    "Id": "68357c096d966c2c1489b97f",
+    "Name": "Master Mage",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master Mage",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0a6d966c2c1489d956",
+    "Name": "Priest of Sigmar",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "6f59-f4af-ca65-cab9": "Prayers of Sigmar",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "4e02-aa38-227c-b1e8": "Prayers of Sigmar"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Priest of Sigmar",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "4e02-aa38-227c-b1e8": "Prayers of Sigmar"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0b6d966c2c1489f576",
+    "Name": "Priest of Ulric",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "d1f4-5e82-b7ed-3ad0": "Prayers of Ulric",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "1d21-4a6c-ab02-6c57": "Prayers of Ulric"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Priest of Ulric",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "1d21-4a6c-ab02-6c57": "Prayers of Ulric"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148aa294",
+    "Name": "Sergeant (State Trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "85-9154-7dc1-ddc6": "Thrusting Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sargeant",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "85-9154-7dc1-ddc6": "Thrusting Spear"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148a9f70",
+    "Name": "State Trooper",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "85-9154-7dc1-ddc6": "Thrusting Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "State Trooper",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "85-9154-7dc1-ddc6": "Thrusting Spear"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148a95a5",
+    "Name": "Sergeant (State Missile Trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "1ef1-8579-c310-4fb5": "Crossbow",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sergeant",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "1ef1-8579-c310-4fb5": "Crossbow",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148a924c",
+    "Name": "State Missile Trooper",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "1ef1-8579-c310-4fb5": "Crossbow",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "State Missile Trooper",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "1ef1-8579-c310-4fb5": "Crossbow",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148a8f4a",
+    "Name": "Militia Leader (Militia Fighter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Militia Leader",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0e6d966c2c148a8c37",
+    "Name": "Militia Fighter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Militia Fighter",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0d6d966c2c148a5bda",
+    "Name": "Marksman (Archer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Marksman",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c0d6d966c2c148a58c2",
+    "Name": "Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Archer",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c126d966c2c148b73e7",
+    "Name": "Veteran (Pistolier)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "b8f7-c4e5-2793-bc18": "Grenade launching blunderbuss",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Veteran",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "b8f7-c4e5-2793-bc18": "Grenade launching blunderbuss",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      },
+      {
+        "Name": "Empire Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c126d966c2c148b70ac",
+    "Name": "Pistolier",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pistolier",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      },
+      {
+        "Name": "Empire Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c126d966c2c148b6a5a",
+    "Name": "Sharpshooter (Outrider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "4c62-cdd4-4e0c-4265": "Pistol",
+      "7f58-91d4-ee6c-3cb7": "Repeater handgun"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sharpshooter",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "4c62-cdd4-4e0c-4265": "Pistol",
+          "7f58-91d4-ee6c-3cb7": "Repeater handgun"
+        }
+      },
+      {
+        "Name": "Empire Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c126d966c2c148b6722",
+    "Name": "Outrider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "4c62-cdd4-4e0c-4265": "Pistol",
+      "7f58-91d4-ee6c-3cb7": "Repeater handgun"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Outriders",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "4c62-cdd4-4e0c-4265": "Pistol",
+          "7f58-91d4-ee6c-3cb7": "Repeater handgun"
+        }
+      },
+      {
+        "Name": "Empire Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
   }
 ]
