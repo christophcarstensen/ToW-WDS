@@ -5,7 +5,7 @@
     "Attributes": {
       "totalCost": "485",
       "category": "Named Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -27,7 +27,7 @@
     "Attributes": {
       "totalCost": "45",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -56,7 +56,7 @@
     "Attributes": {
       "totalCost": "80",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -84,7 +84,7 @@
     "Attributes": {
       "totalCost": "65",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -118,7 +118,7 @@
     "Attributes": {
       "totalCost": "175",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "1"
@@ -145,7 +145,7 @@
     "Attributes": {
       "totalCost": "250",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "1"
@@ -172,7 +172,7 @@
     "Attributes": {
       "totalCost": "40",
       "category": "Characters",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -206,7 +206,7 @@
     "Attributes": {
       "totalCost": "20",
       "category": "Core",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Cavalry",
       "defaultFront": "5"
@@ -238,7 +238,7 @@
     "Attributes": {
       "totalCost": "8",
       "category": "Core",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -270,7 +270,7 @@
     "Attributes": {
       "totalCost": "130",
       "category": "Special",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "War Machine",
       "defaultFront": "1"
@@ -297,7 +297,7 @@
     "Attributes": {
       "totalCost": "230",
       "category": "Special",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -320,7 +320,7 @@
     "Attributes": {
       "totalCost": "130",
       "category": "Special",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "War Machine",
       "defaultFront": "1"
@@ -347,7 +347,7 @@
     "Attributes": {
       "totalCost": "20",
       "category": "Special",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Cavalry",
       "defaultFront": "5"
@@ -379,7 +379,7 @@
     "Attributes": {
       "totalCost": "135",
       "category": "Special",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Chariot",
       "defaultFront": "1"
@@ -407,7 +407,7 @@
     "Attributes": {
       "totalCost": "230",
       "category": "Rare",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -430,7 +430,7 @@
     "Attributes": {
       "totalCost": "135",
       "category": "Rare",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Chariot",
       "defaultFront": "1"
@@ -458,7 +458,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -491,7 +491,7 @@
     "Attributes": {
       "totalCost": "300",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -513,7 +513,7 @@
     "Attributes": {
       "totalCost": "50",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -535,7 +535,7 @@
     "Attributes": {
       "totalCost": "8",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -569,7 +569,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -599,7 +599,7 @@
     "Attributes": {
       "totalCost": "115",
       "category": "Mercenaries",
-      "army": "Grand Cathay",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -645,7 +645,7 @@
     "Attributes": {
       "totalCost": "45",
       "category": "Mercenaries",
-      "army": "The Empire of Man",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -693,8 +693,8 @@
     "Name": "Master Mage",
     "Attributes": {
       "totalCost": "60",
-      "category": "Characters",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -722,8 +722,8 @@
     "Name": "Priest of Sigmar",
     "Attributes": {
       "totalCost": "60",
-      "category": "Characters",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -754,8 +754,8 @@
     "Name": "Priest of Ulric",
     "Attributes": {
       "totalCost": "63",
-      "category": "Characters",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -786,8 +786,8 @@
     "Name": "Priest of Sigmar",
     "Attributes": {
       "totalCost": "60",
-      "category": "Characters",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -818,8 +818,8 @@
     "Name": "State Troops",
     "Attributes": {
       "totalCost": "6",
-      "category": "Core",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -851,8 +851,8 @@
     "Name": "State Missile Troops",
     "Attributes": {
       "totalCost": "7",
-      "category": "Core",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -888,8 +888,8 @@
     "Name": "Free Company Militia",
     "Attributes": {
       "totalCost": "6",
-      "category": "Core",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -915,8 +915,8 @@
     "Name": "Empire Archers",
     "Attributes": {
       "totalCost": "7",
-      "category": "Core",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -942,8 +942,8 @@
     "Name": "Pistoliers",
     "Attributes": {
       "totalCost": "16",
-      "category": "Special",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -975,8 +975,8 @@
     "Name": "Outriders",
     "Attributes": {
       "totalCost": "19",
-      "category": "Special",
-      "army": "The Empire of Man",
+      "category": "Mercenaries",
+      "army": "Grand Cathay - Jade Fleet",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
