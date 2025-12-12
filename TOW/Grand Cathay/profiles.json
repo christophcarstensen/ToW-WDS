@@ -1,7 +1,58 @@
 [
   {
     "Id": "6866ef0af0f4ee4feb03553e",
-    "Name": "Miao Ying",
+    "Name": "Miao Ying, Human Form",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "af03-793d-6bbc-5f76": "Celestial Forged Armour (5+)",
+      "955a-ba16-5057-1c10": "Disdain of the Dragons",
+      "609a-2943-a6e1-e002": "General",
+      "f4b3-18af-16bf-78dd": "Hatred (Warriors of Chaos & Daemonic models)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "ace9-f0d5-dcff-3fd4": "Mastery of the Elemental Winds",
+      "0961-1f72-1cf4-5b76": "Mastery of the Storm Winds",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "d0a7-9cb1-086c-03e1": "Supreme Matriarch of Nan-Gau",
+      "8cea-5579-7aed-1e6b": "Transformation of the Dragon",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "1306-cc1f-3581-1a58": "Wrath of the Storm",
+      "3c27-d55d-e778-cb89": "Battle Magic"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Miao Ying, Human Form",
+        "Values": {
+          "M": "4",
+          "WS": "7",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "7",
+          "I": "7",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2594-1ceb-1657-9e16": "Talons of the Storm",
+          "23c4-bd19-2422-ad08": "Rallying Cry (Human Form)"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0af0f4ee4feb03553f",
+    "Name": "Miao Ying, Dragon Form",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -37,7 +88,6 @@
         },
         "RuleIds": {
           "9a1d-38b0-7d7-7552": "Full Plate Armour",
-          "6d4a-7733-d725-a267": "Hand Weapon",
           "2594-1ceb-1657-9e16": "Talons of the Storm",
           "c557-6102-9a35-bbcd": "Fly (9, Dragon form)",
           "c822-7ad0-f24a-e4af": "Large Target (Dragon form)",
@@ -45,33 +95,13 @@
           "dc91-48b3-3696-217": "Swiftstride (Dragon form)",
           "c7a2-35bf-4313-f4f0": "Terror (Dragon form)"
         }
-      },
-      {
-        "Name": "Miao Ying, Human Form",
-        "Values": {
-          "M": "4",
-          "WS": "7",
-          "BS": "5",
-          "S": "4",
-          "T": "4",
-          "W": "7",
-          "I": "7",
-          "A": "4",
-          "Ld": "10"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon",
-          "c56e-8d1b-bb4-de99": "Heavy Armour",
-          "2594-1ceb-1657-9e16": "Talons of the Storm",
-          "23c4-bd19-2422-ad08": "Rallying Cry (Human Form)"
-        }
       }
     ],
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "50",
-        "length": "50"
+        "width": "100",
+        "length": "150"
       }
     }
   },
@@ -1962,7 +1992,7 @@
     "RuleIds": {
       "0d43559d-0096-4f9f-819c-9def07813fb7": "Enough for Everyone",
       "70418e48-f1d9-4e87-bfed-1f8d07415fe4": "Mercenary Crew"
-	},
+    },
     "EquipmentIds": [],
     "OptionListIds": [],
     "Statlines": [
