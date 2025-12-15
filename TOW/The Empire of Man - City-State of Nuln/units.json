@@ -360,10 +360,6 @@
         "Shield",
         "Halberd",
         "Sergeant",
-        "Handgun",
-        "Brace of Pistols",
-        "Hochland Long Rifle",
-        "Repeater Handgun",
         "Shield",
         "Standard Bearer",
         "Musician",
@@ -398,12 +394,10 @@
         "Halberd",
         "Handgun",
         "Sergeant",
-        "Brace of Pistols",
-        "Hochland Long Rifle",
-        "Repeater Handgun",
         "Standard Bearer",
         "Musician",
-        "Champion"
+        "Champion",
+        "Drilled"
       ]
     },
     "RuleIds": {},
