@@ -789,28 +789,6 @@
     ]
   },
   {
-    "Id": "68357c226d966c2c148dcfec",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "The Empire of Man - City-State of Nuln",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357c226d966c2c148dcff5"
-    ]
-  },
-  {
     "Id": "68357c226d966c2c148dd2b1",
     "Name": "Doomseeker",
     "Attributes": {
@@ -830,28 +808,6 @@
     "OptionListIds": [],
     "ProfileIds": [
       "68357c226d966c2c148dd2b7"
-    ]
-  },
-  {
-    "Id": "68357c226d966c2c148dd5c5",
-    "Name": "Doomseeker",
-    "Attributes": {
-      "totalCost": "50",
-      "category": "Mercenaries",
-      "army": "The Empire of Man - City-State of Nuln",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357c226d966c2c148dd5cb"
     ]
   },
   {
@@ -886,40 +842,6 @@
     ],
     "ProfileIds": [
       "68357c226d966c2c148dd8df"
-    ]
-  },
-  {
-    "Id": "68357c236d966c2c148de5bd",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Attributes": {
-      "totalCost": "8",
-      "category": "Mercenaries",
-      "army": "The Empire of Man - City-State of Nuln",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Great Weapon",
-        "Thrusting Spear",
-        "Crossbow",
-        "Handgun",
-        "Shield",
-        "Hand Weapon",
-        "Veteran",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "23e64e8d-047a-433e-b3cf-de255abe3e09",
-      "f58bb3d1-cf4a-4c00-ac5b-3ca70202da67"
-    ],
-    "ProfileIds": [
-      "68357c236d966c2c148de5c3"
     ]
   },
   {

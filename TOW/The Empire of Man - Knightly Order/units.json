@@ -36,23 +36,21 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Pegasus",
-        "Demigryph",
         "Great Weapon",
         "Wolf Hammer",
         "Additional Hand Weapon",
         "Lance",
         "Hand Weapon",
-        "Pegasus",
         "Wicked Claws",
         "Battle Standard Bearer",
         "Shield",
-        "Barded Warhorse"
+        "Barded Warhorse",
+        "Pegasus",
+        "Demigryph"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "592d1dad-cc56-433d-a11c-b03ccac6ab60",
       "6fcb5118-685c-4bcc-8113-d75b975c52ee",
       "2d349c57-e991-419d-8433-7e24d34b8448",
       "ce7ef350-f69e-4173-976d-e99049ac5ae8"
@@ -74,22 +72,20 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Pegasus",
-        "Demigryph",
         "Great Weapon",
         "Wolf Hammer",
         "Additional Hand Weapon",
         "Lance",
         "Hand Weapon",
-        "Pegasus",
         "Wicked Claws",
         "Shield",
-        "Barded Warhorse"
+        "Barded Warhorse",
+        "Demigryph",
+        "Pegasus"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "72097300-1a43-4a6c-9a45-21762a28e17a",
       "dd242c75-4d50-4ac2-94da-75888048bb84",
       "a6859f90-33ee-4fe3-874d-12c4d84dd51c",
       "ec083814-0216-4883-9882-e6de330ffa63"
@@ -813,28 +809,6 @@
     ],
     "ProfileIds": [
       "68357c3b6d966c2c14956b5b"
-    ]
-  },
-  {
-    "Id": "68357c3c6d966c2c1495c2c4",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "The Empire of Man - Knightly Order",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357c3c6d966c2c1495c2cd"
     ]
   },
   {
