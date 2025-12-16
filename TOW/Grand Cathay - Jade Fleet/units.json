@@ -5,7 +5,7 @@
     "Attributes": {
       "totalCost": "485",
       "category": "Named Characters",
-      "army": "Grand Cathay - Jade Fleet",
+      "army": "Grand Cathay",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -16,7 +16,10 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "option_1765544162987",
+      "option_1765544192045"
+    ],
     "ProfileIds": [
       "6866ef0af0f4ee4feb03553e"
     ]
