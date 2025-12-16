@@ -594,24 +594,6 @@
           "6d4a-7733-d725-a267": "Hand Weapon",
           "c56e-8d1b-bb4-de99": "Heavy Armour"
         }
-      },
-      {
-        "Name": "Barded Warhorse",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "3",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "eb5d-bd8a-c75c-66d7": "Barding",
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
       }
     ],
     "Base": {
@@ -1293,24 +1275,6 @@
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon",
           "c56e-8d1b-bb4-de99": "Heavy Armour"
-        }
-      },
-      {
-        "Name": "Barded Warhorse",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "3",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "eb5d-bd8a-c75c-66d7": "Barding",
-          "6d4a-7733-d725-a267": "Hand Weapon"
         }
       }
     ],
@@ -4457,54 +4421,6 @@
       "Size": {
         "width": "40",
         "length": "40"
-      }
-    }
-  },
-  {
-    "Id": "68357c146d966c2c148bb7ca",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {},
-    "AttributeLists": {},
-    "RuleIds": {
-      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
-      "883e-e1b1-4fe9-5912": "Close Order",
-      "93d9-c75b-f655-30ac": "Immune To Psychology",
-      "c822-7ad0-f24a-e4af": "Large Target",
-      "4d1b-2617-ebdc-4f4d": "Mercenaries",
-      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
-      "c7a2-35bf-4313-f4f0": "Terror",
-      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
-      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
-      "dbb2-4d85-84c2-528c": "Light Armour"
-    },
-    "EquipmentIds": [],
-    "OptionListIds": [],
-    "Statlines": [
-      {
-        "Name": "Bonegrinder Giant",
-        "Values": {
-          "M": "6",
-          "WS": "3",
-          "BS": "1",
-          "S": "7",
-          "T": "6",
-          "W": "8",
-          "I": "3",
-          "A": "*",
-          "Ld": "10"
-        },
-        "RuleIds": {
-          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
-          "dbb2-4d85-84c2-528c": "Light Armour"
-        }
-      }
-    ],
-    "Base": {
-      "Shape": "square",
-      "Size": {
-        "width": "50",
-        "length": "100"
       }
     }
   },
