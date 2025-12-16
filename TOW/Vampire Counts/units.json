@@ -34,37 +34,21 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
         "Nightmare",
-        "Skeletal Steed",
-        "Terrorgheist",
         "Hand Weapon",
-        "Mortis Engine",
         "Lance",
-        "Coven Throne",
-        "Abyssal Terror",
         "Wicked Claws",
         "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
-        "Filth-encrusted Talons",
-        "Rancid Maw"
+        "Mortis Engine",
+        "Abyssal Terror"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "75e9a2b0-5356-4f51-a389-99cb622ab55c",
       "65f77d2e-2cad-411a-af02-54217a6f0259",
-      "4f4ed7de-d4c8-4a70-babb-94c798e22587",
       "c025862a-13fc-4f5e-8a83-c35aa384f4bb",
-      "4379b940-c81a-49fa-b440-36b325f97048",
-      "81a87848-4676-42ce-9a12-c8c49add0e37",
-      "c994a86c-39d9-48cc-a041-46aa05d26901",
-      "5d3c2da6-e25e-4628-9bcf-eb9d13b42de9"
+      "81a87848-4676-42ce-9a12-c8c49add0e37"
     ],
     "ProfileIds": [
       "68357c8c6d966c2c14ae4751"
@@ -83,37 +67,16 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
         "Nightmare",
-        "Skeletal Steed",
-        "Terrorgheist",
-        "Hand Weapon",
         "Mortis Engine",
-        "Lance",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Wicked Claws",
-        "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
-        "Filth-encrusted Talons",
-        "Rancid Maw"
+        "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "4bdcda59-3647-4d01-a327-3b13f4d794f0",
       "345165b4-194a-49e8-9343-8bf43ccaf967",
-      "74a89fb8-92ec-4983-ad00-62896d5df82b",
-      "07a82271-9518-4875-8aa9-3c24ba21b100",
-      "f6f690b7-98d9-435d-a1e6-68aba39646ec",
-      "1c67c6d3-a5a9-450a-bacc-a554835806ef",
-      "f3f04b63-8e41-46d6-b852-f3d9f42450d5",
-      "f28ec124-d690-43c0-8654-013182cfcaf1"
+      "1c67c6d3-a5a9-450a-bacc-a554835806ef"
     ],
     "ProfileIds": [
       "68357c8e6d966c2c14ae9c74"
@@ -132,36 +95,15 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
-        "Nightmare",
-        "Skeletal Steed",
-        "Terrorgheist",
         "Hand Weapon",
-        "Mortis Engine",
-        "Lance",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Wicked Claws",
-        "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
         "Filth-encrusted Talons",
-        "Rancid Maw"
+        "Rancid Maw",
+        "Terrorgheist"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "f321536a-70ef-4c36-a1b7-2a31ed70ada0",
-      "ac688458-5af7-432d-b858-f60e88eb98b4",
-      "ad70c8f9-bbd9-40a1-8800-45dc56595e48",
-      "2d3ab13a-4d53-46e6-9f22-5207bf571af4",
-      "66478daa-a09f-4dc4-b4c9-d399817bcb04",
-      "df38349e-18cc-4be3-9c55-a761ba2abe5f",
-      "438598d2-e39a-43f1-8b66-753b481e3ffb",
       "b0a6d52d-0852-4147-9687-96c37c784bb6"
     ],
     "ProfileIds": [
@@ -203,40 +145,27 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
-        "Nightmare",
-        "Skeletal Steed",
-        "Terrorgheist",
         "Additional Hand Weapon",
         "Great Weapon",
         "Lance",
         "Hand Weapon",
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
         "Wicked Claws",
         "Poisonous Tail",
-        "Zombie Dragon",
         "Pestilential breath",
-        "Terrorgheist",
         "Filth-encrusted Talons",
-        "Rancid Maw",
-        "Shield"
+        "Shield",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "ea8815ce-35e8-4761-b785-e7094f443c54",
-      "ffdd0ac3-8201-4701-95c5-ce8db1208d0f",
       "3d8dfa39-a070-4d99-b613-4fc1b025cb15",
       "c4883838-4781-46b6-b79c-ae8ee9a0d44a",
       "bece8c15-b1ca-45d4-a14e-c1762e3238e2",
-      "c944af05-1acd-49c4-9601-be560c254cef",
-      "a91d2f60-f2fb-445d-82aa-6d9d271bd446",
-      "a87c6451-8188-4b15-9be6-f5494888ec08"
+      "c944af05-1acd-49c4-9601-be560c254cef"
     ],
     "ProfileIds": [
       "68357c926d966c2c14af3ffa"
@@ -255,41 +184,22 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
-        "Nightmare",
-        "Skeletal Steed",
-        "Terrorgheist",
         "Battle Standard Bearer",
         "Additional Hand Weapon",
         "Great Weapon",
         "Lance",
         "Hand Weapon",
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
         "Wicked Claws",
-        "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
-        "Filth-encrusted Talons",
-        "Rancid Maw",
-        "Shield"
+        "Shield",
+        "Nightmare",
+        "Coven Throne"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "791ac5e3-8678-4b1c-aa79-796b5c97e0da",
-      "6df66e76-548c-4c6e-8f73-51d45e1287ae",
       "c74fcf4a-e081-4a42-ae2a-d51af5c41d8f",
-      "b765dd19-4005-4e27-aedf-a80b968b92a3",
-      "270c026b-847f-4455-9395-7e451e877622",
-      "9e236f30-599f-4613-91c8-09fd4cde0b6d",
-      "b9706bb4-9a16-4fb1-98b7-1b3c53a0476b",
-      "11688903-020c-4735-894c-4aa4f03cbb73"
+      "9e236f30-599f-4613-91c8-09fd4cde0b6d"
     ],
     "ProfileIds": [
       "68357c946d966c2c14af8d3d"
@@ -308,40 +218,18 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
-        "Nightmare",
         "Skeletal Steed",
-        "Terrorgheist",
         "Additional Hand Weapon",
         "Great Weapon",
         "Lance",
         "Hand Weapon",
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Wicked Claws",
-        "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
-        "Filth-encrusted Talons",
-        "Rancid Maw",
         "Shield"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "cbe2d554-8d82-4c89-a55e-1edbb5dad1a0",
-      "dbffce43-4e96-4b37-8872-31f9d20eb0d0",
-      "d7f03508-7d46-4510-b168-0caaea1b4d3c",
-      "2da07e1f-7c6a-4d3a-9cc8-c3d2af02935a",
-      "24dd0489-eb44-43eb-ac73-5670131a5710",
-      "22575036-1d92-493a-9196-c623e1698c3e",
-      "0c1f941a-f82e-48c3-a5ff-3071d63f7e48",
-      "2b589da2-220f-4c82-a545-7f37d738534a"
+      "0c1f941a-f82e-48c3-a5ff-3071d63f7e48"
     ],
     "ProfileIds": [
       "68357c966d966c2c14afe774"
@@ -360,41 +248,19 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Zombie Dragon",
-        "Nightmare",
         "Skeletal Steed",
-        "Terrorgheist",
         "Battle Standard Bearer",
         "Additional Hand Weapon",
         "Great Weapon",
         "Lance",
         "Hand Weapon",
-        "Mortis Engine",
-        "Coven Throne",
-        "Abyssal Terror",
-        "Wicked Claws",
-        "Poisonous Tail",
-        "Zombie Dragon",
-        "Pestilential breath",
-        "Terrorgheist",
-        "Filth-encrusted Talons",
-        "Rancid Maw",
         "Shield"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "52c0b21c-4d09-49cc-bb04-7fe10e1555fd",
-      "e45b4cc0-972f-4e84-bbbf-62cd9c4a407f",
-      "db6632ea-4825-4962-b3d8-1bf9d4078944",
-      "24cdb0e7-e612-406e-8176-03beca386daa",
-      "66173f8a-6e62-4263-9654-97872e9e944c",
-      "4c3cbcd3-99ae-4936-b1bc-a4687a23a966",
-      "02a0e607-5614-4408-9eca-8f764d1ef28d",
-      "f39a26cd-adda-4c16-a361-824e87718614"
+      "02a0e607-5614-4408-9eca-8f764d1ef28d"
     ],
     "ProfileIds": [
       "68357c986d966c2c14b0344f"
