@@ -1336,28 +1336,6 @@
     ]
   },
   {
-    "Id": "68357b236d966c2c146262de",
-    "Name": "Doomseeker",
-    "Attributes": {
-      "totalCost": "50",
-      "category": "Mercenaries",
-      "army": "Daemons of Chaos",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b236d966c2c146262e4"
-    ]
-  },
-  {
     "Id": "68357b236d966c2c14626652",
     "Name": "Imperial Dwarf Mercenaries",
     "Attributes": {
@@ -1419,52 +1397,6 @@
     ],
     "ProfileIds": [
       "68357b236d966c2c146274ca"
-    ]
-  },
-  {
-    "Id": "68357b246d966c2c14627b60",
-    "Name": "Prince Ulther's Dragon Company",
-    "Attributes": {
-      "totalCost": "115",
-      "category": "Mercenaries",
-      "army": "Daemons of Chaos",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Great Weapon",
-        "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Standard Bearer",
-        "Musician"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "f85d7c11-3a20-4de2-bb22-cd2716f1b4e8",
-      "ff371c94-8313-4b40-84eb-dee4bf215a68"
-    ],
-    "ProfileIds": [
-      "68357b246d966c2c14627b6c",
-      "68357b246d966c2c14627b75",
-      "68357b246d966c2c14627b7e",
-      "68357b246d966c2c14627b87"
     ]
   }
 ]

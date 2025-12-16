@@ -14,22 +14,12 @@
       "FullOptions": [
         "Cold One",
         "Carnosaur",
-        "Terradon",
-        "Ripperdactyl",
-        "Stegadon",
-        "Ancient Stegadon",
         "Additional Hand Weapon",
         "Cavalry Spear",
         "Great Weapon",
         "Halberd",
         "Hand Weapon",
         "Slashing talons",
-        "Terradon",
-        "Ripperdactyl",
-        "Javelin",
-        "Giant Bow",
-        "Giant Blowpipes",
-        "Great horns",
         "Shield"
       ]
     },
@@ -37,11 +27,7 @@
     "OptionListIds": [
       "35b7cbcb-ff21-4025-834b-264690033f27",
       "98cffbc9-8050-43d8-955c-f1d9409fb7a9",
-      "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
-      "de55c052-13be-495e-af24-1d2fd0ce42ff",
-      "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
-      "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
-      "f9c7dfb5-9048-4876-b1e3-f0fe657554f3"
+      "334d77a0-eff6-4ca2-bf06-76077ed6ec8f"
     ],
     "ProfileIds": [
       "68357bb56d966c2c147d1905"
@@ -62,10 +48,6 @@
       "FullOptions": [
         "Cold One",
         "Carnosaur",
-        "Terradon",
-        "Ripperdactyl",
-        "Stegadon",
-        "Ancient Stegadon",
         "Additional Hand Weapon",
         "Cavalry Spear",
         "Great Weapon",
@@ -73,12 +55,6 @@
         "Battle Standard Bearer",
         "Hand Weapon",
         "Slashing talons",
-        "Terradon",
-        "Ripperdactyl",
-        "Javelin",
-        "Giant Bow",
-        "Giant Blowpipes",
-        "Great horns",
         "Shield"
       ]
     },
@@ -86,11 +62,7 @@
     "OptionListIds": [
       "5026d2d5-4a83-4014-b55e-74e1e7eb23fa",
       "dfee1617-11be-4db7-960e-f762f1d36b31",
-      "a4b0b2fa-c380-4d02-87a3-3596e8b161d9",
-      "bd105f36-486c-451e-ba32-884aa598f9a2",
-      "e695449d-ae5d-48dc-abf7-44da5b3df816",
-      "b7e34c4d-4430-49f3-8817-96df2223cdde",
-      "b068f7fb-1bf9-4a1f-b9e1-14b567653d3c"
+      "a4b0b2fa-c380-4d02-87a3-3596e8b161d9"
     ],
     "ProfileIds": [
       "68357bb66d966c2c147d5c4e"
@@ -109,12 +81,6 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Cold One",
-        "Carnosaur",
-        "Terradon",
-        "Ripperdactyl",
-        "Stegadon",
-        "Ancient Stegadon",
         "Additional Hand Weapon",
         "Cavalry Spear",
         "Blowpipe",
@@ -122,23 +88,20 @@
         "Battle Standard Bearer",
         "Hand Weapon",
         "Shield",
-        "Slashing talons",
-        "Terradon",
-        "Ripperdactyl",
         "Giant Bow",
         "Giant Blowpipes",
-        "Great horns"
+        "Great horns",
+        "Terradon",
+        "Stegadon",
+        "Ripperdactyl"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "9fdbf034-0196-401a-aaf9-8f5d131190de",
-      "5294ccfe-3b25-47a3-9eb4-10e0e0604f5f",
-      "123b8cca-4290-4aac-9a55-6b7e6beb487d",
-      "8e9f4c59-4844-4494-956a-1cc10dc2e284",
-      "c3231a54-2c22-4b32-a76e-4b4facb1af08",
       "20a4cdc1-c7f9-49ae-9ada-9956025cffb8",
-      "e79112ab-1aa8-4c21-b470-07e73a3f0658"
+      "8e9f4c59-4844-4494-956a-1cc10dc2e284",
+      "c3231a54-2c22-4b32-a76e-4b4facb1af08"
     ],
     "ProfileIds": [
       "68357bb86d966c2c147daaf6"
@@ -157,17 +120,8 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Cold One",
-        "Carnosaur",
-        "Terradon",
-        "Ripperdactyl",
-        "Stegadon",
         "Ancient Stegadon",
         "Hand Weapon",
-        "Slashing talons",
-        "Terradon",
-        "Ripperdactyl",
-        "Javelin",
         "Giant Bow",
         "Giant Blowpipes",
         "Great horns"
@@ -176,11 +130,6 @@
     "RuleIds": {},
     "OptionListIds": [
       "407f9d6a-c0a9-435e-a4f5-07894193d231",
-      "6075a871-c13f-46fb-8e1c-62fbda57b744",
-      "178a0fa5-e7d4-4bff-8db4-155ef51f3e75",
-      "7875a33c-98ef-4e1b-8ab7-67cf7821fde5",
-      "554cd4d6-5bf7-413d-9068-6d8f7eb1c3ef",
-      "fbdbde19-dc5a-473c-a177-ec2f1bf79b09",
       "a06da511-2e2a-4137-8262-f16703faf8c1"
     ],
     "ProfileIds": [

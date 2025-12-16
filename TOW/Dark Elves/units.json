@@ -906,50 +906,6 @@
     ]
   },
   {
-    "Id": "68357b366d966c2c1465c211",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Dark Elves",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b366d966c2c1465c21a"
-    ]
-  },
-  {
-    "Id": "68357b366d966c2c1465c434",
-    "Name": "Doomseeker",
-    "Attributes": {
-      "totalCost": "50",
-      "category": "Mercenaries",
-      "army": "Dark Elves",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b366d966c2c1465c43a"
-    ]
-  },
-  {
     "Id": "68357b366d966c2c1465c6a6",
     "Name": "Imperial Dwarf Mercenaries",
     "Attributes": {
@@ -981,82 +937,6 @@
     ],
     "ProfileIds": [
       "68357b366d966c2c1465c6ac"
-    ]
-  },
-  {
-    "Id": "68357b366d966c2c1465d102",
-    "Name": "Imperial Ogres",
-    "Attributes": {
-      "totalCost": "31",
-      "category": "Mercenaries",
-      "army": "Dark Elves",
-      "height": "Standard",
-      "type": "Monstrous Infantry",
-      "defaultFront": "3"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Ogre Captain",
-        "Light cannon",
-        "Ogre pistol",
-        "Great Weapon",
-        "Morning Star",
-        "Hand Weapon",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "423dc52d-2174-40a1-b6ac-1a674d92e421"
-    ],
-    "ProfileIds": [
-      "68357b366d966c2c1465d116"
-    ]
-  },
-  {
-    "Id": "68357b376d966c2c1465d5a8",
-    "Name": "Prince Ulther's Dragon Company",
-    "Attributes": {
-      "totalCost": "115",
-      "category": "Mercenaries",
-      "army": "Dark Elves",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Great Weapon",
-        "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Standard Bearer",
-        "Musician"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "ad0311d1-343b-4371-9250-9ec643ce88fe",
-      "32a6e372-d610-481e-bfce-746c06890637"
-    ],
-    "ProfileIds": [
-      "68357b376d966c2c1465d5b4",
-      "68357b376d966c2c1465d5bd",
-      "68357b376d966c2c1465d5c6",
-      "68357b376d966c2c1465d5cf"
     ]
   }
 ]

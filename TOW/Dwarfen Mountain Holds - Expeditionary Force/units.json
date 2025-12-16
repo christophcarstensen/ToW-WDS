@@ -638,28 +638,6 @@
     ]
   },
   {
-    "Id": "68357b476d966c2c1467e3cf",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Expeditionary Force",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b476d966c2c1467e3d8"
-    ]
-  },
-  {
     "Id": "68357b476d966c2c1467e926",
     "Name": "Doomseeker",
     "Attributes": {

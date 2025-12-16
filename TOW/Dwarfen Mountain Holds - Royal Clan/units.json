@@ -349,7 +349,7 @@
       "5e839955-2c2b-4a53-92d6-6d190dc1fdeas"
     ],
     "ProfileIds": [
-      "68357b4c6d966c2c1468a403",      
+      "68357b4c6d966c2c1468a403",
       "68357b4c6d966c2c1468a403g"
     ]
   },
@@ -612,28 +612,6 @@
     ],
     "ProfileIds": [
       "68357b4f6d966c2c1468f926"
-    ]
-  },
-  {
-    "Id": "68357b506d966c2c1469113f",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Royal Clan",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b506d966c2c14691148"
     ]
   },
   {

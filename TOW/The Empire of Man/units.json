@@ -108,19 +108,17 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Barded Warhorse",
-        "Pegasus",
         "Demigryph",
         "Great Weapon",
         "Wolf Hammer",
         "Additional Hand Weapon",
         "Lance",
-        "Barded Warhorse",
         "Hand Weapon",
-        "Pegasus",
         "Wicked Claws",
         "Battle Standard Bearer",
-        "Shield"
+        "Shield",
+        "Barded Warhorse",
+        "Pegasus"
       ]
     },
     "RuleIds": {},
@@ -235,18 +233,16 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Barded Warhorse",
-        "Pegasus",
         "Demigryph",
         "Great Weapon",
         "Wolf Hammer",
         "Additional Hand Weapon",
         "Lance",
-        "Barded Warhorse",
         "Hand Weapon",
-        "Pegasus",
         "Wicked Claws",
-        "Shield"
+        "Shield",
+        "Pegasus",
+        "Barded Warhorse"
       ]
     },
     "RuleIds": {},

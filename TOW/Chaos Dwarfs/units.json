@@ -760,50 +760,6 @@
     ]
   },
   {
-    "Id": "68357b156d966c2c1460c9e7",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Chaos Dwarfs",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b156d966c2c1460c9f0"
-    ]
-  },
-  {
-    "Id": "68357b166d966c2c1460ccc4",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Chaos Dwarfs",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b166d966c2c1460cccd"
-    ]
-  },
-  {
     "Id": "68357b166d966c2c1460cfa1",
     "Name": "Doomseeker",
     "Attributes": {
@@ -823,40 +779,6 @@
     "OptionListIds": [],
     "ProfileIds": [
       "68357b166d966c2c1460cfa7"
-    ]
-  },
-  {
-    "Id": "68357b166d966c2c1460d2cd",
-    "Name": "Imperial Dwarf Mercenaries",
-    "Attributes": {
-      "totalCost": "8",
-      "category": "Mercenaries",
-      "army": "Chaos Dwarfs",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Great Weapon",
-        "Thrusting Spear",
-        "Crossbow",
-        "Handgun",
-        "Shield",
-        "Hand Weapon",
-        "Veteran",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "1b4473fd-632c-4a27-a5e8-fac20c8bbd74",
-      "490fffd4-012a-43d6-aa49-444bdcf63c95"
-    ],
-    "ProfileIds": [
-      "68357b166d966c2c1460d2d3"
     ]
   },
   {
@@ -887,52 +809,6 @@
     ],
     "ProfileIds": [
       "68357b166d966c2c1460e025"
-    ]
-  },
-  {
-    "Id": "68357b176d966c2c1460e62b",
-    "Name": "Prince Ulther's Dragon Company",
-    "Attributes": {
-      "totalCost": "115",
-      "category": "Mercenaries",
-      "army": "Chaos Dwarfs",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Great Weapon",
-        "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Standard Bearer",
-        "Musician"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "855be077-e4d5-4bbd-8777-4855e00a8e87",
-      "52c2a22b-1179-458a-9eee-48090f365ce7"
-    ],
-    "ProfileIds": [
-      "68357b176d966c2c1460e637",
-      "68357b176d966c2c1460e640",
-      "68357b176d966c2c1460e649",
-      "68357b176d966c2c1460e652"
     ]
   }
 ]
