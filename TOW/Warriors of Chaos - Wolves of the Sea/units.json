@@ -183,7 +183,9 @@
         "Lance",
         "Hand Weapon",
         "Battle Standard Bearer",
-        "Shield"
+        "Shield",
+        "Manticore",
+        "Chaos Dragon"
       ]
     },
     "RuleIds": {},
@@ -193,7 +195,9 @@
       "5996ebee-6d73-46be-8367-be719fdd5b66",
       "cd08e797-8815-46df-871e-102c1453e233",
       "8a621d10-6286-47a6-afc1-555f56de27c0",
-      "0651bc94-9508-432a-b59f-f4f0186aa11c"
+      "0651bc94-9508-432a-b59f-f4f0186aa11c",
+      "option_1765930422022",
+      "option_1765930442970"
     ],
     "ProfileIds": [
       "68357cc76d966c2c14b6f242"

@@ -478,5 +478,21 @@
     "OwnerId": "68357cac6d966c2c14b33189",
     "WDSDataId": "68357cab6d966c2c14b328fhandler",
     "StatlineIndex": "0"
+  },
+  {
+    "Id": "option_1765930113928",
+    "Name": "Manticore",
+    "Type": "Mount",
+    "OwnerId": "68357ca76d966c2c14b25c5b",
+    "WDSDataId": "6abfd212-476f-4b44-a8ba-190e678314a5",
+    "StatlineIndex": ""
+  },
+  {
+    "Id": "option_1765930141910",
+    "Name": "Chaos Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357ca76d966c2c14b25c5b",
+    "WDSDataId": "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52",
+    "StatlineIndex": ""
   }
 ]
