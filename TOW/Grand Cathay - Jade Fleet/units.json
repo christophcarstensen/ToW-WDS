@@ -12,7 +12,9 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Hand Weapon"
+        "Hand Weapon",
+        "Miao Ying, Human Form",
+        "Miao Ying, Dragon Form"
       ]
     },
     "RuleIds": {},
@@ -283,13 +285,13 @@
         "Grand Cannon",
         "Hand Weapon",
         "Gunpowder Bombs",
-		"Ogre Loader"
+        "Ogre Loader"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "588159b2-378e-45a8-b1dc-588a3e8a5e39"
-	],
+    ],
     "ProfileIds": [
       "6866ef0ef0f4ee4feb042792"
     ]
@@ -333,13 +335,13 @@
         "Fire Rain Rocket",
         "Hand Weapon",
         "Gunpowder Bombs",
-		"Ogre Loader"
+        "Ogre Loader"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "c05556a2-64cb-49da-bc15-da8caeab46db"
-	],
+    ],
     "ProfileIds": [
       "6866ef0ff0f4ee4feb042b72"
     ]

@@ -1992,7 +1992,7 @@
     "RuleIds": {
       "0d43559d-0096-4f9f-819c-9def07813fb7": "Enough for Everyone",
       "70418e48-f1d9-4e87-bfed-1f8d07415fe4": "Mercenary Crew"
-	},
+    },
     "EquipmentIds": [],
     "OptionListIds": [],
     "Statlines": [
@@ -2022,7 +2022,7 @@
         "length": "40"
       }
     }
-  },  
+  },
   {
     "Id": "68357c036d966c2c14887bd0",
     "Name": "Captain of the Empire",
@@ -2063,7 +2063,7 @@
         "length": "25"
       }
     }
-  },  
+  },
   {
     "Id": "68357c096d966c2c1489b97f",
     "Name": "Master Mage",

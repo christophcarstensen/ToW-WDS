@@ -12,7 +12,9 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Hand Weapon"
+        "Hand Weapon",
+        "Miao Ying, Human Form",
+        "Miao Ying, Dragon Form"
       ]
     },
     "RuleIds": {},
