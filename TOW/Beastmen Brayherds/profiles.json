@@ -3240,6 +3240,54 @@
     }
   },
   {
+    "Id": "6847dd647e64980f6761ff6b",
+    "Name": "Preyton",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "988d-7383-6ad8-b25d": "Crown of Antlers",
+      "c8a8-9dd9-7b0c-54cf": "Endless Malice",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "4705-90b5-671c-2f5c": "Twisted Antlers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Preyton",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "5",
+          "A": "4",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "4705-90b5-671c-2f5c": "Twisted Antlers"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "75",
+        "length": "50"
+      }
+    }
+  },
+  {
     "Id": "68357b086d966c2c145e35c0",
     "Name": "Bonegrinder Giant",
     "Attributes": {},

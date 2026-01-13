@@ -982,6 +982,30 @@
     ]
   },
   {
+    "Id": "6847dd647e64980f6761ff63",
+    "Name": "Preyton",
+    "Attributes": {
+      "totalCost": "160",
+      "category": "Special",
+      "army": "Beastmen Brayherds - Wild Herd",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Frenzy",
+        "Twisted Antlers",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6847dd647e64980f6761ff6b"
+    ]
+  },
+  {
     "Id": "68357b086d966c2c145e35b8",
     "Name": "Bonegrinder Giant",
     "Attributes": {

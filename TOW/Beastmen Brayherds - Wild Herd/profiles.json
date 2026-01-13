@@ -2308,8 +2308,8 @@
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "50",
-        "length": "75"
+        "width": "75",
+        "length": "50"
       }
     }
   },
