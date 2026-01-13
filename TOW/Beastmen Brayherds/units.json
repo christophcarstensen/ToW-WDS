@@ -987,10 +987,10 @@
     "Attributes": {
       "totalCost": "160",
       "category": "Special",
-      "army": "Beastmen Brayherds - Wild Herd",
+      "army": "Beastmen Brayherds",
       "height": "Standard",
       "type": "Monstrous Creature",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [

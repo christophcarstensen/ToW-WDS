@@ -600,7 +600,7 @@
       "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Creature",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
