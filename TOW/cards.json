@@ -749,7 +749,7 @@
     "Type": "Magic Missile",
     "Attributes": {},
     "Description": "The target enemy unit suffers 5D6 Strength 1 hits with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
-    "CastingValue": "8+",
+    "CastingValue": "9+",
     "Range": "15\"",
     "Duration": "",
     "Level": "",

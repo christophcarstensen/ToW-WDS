@@ -362,7 +362,7 @@
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "dc91-48b3-3696-217": "Swiftstride",
       "26cd-4c1b-a55b-93a": "Sworn Protector",
-      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "6d4a-7733-d725-a267": "Hand Weapon"
     },
     "EquipmentIds": [],
@@ -382,7 +382,7 @@
           "Ld": "-"
         },
         "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
           "6d4a-7733-d725-a267": "Hand Weapon"
         }
       },
@@ -533,7 +533,7 @@
       "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "dc91-48b3-3696-217": "Swiftstride",
-      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "6d4a-7733-d725-a267": "Hand Weapon"
     },
     "EquipmentIds": [],
@@ -553,7 +553,7 @@
           "Ld": "-"
         },
         "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
           "6d4a-7733-d725-a267": "Hand Weapon"
         }
       },
@@ -849,7 +849,7 @@
       "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "dc91-48b3-3696-217": "Swiftstride",
-      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "6d4a-7733-d725-a267": "Hand Weapon"
     },
     "EquipmentIds": [],
@@ -869,7 +869,7 @@
           "Ld": "-"
         },
         "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
           "6d4a-7733-d725-a267": "Hand Weapon"
         }
       },
@@ -1256,7 +1256,7 @@
       "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "dc91-48b3-3696-217": "Swiftstride",
-      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "5f1c-fd04-b0d5-d5e": "Champion",
       "6d4a-7733-d725-a267": "Hand Weapon",
       "ee75-c1a8-2f0c-c264": "Cavalry Spear",
@@ -1345,7 +1345,7 @@
       "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "dc91-48b3-3696-217": "Swiftstride",
-      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "6d4a-7733-d725-a267": "Hand Weapon",
       "ee75-c1a8-2f0c-c264": "Cavalry Spear",
       "d6b8-1ad9-d024-1d72": "Warbow"
@@ -1367,7 +1367,7 @@
           "Ld": "-"
         },
         "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
           "6d4a-7733-d725-a267": "Hand Weapon"
         }
       },

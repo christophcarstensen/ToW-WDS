@@ -1679,7 +1679,7 @@
       "32f7-8e30-3fe8-b11e": "Shieldwall",
       "4022-c403-b083-ba83": "Veteran",
       "505f-e12d-2e36-31d0": "Warband",
-      "6143-47b6-82dd-978" : "Grail Monk"
+      "6143-47b6-82dd-978": "Grail Monk"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -2535,7 +2535,8 @@
       "d3eb-1fa0-bb19-f390": "Unbreakable",
       "691e-10ec-4f7c-a2c4": "Vanguard",
       "133a-a421-c52f-e33f": "Whirlwind of Death",
-      "6d4a-7733-d725-a267": "Hand Weapon"
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "59a5-7eca-ee35-96ac": "Skirmishers"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -3115,7 +3116,7 @@
       "8cc3-d6f5-da17-6600": "Levies",
       "36a8-2e1e-31ba-afae": "Peasantry",
       "6e4e-5dbf-b254-52b7": "Grail Reliquae",
-      "f128-f8cd-3184-ff0" : "Retinue of the Saints",
+      "f128-f8cd-3184-ff0": "Retinue of the Saints",
       "e351-bbd6-f470-b604": "Stubborn"
     },
     "EquipmentIds": [],

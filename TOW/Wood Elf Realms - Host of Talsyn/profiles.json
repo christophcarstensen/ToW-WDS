@@ -101,7 +101,6 @@
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
-      "5ec9-a98-d8c5-e18b": "Fear",
       "3b0c-a477-8823-3a25": "Frenzy",
       "f4b3-18af-16bf-78dd": "Hatred (Beastman Brayherds)",
       "93d9-c75b-f655-30ac": "Immune To Psychology",
@@ -1553,7 +1552,8 @@
       "73e-df40-cff9-91af": "Tree Spirit",
       "5f1c-fd04-b0d5-d5e": "Champion",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour"
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "74ea-d296-5fa6-b617": "Armour Bane (X)"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -1561,7 +1561,7 @@
       {
         "Name": "Nymph",
         "Values": {
-          "M": "5",
+          "M": "6",
           "WS": "4",
           "BS": "4",
           "S": "3",
@@ -1604,7 +1604,8 @@
       "e351-bbd6-f470-b604": "Stubborn",
       "73e-df40-cff9-91af": "Tree Spirit",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour"
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "74ea-d296-5fa6-b617": "Armour Bane (X)"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -1612,7 +1613,7 @@
       {
         "Name": "Dryads",
         "Values": {
-          "M": "5",
+          "M": "6",
           "WS": "4",
           "BS": "4",
           "S": "3",

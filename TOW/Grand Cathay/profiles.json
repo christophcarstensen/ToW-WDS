@@ -117,7 +117,6 @@
     "RuleIds": {
       "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
       "5186-798d-69d-6545": "Counter Charge",
-      "785a-2886-af42-dce9": "First Charge",
       "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
       "dc91-48b3-3696-217": "Swiftstride",
       "50d1-e83d-685e-7c94": "Will of the Dragons",
@@ -207,7 +206,6 @@
     "RuleIds": {
       "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
       "5186-798d-69d-6545": "Counter Charge",
-      "785a-2886-af42-dce9": "First Charge",
       "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
       "dc91-48b3-3696-217": "Swiftstride",
       "50d1-e83d-685e-7c94": "Will of the Dragons",
@@ -308,12 +306,11 @@
       "c822-7ad0-f24a-e4af": "Large Target",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "fe5e-8838-7fbd-a7ec": "Scouts",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
       "50d1-e83d-685e-7c94": "Will of the Dragons",
       "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "5f1c-fd04-b0d5-d5e": "Champion"
+      "8f64-6d4c-466b-1b94": "Flammable"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -325,7 +322,7 @@
           "WS": "-",
           "BS": "-",
           "S": "5",
-          "T": "5",
+          "T": "4",
           "W": "(+7)",
           "I": "-",
           "A": "-",
@@ -591,12 +588,11 @@
       "c822-7ad0-f24a-e4af": "Large Target",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "fe5e-8838-7fbd-a7ec": "Scouts",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
       "50d1-e83d-685e-7c94": "Will of the Dragons",
       "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "5f1c-fd04-b0d5-d5e": "Champion"
+      "8f64-6d4c-466b-1b94": "Flammable"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -608,7 +604,7 @@
           "WS": "-",
           "BS": "-",
           "S": "5",
-          "T": "5",
+          "T": "4",
           "W": "(+7)",
           "I": "-",
           "A": "-",
@@ -1223,11 +1219,10 @@
       "c822-7ad0-f24a-e4af": "Large Target",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "fe5e-8838-7fbd-a7ec": "Scouts",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
       "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "5f1c-fd04-b0d5-d5e": "Champion"
+      "8f64-6d4c-466b-1b94": "Flammable"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -1364,11 +1359,10 @@
       "c822-7ad0-f24a-e4af": "Large Target",
       "1f10-d7d-be19-7e8f": "Reserve Move",
       "fe5e-8838-7fbd-a7ec": "Scouts",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
       "e099-1ebb-9e85-34c8": "Armour Value : 4+",
       "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
       "6d4a-7733-d725-a267": "Hand Weapon",
-      "5f1c-fd04-b0d5-d5e": "Champion"
+      "8f64-6d4c-466b-1b94": "Flammable"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -1380,7 +1374,7 @@
           "WS": "-",
           "BS": "-",
           "S": "5",
-          "T": "5",
+          "T": "4",
           "W": "7",
           "I": "-",
           "A": "-",
