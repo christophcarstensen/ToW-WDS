@@ -4382,7 +4382,7 @@
   {
     "Id": "7023-b768-38ec-27d9",
     "Name": "Crown of Horns",
-    "Type": "General",
+    "Type": "Equipment",
     "Description": "Description: Characters only. This character and any unit they have joined gains the Stubborn special rule."
   },
   {
@@ -13838,187 +13838,187 @@
   {
     "Id": "rule_1769686196801",
     "Name": "The Monkey King's Wisdom",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\t\nS: 10\nAP: -4\t\n\nSpecial Rules: Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last"
   },
   {
     "Id": "rule_1769686312195",
     "Name": "Jade Blade of the Great Fleet",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\t\nS: S+2\nAP: -2\n\nSpecial Rules:, Armour Bane (1), Magical Attacks, Regeneration (5+)\n\nNotes: The wielder of the Jade Blade of the Great Fleet gains the Regeneration (5+) special rule."
   },
   {
     "Id": "rule_1769686442585",
     "Name": "Spirit Longma Spear",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S+1\nAP: -3\n\nSpecial Rules: Magical Attacks, Armour Bane (1)\n\nNotes: Models whose troop type is cavalry, monster or chariot only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged."
   },
   {
     "Id": "rule_1769686535383",
     "Name": "Sun & Moon Blades",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S\t\nAP: -1\n\nSpecial Rules: Extra Attacks (+1), Magical Attacks, Requires Two Hands\n\nNotes: If the wielder of the Sun & Moon Blades is struck a Killing Blow, roll a D6. On a roll of 4+, the Killing Blow is parried and the Killing Blow is discarded with no further effect."
   },
   {
     "Id": "rule_1769686958547",
     "Name": "The Sword of Reason",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Killing Blow, Magical Attacks, Requires Two Hands\n\nNotes: The wielder of the Sword of Reason strikes a Killing Blow if they roll a natural 5 or 6 when making a roll To Wound, rather than the usual 6."
   },
   {
     "Id": "rule_1769687054745",
     "Name": "The Brazen Blade",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S+1\nAP: -1\n\nSpecial Rules: Magical Attacks, Multiple Wounds (2)\n\nNotes: Enemy models are not permitted a Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound."
   },
   {
     "Id": "rule_1769687232178",
     "Name": "The Wrath of Xen Yang",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S+1\nAP: -1\n\nSpecial Rules: Amour Bane (1), Flaming Attacks, Magical Attacks\n\nNotes: Enemy models cannot make Regeneration saves against a wound caused by this weapon."
   },
   {
     "Id": "rule_1769687291041",
     "Name": "The Sword of Nan-Gau",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "R: Combat\nS: S\nAP: -3\n\nSpecial Rules: Hatred (Warriors of Chaos), Magical Attacks"
   },
   {
     "Id": "rule_1769693215687",
     "Name": "The Armour of the Warbird",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Models whose troop type is regular infantry or heavy infantry only. The Armour of the Warbird is a suit of heavy armour. In addition, the wearer gains the Counter Charge, Fly (9) and Swiftstride special rules. However, the bearer cannot join a unit."
   },
   {
     "Id": "rule_1769693241006",
     "Name": "Shield of Nan-Gau",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The Shield of Nan-Gau is a shield. In addition, during a turn in which its bearer was charged, the Shield of Nan-Gau improves its bearer's armour value by 2 (to a maximum of 2+)."
   },
   {
     "Id": "rule_1769693383712",
     "Name": "Jade Armour of Beichai",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The Jade Armour of Beichai is a suit of full plate armour. In addition, the wearer of the Jade Armour has a 5+ Ward save against any wounds suffered and gains the Magic Resistance (-2) special rule."
   },
   {
     "Id": "rule_1769693402895",
     "Name": "The Mantle of Heaven",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Models whose troop type is infantry or cavalry only. May be worn with other armour. The wearer of the Mantle of Heaven improves their armour value by 2 (to a maximum of 2+) against non-magical shooting attacks."
   },
   {
     "Id": "rule_1769693463585",
     "Name": "Crystal of Kunlan",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The Crystal of Kunlan gives its bearer a 5+ Ward save against any wounds suffered. In addition, if a natural 6 is rolled when making the Ward save, every enemy model in base contact with the bearer suffers a Strength 3 hit with an AP of -. These attacks have the Flaming Attacks special rule."
   },
   {
     "Id": "rule_1769693615231",
     "Name": "Standard of Wei-Jin",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "A unit carrying the Standard of Wei-jin causes Fear. In addition, all enemy units within 12\" of the model carrying the Standard of Wei-jin suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test."
   },
   {
     "Id": "rule_1769693643004",
     "Name": "Crown of Jade",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The Crown of Jade gives its wearer a 4+ Ward save against any wounds suffered that were caused by a Magic Missile, a Magical Vortex, or an Assailment spell."
   },
   {
     "Id": "rule_1769693651088",
     "Name": "Icon of Heavenly Fury",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of this banner may attempt to unleash its power by making a Leadership test (using their own unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule."
   },
   {
     "Id": "rule_1769693729136",
     "Name": "Dragon's Eye Banner",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "When an enemy Wizard chooses a unit carrying the Dragon's Eye Banner as the target of a spell, roll a D6. On a 3+, the Wizard's controlling player must choose another target.On a 4+, the Wizard’s controlling player must choose another target."
   },
   {
     "Id": "rule_1769693771522",
     "Name": "Banner of the Bastion",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "A unit carrying the Banner of the Bastion gains the Shieldwall special rules."
   },
   {
     "Id": "rule_1769693797906",
     "Name": "Maw Shard",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "If an enemy Wizard rolls any natural double when making a Casting roll whilst within 18\" of the bearer of the Maw Shard, the spell is miscast, regardless of the casting result."
   },
   {
     "Id": "rule_1769693822610",
     "Name": "Alchemist's Mask",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The wearer of the Alchemist’s Mask can cast the Plague of Rust spell from the Lore of Elementalism (see page 327 of the\nWarhammer: the Old World rulebook) as a Bound spell, with a Power Level of 1."
   },
   {
     "Id": "rule_1769693878931",
     "Name": "Spirit Lantern",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "A model carrying a Spirit Lantern causes Terror. In addition, a model carrying a Spirit Lantern may re-roll any rolls To Wound of a natural 1 against enemy models that are 'Daemonic' or 'Undead'."
   },
   {
     "Id": "rule_1769693932176",
     "Name": "Sigil of Smoke & Powder",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier."
   },
   {
     "Id": "rule_1769693953714",
     "Name": "Banner of the Dragon's Wrath",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "A unit carrying the Banner of the Dragon's Wrath gains the Flaming Attacks and Impact Hits (1) special rules."
   },
   {
     "Id": "rule_1769693974581",
     "Name": "Vermilion Quills",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "0-1 per model. Single Use. The bearer of a Vermilion Quill (but not their mount) can re-roll any failed rolls To Hit and/or To Wound made during the Combat phase."
   },
   {
     "Id": "rule_1769693980931",
     "Name": "The Jade Banner",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "When calculating its combat result, a unit carrying the Jade Banner may claim an additional bonus of +2 combat result points."
   },
   {
     "Id": "rule_1769694011274",
     "Name": "The Shroud of Shiyama",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "A unit carrying the Shroud of Shiyama gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule."
   },
   {
     "Id": "rule_1769694029132",
     "Name": "The Banner of Xen Wun",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Enemy units that wish to declare a Stand & Shoot or Fire & Flee charge reaction against a unit carrying the Banner of Xen Wun must first make a Leadership test. If this test is passed, they may declare a Stand & Shoot or Fire & Flee charge reaction. If this test is failed, they must Hold instead."
   },
   {
     "Id": "rule_1769694036335",
     "Name": "Cloak of Po Mei",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "In addition to their randomly generated spells, the wearer of the Cloak of Po Mei knows all three spells from the Lore of Yin or the Lore of Yang (chosen by their controlling player). However, they can only cast a number of spells equal to their Level of Wizardry per turn."
   },
   {
     "Id": "rule_1769694099417",
     "Name": "Guardian Feng Shi Bo",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Any enemy model that directs its attacks against the owner of a Guardian Feng Shi Bo during the Combat phase suffers a -1 modifier to its rolls To Hit."
   },
   {
     "Id": "rule_1769694118599",
     "Name": "Learned Feng Shi Bo",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The owner of a Learned Feng Shi Bo knows one more spell (chosen in the usual way) than is normal for their Level of Wizardry.\n\nNote that this does not increase the Wizard's Level."
   },
   {
     "Id": "rule_1769694140714",
     "Name": "Ring of Jet",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The wielder of the Ring of Jet can cast the Unquiet Spirits spell from the Lore of Necromancy (see page 333 of the\nWarhammer: the Old World rulebook) as a Bound Spell, with a Power Level of 1.’\n"
   },
   {
@@ -14036,31 +14036,31 @@
   {
     "Id": "rule_1769694383108",
     "Name": "Golden Lion",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The bearer of the Golden Lion and their unit may re-roll any failed Fear, Panic, Rally or Terror test."
   },
   {
     "Id": "rule_1769694406206",
     "Name": "The Fires of Nan-Gau",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "0-1 per model. Single Use. The Fires of Nan-Gau is a breath weapon with the following profile:\n\nR: N/A\nS: 4\nAP: -2\n\nSpecial Rules: Breath Weapon, Flaming Attacks, Magical Attacks"
   },
   {
     "Id": "rule_1769694488721",
     "Name": "Clockwork Compass",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "Single use. The bearer may use this item instead of making a Wizardly dispel attempt. If they do so, the spell is automatically dispelled with no Dispel roll required. In addition, all Remains in Play spells currently in play are dispelled, including spells cast by friendly Wizards."
   },
   {
     "Id": "rule_1769694504498",
     "Name": "Seal of Xing Po",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "0-1 per model. If you wish, the bearer of a Seal of Xing Po may discard two of their randomly generated spells (rather than the usual one) and instead select two signature spells from either the Lore of Yang or the Lore of Yin (determined by which of those two special rules they have)."
   },
   {
     "Id": "rule_1769694524610",
     "Name": "Scrolls of Wei-jin",
-    "Type": "Global",
+    "Type": "Equipment",
     "Description": "The bearer of the Scrolls of Wei-jin knows one more spell (chosen in the usual way) than is normal for their Level of Wizardry. However, they can only cast a number of spells equal to their Level of Wizardry per turn."
   },
   {
