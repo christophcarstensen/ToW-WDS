@@ -2234,8 +2234,8 @@
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "25",
-        "length": "25"
+        "width": "30",
+        "length": "30"
       }
     }
   },
@@ -2275,8 +2275,8 @@
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "25",
-        "length": "25"
+        "width": "30",
+        "length": "30"
       }
     }
   },

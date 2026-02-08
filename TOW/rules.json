@@ -13560,22 +13560,10 @@
     "Description": "R: 36\"\nS: 6\nAP: -2\nSpecial Rules: Armour Bane (2), Cumbersome\nNotes: \n"
   },
   {
-    "Id": "9eca-5650-4f78-32be",
-    "Name": "Lore of Yang",
-    "Type": "Global",
-    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
-  },
-  {
     "Id": "7c73-2f69-0462-4857",
     "Name": "Iron Talons",
     "Type": "Equipment",
     "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Strike First\nNotes: \n"
-  },
-  {
-    "Id": "19f5-926f-38ec-f9a4",
-    "Name": "Lore of Yang",
-    "Type": "Equipment",
-    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
   },
   {
     "Id": "7056-0a8f-b809-d25a",
@@ -14080,5 +14068,113 @@
     "Name": "Feint & Dodge",
     "Type": "Global",
     "Description": "Once per game, when an enemy model directs its attacks against a model with this special rule, you may make that enemy model re-roll its successful rolls To Hit."
+  },
+  {
+    "Id": "rule_1770546560217",
+    "Name": "Cackling Blade",
+    "Type": "General",
+    "Description": "R: Combat\t\nS: S+1\nAP: -1\t\nSpecial Rules: Extra Attacks (+D6), Magical Attacks\n\nNotes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Cackling Blade immediately loses a single Wound."
+  },
+  {
+    "Id": "rule_1770546683793",
+    "Name": "Meteor Hammer",
+    "Type": "General",
+    "Description": "R: Combat\nS: S\nAP: -3\nSpecial Rules: Magical Attacks, Requires Two Hands\n\nNotes: When making a roll To Wound with this weapon, a roll of a 3+ is always a success, regardless of the target's Toughness."
+  },
+  {
+    "Id": "rule_1770546747112",
+    "Name": "Hell-forged Axe",
+    "Type": "General",
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (3), Flaming Attacks, Magical Attacks\n"
+  },
+  {
+    "Id": "rule_1770546804804",
+    "Name": "Sword of Sorrow",
+    "Type": "General",
+    "Description": "R: 30\"\nS: 5\nAP: \t-1\nSpecial Rules: Armour Bane (2), Magical Attacks, Multiple Wounds (2)\n\nNotes: The Sword of Sorrow is a missile weapon; it cannot be used in combat. No Ward or Regeneration saves are permitted against wounds caused by the Sword of Sorrow."
+  },
+  {
+    "Id": "rule_1770546862060",
+    "Name": "Levitating Shield",
+    "Type": "General",
+    "Description": "Models whose troop type is infantry only. The Levitating Shield is a shield. In addition, the bearer may use it alongside a weapon with the Requires Two Hands special rule during combat."
+  },
+  {
+    "Id": "rule_1770546879609",
+    "Name": "Trailblazer's Hauberk",
+    "Type": "General",
+    "Description": "Models whose troop type is infantry only. The Trailblazer's Hauberk is a suit of heavy armour. In addition, its wearer gains the Move Through Cover and Scouts special rules."
+  },
+  {
+    "Id": "rule_1770546890017",
+    "Name": "Banner of the Steadfast",
+    "Type": "General",
+    "Description": "Models whose troop type is infantry only. Should a unit carrying the Banner of the Steadfast belong to the losing side of a Combat, it can Fall Back in Good Order even if the Unit Strength of the winning side is more than twice that of its own side."
+  },
+  {
+    "Id": "rule_1770546921169",
+    "Name": "Totem of Wrath",
+    "Type": "General",
+    "Description": "During a turn in which it charged, models within a unit carrying the Totem of Wrath improve the Armour Piercing characteristic of their weapons by 1, and may re-roll any rolls To Wound of a natural 1."
+  },
+  {
+    "Id": "rule_1770546948596",
+    "Name": "Banner of Swirling Wind",
+    "Type": "General",
+    "Description": "Any enemy model that shoots at a unit carrying the Banner of Swirling Wind suffers an additional -1 To Hit modifier."
+  },
+  {
+    "Id": "rule_1770546973921",
+    "Name": "Monster Hunter's Tapestry",
+    "Type": "General",
+    "Description": "Enemy units may not make Stomp Attacks against a unit carrying the Monster Hunter's Tapestry."
+  },
+  {
+    "Id": "rule_1770546999071",
+    "Name": "Icon of Fortitude",
+    "Type": "General",
+    "Description": "Models whose troop type is infantry or cavalry only. The bearer is immune to the Multiple Wounds (X) special rule. If the bearer is wounded by an attack with this special rule, they suffer a single wound."
+  },
+  {
+    "Id": "rule_1770547024480",
+    "Name": "Ironhide Talisman",
+    "Type": "General",
+    "Description": "Models whose troop type is infantry only. Any enemy model that makes a successful roll To Hit against the bearer of the Ironhide Talisman during the Shooting phase or Combat phase must re-roll any rolls To Wound of a natural 6.\n\nNote that this magic item does not work against attacks that hit automatically."
+  },
+  {
+    "Id": "rule_1770547100653",
+    "Name": "Arch-Lightning Rod",
+    "Type": "General",
+    "Description": "Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of the Arch-Lightning Rod may attempt to use it by making a Leadership test (using their own, unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule."
+  },
+  {
+    "Id": "rule_1770547124090",
+    "Name": "Potion of Fervour",
+    "Type": "General",
+    "Description": "Single Use. During the Command sub-phase of their turn, the bearer of the Potion of Fervour can consume it. Until the end of that turn, the model has a +D3 modifier to its Attacks characteristic (to a maximum of 10).\n\nNote that a model can only consume a single potion (of any type) per Command phase."
+  },
+  {
+    "Id": "rule_1770547143645",
+    "Name": "Becalming Orb",
+    "Type": "General",
+    "Description": "Single Use. The bearer of the Becalming Orb may cast the following Bound spell, with a Power level of 1:\n\nType: Hex\nCasting Value: 8+\nRange: Self\n\nUntil your next Start of Turn sub-phase, enemy Wizards that are within 15\" of the caster when attempting to cast a spell must increase that spell's casting value by 2."
+  },
+  {
+    "Id": "rule_1770547237489",
+    "Name": "Staff of Quietude",
+    "Type": "General",
+    "Description": "During the Command sub-phase of their turn, the bearer of the Staff of Quietude can attempt to unleash its power by making a Leadership test. If this test is passed, all Remains in Play spells currently in play are dispelled, including spells cast by friendly models."
+  },
+  {
+    "Id": "rule_1770547256567",
+    "Name": "Scroll of Disruption",
+    "Type": "General",
+    "Description": "Once per turn, the bearer of the Scroll of Disruption may re-roll a Dispel roll.\n\n*Note all dice are re-rolled, including any bonus or discard dice granted by special rules or magic items."
+  },
+  {
+    "Id": "rule_1770547276315",
+    "Name": "Tome of Spellcraft",
+    "Type": "General",
+    "Description": "Once per turn, the bearer of the Tome of Spellcraft may re-roll a Casting roll.\n\n*Note all dice are re-rolled, including any bonus or discard dice granted by special rules or magic items."
   }
 ]
