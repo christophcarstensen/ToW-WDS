@@ -1,0 +1,3216 @@
+[
+  {
+    "Id": "68357b686d966c2c146d156c",
+    "Name": "Korhil Lionmane, Captain of the White Lions",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_312"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "5165-a2ab-10c6-fc68"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "ad15-64c2-7926-1214"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6f3b-b620-8fa0-dd64"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "f2dab597-f241-4a74-93c6-e227b210ea22",
+    "Name": "Korhil Lionmane, Captain of the White Lions on Chieftain's Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_312"
+      },
+      {
+        "Id": "statline_313"
+      },
+      {
+        "Id": "statline_314"
+      },
+      {
+        "Id": "statline_315"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Chracian Lions only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6, Chieftain's Chariot only)"
+      },
+      {
+        "Id": "5165-a2ab-10c6-fc68"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "ad15-64c2-7926-1214"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b686d966c2c146d195a",
+    "Name": "Archmage",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "1c6ff394-643d-4ca4-bf99-867635b4f72f",
+    "Name": "Archmage on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_317"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "e18ea620-ef60-451a-8451-8e2273a16d8b",
+    "Name": "Archmage on Lothern Skycutter",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_318"
+      },
+      {
+        "Id": "statline_319"
+      },
+      {
+        "Id": "statline_320"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "9db16cc1-70e8-4d7e-9572-960c53060040",
+    "Name": "Archmage on Lion Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_321"
+      },
+      {
+        "Id": "statline_322"
+      },
+      {
+        "Id": "statline_323"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "077b0d4b-e040-4a99-9cf7-4d494d183e86",
+    "Name": "Archmage on Flamespyre Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_324"
+      },
+      {
+        "Id": "64df-8822-caec-91e8"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "e45d-952-f679-ae2c"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "751f-b2e3-fa87-334e"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "3cc3-f9c9-4679-c08e"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "ff20d3bf-3531-43e2-b400-76c39b9cb147",
+    "Name": "Archmage on Frostheart Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_325"
+      },
+      {
+        "Id": "d32a-1537-c2c9-1b1d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "16fc9b38-186c-463f-8595-cbbddc2ce709",
+    "Name": "Archmage on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_326"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "49695bf3-acd8-40e2-8cfc-0991e6e7ebfd",
+    "Name": "Archmage on Barded Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_327"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "d359-a3e5-142e-db2f"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "aedca134-00bc-4465-8803-0f9aa12aadbc",
+    "Name": "Archmage on Sun Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_328"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "b8fa19d6-ddec-4221-bd62-530306183e01",
+    "Name": "Archmage on Moon Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_329"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "c6416bd0-2bdd-4b42-921b-14f7f8788a0d",
+    "Name": "Archmage on Star Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_316"
+      },
+      {
+        "Id": "statline_330"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "a7af-d5ea-928a-6134"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357b6a6d966c2c146d8d1e",
+    "Name": "Chracian Chieftain",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_373"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      }
+    ]
+  },
+  {
+    "Id": "7197ae00-37be-420b-beb8-372cd9fe3928",
+    "Name": "Chracian Chieftains on Chieftain's Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_373"
+      },
+      {
+        "Id": "statline_313"
+      },
+      {
+        "Id": "statline_314"
+      },
+      {
+        "Id": "statline_315"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Chracian Lions only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6, Chieftain's Chariot only)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b6b6d966c2c146da0ae",
+    "Name": "Noble",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "9101d3cf-c164-4ce8-9cf2-424e66d92d90",
+    "Name": "Noble on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_317"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "ee3c6a1a-e64e-4a47-97d6-7684857a87d8",
+    "Name": "Noble on Tiranoc Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_335"
+      },
+      {
+        "Id": "statline_336"
+      },
+      {
+        "Id": "statline_337"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "f733-b74b-6cb1-c69"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "5fadb8f7-6b2e-4e61-af1e-84fd48ef3ed4",
+    "Name": "Noble on Lion Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_321"
+      },
+      {
+        "Id": "statline_322"
+      },
+      {
+        "Id": "statline_323"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "d7b61bf2-adc6-4681-9c2e-446635d45007",
+    "Name": "Noble on Lothern Skycutter",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_318"
+      },
+      {
+        "Id": "statline_319"
+      },
+      {
+        "Id": "statline_320"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "3ddb4cd2-8ff9-410f-a36e-e9e5fa50dbb5",
+    "Name": "Noble on Flamespyre Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_324"
+      },
+      {
+        "Id": "64df-8822-caec-91e8"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "e45d-952-f679-ae2c"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "751f-b2e3-fa87-334e"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "3cc3-f9c9-4679-c08e"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "cb3af4fd-9710-4695-939a-51d792050864",
+    "Name": "Noble on Frostheart Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_325"
+      },
+      {
+        "Id": "d32a-1537-c2c9-1b1d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "e1753239-aed2-4327-8e19-bc52b8521739",
+    "Name": "Noble on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_326"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "24f03b92-9e87-456a-afce-1eb3f8431b48",
+    "Name": "Noble on Barded Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_327"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "d359-a3e5-142e-db2f"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "9703da55-e5b6-4f43-a7a4-80b6586acda7",
+    "Name": "Noble on Griffon",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_338"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "ddc7d56a-2bb3-4460-b318-ab6dfcc6b4a0",
+    "Name": "Noble on Sun Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_334"
+      },
+      {
+        "Id": "statline_328"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357b6d6d966c2c146e1c9a",
+    "Name": "Prince",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "d69e7f70-c0ab-4e5f-873b-322ab01891cd",
+    "Name": "Prince on Griffon",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_338"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "226b4634-3767-4e88-a80c-6c48e60daa10",
+    "Name": "Prince on Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_326"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "d8c2cb0c-a449-4f7f-a8a0-21722f1fcfc8",
+    "Name": "Prince on Moon Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_329"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "d8fd0433-0c69-436d-8ad3-862512ead0d5",
+    "Name": "Prince on Star Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_330"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "0c8e72a3-a73a-4012-b620-64be571797b0",
+    "Name": "Prince on Lion Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_321"
+      },
+      {
+        "Id": "statline_322"
+      },
+      {
+        "Id": "statline_323"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "eed44049-db7b-4e50-9b9f-f2ceb99bac99",
+    "Name": "Prince on Tiranoc Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_335"
+      },
+      {
+        "Id": "statline_336"
+      },
+      {
+        "Id": "statline_337"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "f733-b74b-6cb1-c69"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "328bbd4e-8607-4080-9c18-930242fa3ca7",
+    "Name": "Prince on Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_317"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "c8ae8fd8-dafb-40a7-9ac5-aa8aa69c05ed",
+    "Name": "Prince on Barded Elven Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_327"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "d359-a3e5-142e-db2f"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "92ff79c8-339d-4033-a64a-d8e91a23be44",
+    "Name": "Prince on Flamespyre Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_324"
+      },
+      {
+        "Id": "64df-8822-caec-91e8"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "e45d-952-f679-ae2c"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "751f-b2e3-fa87-334e"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "3cc3-f9c9-4679-c08e"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "1ea365ec-1cfe-48f0-8b78-c15be56da208",
+    "Name": "Prince on Frostheart Phoenix",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_325"
+      },
+      {
+        "Id": "d32a-1537-c2c9-1b1d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "059e8bc6-fa0b-48f0-afb1-a50fd1510a07",
+    "Name": "Prince on Lothern Skycutter",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_318"
+      },
+      {
+        "Id": "statline_319"
+      },
+      {
+        "Id": "statline_320"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "8656b02b-f6ca-47e4-bdca-481dd1865373",
+    "Name": "Prince on Sun Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_339"
+      },
+      {
+        "Id": "statline_328"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f34b-f68e-23c7-145f"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146e9c55",
+    "Name": "Storm Weaver",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_340"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "f21c-26a3-f179-be43"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "0d22538a-e45d-4fbb-aeac-2756df35b450",
+    "Name": "Storm Weavers on Unicorn",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_340"
+      },
+      {
+        "Id": "statline_341"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, Unicorn Only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "9d72-02ef-9ee7-9d91"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "ab46-ca53-931e-a0e1"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eaefa",
+    "Name": "Chracian Woodsman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_374"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eb0f1",
+    "Name": "Chracian Captain (Chracian Woodsman)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_375"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eb6a2",
+    "Name": "Elven Archer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_344"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "559-d4c6-b2e8-500f"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eb8ad",
+    "Name": "Sentinel (Elven Archer)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_345"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "559-d4c6-b2e8-500f"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ebe9e",
+    "Name": "Elven Spearman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_346"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "306e-1857-ff89-754e"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "85-9154-7dc1-ddc6"
+      }
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ec0af",
+    "Name": "Sentinel (Elven Spearman)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_347"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "306e-1857-ff89-754e"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "85-9154-7dc1-ddc6"
+      }
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ec6a7",
+    "Name": "White Lion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_365"
+      },
+      {
+        "Id": "2b64-4e75-6d83-19df"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6c87-1ec1-954d-919b"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ed05e",
+    "Name": "Guardian (White Lion)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_366"
+      },
+      {
+        "Id": "2b64-4e75-6d83-19df"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6c87-1ec1-954d-919b"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146eed5e",
+    "Name": "Lion Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_356"
+      },
+      {
+        "Id": "statline_322"
+      },
+      {
+        "Id": "statline_323"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146eef37",
+    "Name": "War Lion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_372"
+      },
+      {
+        "Id": "d077-d714-bfa4-22ae"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146ef0f6",
+    "Name": "White Lion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_365"
+      },
+      {
+        "Id": "2b64-4e75-6d83-19df"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6c87-1ec1-954d-919b"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146efaa8",
+    "Name": "Guardian (White Lion)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_366"
+      },
+      {
+        "Id": "2b64-4e75-6d83-19df"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "6c87-1ec1-954d-919b"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f17a3",
+    "Name": "Eagle-Claw Bolt Thrower",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_367"
+      },
+      {
+        "Id": "statline_320"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "6731-240-f75b-dcac"
+      },
+      {
+        "Id": "36e4-28b4-31ff-39dc"
+      },
+      {
+        "Id": "3646-bdc6-7ed0-5119"
+      },
+      {
+        "Id": "3f5c-8185-3494-86c1"
+      }
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f1971",
+    "Name": "Great Eagle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_370"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f1b37",
+    "Name": "Lion Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_376"
+      },
+      {
+        "Id": "9b0d-892c-08e1-c4bd"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f24e6",
+    "Name": "Lion Guard Captain (Lion Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_377"
+      },
+      {
+        "Id": "9b0d-892c-08e1-c4bd"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "4123-3227-347e-3b39"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f41bf",
+    "Name": "Shadow Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_360"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      },
+      {
+        "Id": "93a1-6428-8825-b7e7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f49df",
+    "Name": "Shadow Walker (Shadow Warrior)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_361"
+      },
+      {
+        "Id": "f18f-50f-3108-1486"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      },
+      {
+        "Id": "93a1-6428-8825-b7e7"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f51ef",
+    "Name": "Sister of Avelorn",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_352"
+      },
+      {
+        "Id": "d326-aa58-9de8-39d4"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "a401-372d-446e-d27c"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "aaf8-414a-5ee-daea"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e42c-4a2f-b084-91c0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f5a03",
+    "Name": "High Sister (Sister of Avelorn)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_353"
+      },
+      {
+        "Id": "d326-aa58-9de8-39d4"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "a401-372d-446e-d27c"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "aaf8-414a-5ee-daea"
+      },
+      {
+        "Id": "ff10-6f2b-b0a4-9a1a"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "e42c-4a2f-b084-91c0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f621d",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f6775",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7277",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f743f",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100"
+      },
+      {
+        "Id": "233a-1715-82be-1410"
+      },
+      {
+        "Id": "74e5-b4c9-5ca9-6ca2"
+      },
+      {
+        "Id": "8961-ff44-72ad-9de1"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "133a-a421-c52f-e33f"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7659",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7f63",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b766d966c2c146f816a",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b766d966c2c146f8351",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "bcf8-d942-102e-b155"
+      }
+    ]
+  }
+]

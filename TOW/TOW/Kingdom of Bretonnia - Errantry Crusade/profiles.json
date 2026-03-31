@@ -1,0 +1,2929 @@
+[
+  {
+    "Id": "68357b9c6d966c2c1475e8a4",
+    "Name": "Lady Élisse Duchaard",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_382"
+      },
+      {
+        "Id": "statline_383"
+      },
+      {
+        "Id": "d648-c5df-5307-c280"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, Ariandir only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "59aa-eea8-56d3-1039"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "23d7-8a68-9c8c-a6e3"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "1db-2d6a-b592-c"
+      },
+      {
+        "Id": "b990-5f17-350f-c244"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c1475f81d",
+    "Name": "Sir Cecil Gastonne",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_384"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "5df9-8493-b680-edd0"
+      },
+      {
+        "Id": "e0fd-c587-5727-5ad9"
+      },
+      {
+        "Id": "56ef-dedb-7199-3ab6"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "7d0a-428d-8f17-c07e"
+      }
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c14760789",
+    "Name": "The Green Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_385"
+      },
+      {
+        "Id": "statline_386"
+      },
+      {
+        "Id": "3922-1014-8e75-a126"
+      },
+      {
+        "Id": "5893-8820-e358-d20f"
+      },
+      {
+        "Id": "6561-8029-dac3-162"
+      },
+      {
+        "Id": "de36-314b-6886-b2ee"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "a10e-13b7-e959-ab5"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "b783-ab7e-dbf9-5b11",
+        "Info": "(Deadly blows)"
+      },
+      {
+        "Id": "b1df-7321-f745-aee7",
+        "Info": "(Rapid strikes)"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c14761702",
+    "Name": "Baron",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_387"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "df7aa176-e187-4a5a-bfce-ef434207f7c3",
+    "Name": "Baron on Bretonnian Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_387"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "f4375797-38f8-4459-b0c8-af67a7b25cd8",
+    "Name": "Baron on Royal Pegasus",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_387"
+      },
+      {
+        "Id": "statline_389"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Royal Pegasus only)"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "e2739b8e-5a5a-4cee-a5a5-b668e4eb52e7",
+    "Name": "Baron on Barded Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_387"
+      },
+      {
+        "Id": "statline_390"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "b8784fd5-c70f-468b-93ab-120993e8f841",
+    "Name": "Baron on Hippogryph",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_387"
+      },
+      {
+        "Id": "statline_391"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357b9f6d966c2c1476863d",
+    "Name": "Damsel",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_392"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "8f955590-ced3-47c7-9dae-1eed022b4820",
+    "Name": "Damsel on Bretonnian Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_392"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "c9fc04d4-22a4-488c-a7a7-b64857ccc395",
+    "Name": "Damsel on Warhorse",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_392"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "74bfcfd1-bc40-4dbd-a0f3-a5b4378a5162",
+    "Name": "Damsel on Unicorn",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_392"
+      },
+      {
+        "Id": "statline_341"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, Unicorn only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "59aa-eea8-56d3-1039"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba06d966c2c1476e214",
+    "Name": "Duke",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_394"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "99000535-b91d-4fb2-a5bf-7c39c6a60b05",
+    "Name": "Duke on Bretonnian Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_394"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "2359d596-3ad2-40a9-9d3e-aff685ec01ba",
+    "Name": "Duke on Royal Pegasus",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_394"
+      },
+      {
+        "Id": "statline_389"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Royal Pegasus only)"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "3515c2eb-eef1-4747-9113-b31daed30277",
+    "Name": "Duke on Barded Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_394"
+      },
+      {
+        "Id": "statline_390"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "04cdd9b8-ac92-484a-a6b1-c4a30be5f320",
+    "Name": "Duke on Hippogryph",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_394"
+      },
+      {
+        "Id": "statline_391"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba16d966c2c147750c1",
+    "Name": "Paladin",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_395"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "4dd260b1-294c-4010-9e60-112f5850b362",
+    "Name": "Paladin on Bretonnian Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_395"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "9abf758d-1c56-4e80-9809-dd06a8057fa0",
+    "Name": "Paladin on Royal Pegasus",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_395"
+      },
+      {
+        "Id": "statline_389"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Royal Pegasus only)"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "464051cf-0733-479e-8283-add32d1cbc0d",
+    "Name": "Paladin on Barded Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_395"
+      },
+      {
+        "Id": "statline_390"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba36d966c2c1477afe4",
+    "Name": "Prophetess",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_396"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "11c14c85-3e09-48c3-9d82-cb6644008ad9",
+    "Name": "Prophetess on Bretonnian Warhorse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_396"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "091968d1-0cdb-4f48-a782-e958eccd47ff",
+    "Name": "Prophetess on Warhorse",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_396"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "7257dda8-5128-4f6e-bcc1-6785cbf61df2",
+    "Name": "Prophetess on Royal Pegasus",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_396"
+      },
+      {
+        "Id": "statline_389"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Royal Pegasus only)"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "0f17e431-c1a0-4a9a-8534-7c7de6d96039",
+    "Name": "Prophetess on Unicorn",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_396"
+      },
+      {
+        "Id": "statline_341"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, Unicorn only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "492-9fe3-86af-2ca0"
+      },
+      {
+        "Id": "59aa-eea8-56d3-1039"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "5c21-d1d5-9884-bce9"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "58ff-56d9-4cba-ccc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba46d966c2c1478230b",
+    "Name": "Sergeant-At-Arms",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_397"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "a0db-bdf1-3b5d-b099"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "4abad6fd-2c46-423e-a357-be807bd96249",
+    "Name": "Sergeants-At-Arms on Warhorse",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_397"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "a0db-bdf1-3b5d-b099"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba56d966c2c14784e71",
+    "Name": "Battle Pilgrim",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_409"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(All Enemies)"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357b886d966c2c147278a2ygrail",
+    "Name": "Grail Reliquae",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_410"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(All Enemies)"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "6e4e-5dbf-b254-52b7"
+      },
+      {
+        "Id": "f128-f8cd-3184-ff0"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba56d966c2c14785ddc",
+    "Name": "Knight Errant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_398"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba56d966c2c14786f3a",
+    "Name": "Gallant (Knight Errant)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_399"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba66d966c2c1478a2e7",
+    "Name": "Knight of the Realm",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_400"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba66d966c2c1478ba37",
+    "Name": "First Knight (Knight of the Realm)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_401"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba76d966c2c1479000b",
+    "Name": "Mounted Knight of the Realm",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_405"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba76d966c2c1479000bc",
+    "Name": "First Knight (Knight of the Realm)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_406"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba86d966c2c14795dbf",
+    "Name": "Squire",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_418"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba86d966c2c14796d31",
+    "Name": "Esquire (Squire)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_419"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba96d966c2c14799b67",
+    "Name": "Battle Pilgrim",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_409"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(All Enemies)"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba96d966c2c1479aacd",
+    "Name": "Man-At-Arms",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_402"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e7c7-b48f-7d2c-b337",
+        "Info": "(Double-handed)"
+      },
+      {
+        "Id": "985a-110b-3393-79b7",
+        "Info": "(Single handed)"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357b886d966c2c147278a2y",
+    "Name": "Yeoman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_404"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e7c7-b48f-7d2c-b337",
+        "Info": "(Double-handed)"
+      },
+      {
+        "Id": "985a-110b-3393-79b7",
+        "Info": "(Single handed)"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357ba96d966c2c1479ba51",
+    "Name": "Grail Monk (Man-At-Arms)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_425"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e7c7-b48f-7d2c-b337",
+        "Info": "(Double-handed)"
+      },
+      {
+        "Id": "985a-110b-3393-79b7",
+        "Info": "(Single handed)"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357baa6d966c2c1479e895",
+    "Name": "Peasant Bowman",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_407"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357baa6d966c2c1479f81a",
+    "Name": "Villein (Peasant Bowman)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_408"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "16e8-23be-ce45-768d"
+      }
+    ]
+  },
+  {
+    "Id": "68357bab6d966c2c147a2661",
+    "Name": "Pegasus Knight",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_413"
+      },
+      {
+        "Id": "statline_414"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "2a78-f58a-ac7f-87ae"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bab6d966c2c147a37ba",
+    "Name": "First Knight (Pegasus Knight)",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_415"
+      },
+      {
+        "Id": "statline_414"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "2a78-f58a-ac7f-87ae"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "8ce9-c356-89db-b011"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bab6d966c2c147a6b5d",
+    "Name": "Questing Knights",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_416"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "1439-c8b1-9ff8-298a"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bac6d966c2c147a82f8",
+    "Name": "Paragon (Questing Knights)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_417"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "1439-c8b1-9ff8-298a"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bad6d966c2c147ac982",
+    "Name": "Field Trebuchet",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_420"
+      },
+      {
+        "Id": "statline_421"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "ffd7-6700-ecb9-1b17"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357bad6d966c2c147ad8df",
+    "Name": "Grail Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_422"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "1113-147a-4ed6-67ce"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bad6d966c2c147af092",
+    "Name": "Grail Guardian (Grail Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_423"
+      },
+      {
+        "Id": "statline_388"
+      },
+      {
+        "Id": "e8e9-e956-786-d941"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "abb5-9813-5e95-1d94"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "cc9a-f69f-d2e7-b352"
+      },
+      {
+        "Id": "1113-147a-4ed6-67ce"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c4ac-f6a7-2481-db1a"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      }
+    ]
+  },
+  {
+    "Id": "68357bae6d966c2c147b3743",
+    "Name": "Mounted Yeomen",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_411"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bae6d966c2c147b46ee",
+    "Name": "Warden (Mounted Yeomen)",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_412"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "c985-857f-beef-dd45"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "8cc3-d6f5-da17-6600"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "36a8-2e1e-31ba-afae"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357baf6d966c2c147b75a6",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357baf6d966c2c147b8892",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bbc50",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bcbac",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100"
+      },
+      {
+        "Id": "233a-1715-82be-1410"
+      },
+      {
+        "Id": "74e5-b4c9-5ca9-6ca2"
+      },
+      {
+        "Id": "8961-ff44-72ad-9de1"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "133a-a421-c52f-e33f"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bdb57",
+    "Name": "Empire Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_433"
+      },
+      {
+        "Id": "statline_434"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb16d966c2c147bf2f1",
+    "Name": "Preceptor (Empire Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_435"
+      },
+      {
+        "Id": "statline_434"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb26d966c2c147c397a",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb26d966c2c147c78d4",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb36d966c2c147c886f",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb36d966c2c147c97e1",
+    "Name": "Inner Circle Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_436"
+      },
+      {
+        "Id": "statline_434"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "99b-d788-7989-4048"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb36d966c2c147caf65",
+    "Name": "Inner Circle Preceptor (Inner Circle Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_437"
+      },
+      {
+        "Id": "statline_434"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "99b-d788-7989-4048"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+  },
+  {
+    "Id": "68357bb46d966c2c147cf5d2",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "bcf8-d942-102e-b155"
+      }
+    ]
+  }
+]

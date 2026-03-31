@@ -1,0 +1,2538 @@
+[
+  {
+    "Id": "68357ca36d966c2c14b1cfc5",
+    "Name": "Frydaal the Chainmaker",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_778"
+      },
+      {
+        "Id": "8c0b-6fe6-dc06-512"
+      },
+      {
+        "Id": "9efe-73d7-1dbc-d68d"
+      },
+      {
+        "Id": "e605-1c73-2360-a40f"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "405e-8a6f-e29b-0c74"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca46d966c2c14b1d1bf",
+    "Name": "Galrauch, the Great Drake",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_779"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "66f1-d8b4-c779-4682"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "16f2-5d1d-4ae7-c289"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "735c-def7-9ac4-0fa2"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "c566-ac23-2081-b57f"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca46d966c2c14b1d3c6",
+    "Name": "Aspiring Champion",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_780"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "44b178dd-7059-493f-9c5a-f641a414b546",
+    "Name": "Aspiring Champion on Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_780"
+      },
+      {
+        "Id": "statline_781"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "1f4ee0b6-f5af-4f4e-9246-97061833bebf",
+    "Name": "Aspiring Champion on Chaos Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_780"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "54e384c0-3f27-4a11-b5ee-86e710c73a80",
+    "Name": "Aspiring Champion on Gorebeast Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_780"
+      },
+      {
+        "Id": "statline_785"
+      },
+      {
+        "Id": "statline_786"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Gorebeast only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "860b-e13a-4710-9bf0",
+        "Info": "(Gorebeast only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "26a26198-2fce-47ab-beeb-ab002bbba66c",
+    "Name": "Aspiring Champion on Chosen Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_780"
+      },
+      {
+        "Id": "statline_787"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_788"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1, Chariot only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca56d966c2c14b209b5",
+    "Name": "Chaos Lord",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "beff3946-33e2-4d6a-a19e-09c65cc7512b",
+    "Name": "Chaos Lord on Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_781"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "a20297a0-5a7e-4b6e-aec0-bca5a408b0ff",
+    "Name": "Chaos Lord on Chaos Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "6abfd212-476f-4b44-a8ba-190e678314a2",
+    "Name": "Chaos Lord on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_790"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "1c17-a2e1-fd0a-3714"
+      }
+    ]
+  },
+  {
+    "Id": "a0a26411-8973-4084-83fb-15fb4588b784",
+    "Name": "Chaos Lord on Daemonic Mount",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_791"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Daemonic Mount Only)"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "fd024bca-a0f1-47fa-95c4-5b713ef818cd",
+    "Name": "Chaos Lord on Gorebeast Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_785"
+      },
+      {
+        "Id": "statline_786"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Gorebeast only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "860b-e13a-4710-9bf0",
+        "Info": "(Gorebeast only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "8e24b58e-ddf3-4103-b0ef-c2fbd0f67a56",
+    "Name": "Chaos Lord on Chaos Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_792"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "8105-d278-5b89-396e"
+      }
+    ]
+  },
+  {
+    "Id": "e75b7c59-553a-43b7-94bc-d9682dd9c667",
+    "Name": "Chaos Lord on Chosen Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_789"
+      },
+      {
+        "Id": "statline_787"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_788"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1, Chariot only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca76d966c2c14b253e3",
+    "Name": "Daemon Prince",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_793"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "a10e-13b7-e959-ab5"
+      },
+      {
+        "Id": "c24d-4386-c1ef-f195"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca76d966c2c14b25c63",
+    "Name": "Exalted Champion",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "a2630806-185b-41f1-ad17-f31bc17ab1cf",
+    "Name": "Exalted Champion on Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_781"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "f1f661fe-60ff-48c3-a9ae-9af66388679c",
+    "Name": "Exalted Champion on Chaos Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "7b4af4d5-d037-4022-915a-6512765bafa7",
+    "Name": "Exalted Champion on Daemonic Mount",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_791"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Daemonic Mount Only)"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "6e9dd2f6-a48b-44c2-9b46-3de7259922ee",
+    "Name": "Exalted Champion on Gorebeast Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_785"
+      },
+      {
+        "Id": "statline_786"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Gorebeast only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "860b-e13a-4710-9bf0",
+        "Info": "(Gorebeast only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "51cc8a8b-2589-4b09-8a77-0e7bab0d3b57",
+    "Name": "Exalted Champion on Chosen Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_787"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_788"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1, Chariot only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      }
+    ]
+  },
+  {
+    "Id": "6abfd212-476f-4b44-a8ba-190e678314a5",
+    "Name": "Exalted Champion on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_790"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "1c17-a2e1-fd0a-3714"
+      }
+    ]
+  },
+  {
+    "Id": "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52",
+    "Name": "Exalted Champion on Chaos Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_794"
+      },
+      {
+        "Id": "statline_792"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "8105-d278-5b89-396e"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca86d966c2c14b29d08",
+    "Name": "Exalted Sorcerer",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_795"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "98962877-88c0-4ef2-9a7e-8387610700ce",
+    "Name": "Exalted Sorcerer on Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_795"
+      },
+      {
+        "Id": "statline_781"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "31e896e3-7a1b-4ea2-af94-5ff040badf79",
+    "Name": "Exalted Sorcerer on Chaos Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_795"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "ec092f6a-8867-402c-9f29-c998c387b239",
+    "Name": "Exalted Sorcerer on Daemonic Mount",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_795"
+      },
+      {
+        "Id": "statline_791"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Daemonic Mount Only)"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357ca96d966c2c14b2c4c1",
+    "Name": "Sorcerer Lord",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "fbf46fd5-efe3-492d-b01d-de8146ee260b",
+    "Name": "Sorcerer Lord on Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "statline_781"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "3a591ad6-ed36-44a3-a533-1c24c1c13e97",
+    "Name": "Sorcerer Lord on Chaos Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "b0fe39b6-95cc-49f9-8b02-5dc194989973",
+    "Name": "Sorcerer Lord on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "statline_790"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "1c17-a2e1-fd0a-3714"
+      }
+    ]
+  },
+  {
+    "Id": "9c60bcdf-4cc2-4680-9684-fa789ded57e5",
+    "Name": "Sorcerer Lord on Daemonic Mount",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "statline_791"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Daemonic Mount Only)"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "708205ae-6fdb-4337-a387-e42ff5096d84",
+    "Name": "Sorcerer Lord on Chaos Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_796"
+      },
+      {
+        "Id": "statline_792"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "1650-86f-8212-566d"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "8105-d278-5b89-396e"
+      }
+    ]
+  },
+  {
+    "Id": "68357cab6d966c2c14b3012c",
+    "Name": "Chaos Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_797"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357cab6d966c2c14b30b2e",
+    "Name": "Champion (Chaos Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_798"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357cab6d966c2c14b328f0",
+    "Name": "Chaos Marauder",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_799"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357cab6d966c2c14b32b1d",
+    "Name": "Marauder Chieftain (Chaos Marauder)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_800"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357cac6d966c2c14b3318c",
+    "Name": "Chaos Warhound",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_19"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357cab6d966c2c14b328fhandler",
+    "Name": "Chaos Warhound Handler",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_801"
+      },
+      {
+        "Id": "e746-bbf6-d1b9-b9c7"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357cac6d966c2c14b33390",
+    "Name": "Chaos Warrior",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_802"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "68357cac6d966c2c14b33d73",
+    "Name": "Champion (Chaos Warrior)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_803"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "68357cac6d966c2c14b35b00",
+    "Name": "Forsaken",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_804"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "5fd9-9543-7c10-64bd"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "f83f-94ab-eab5-46c7"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357cad6d966c2c14b35cf3",
+    "Name": "Marauder Horsemen",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_805"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357cad6d966c2c14b35f3b",
+    "Name": "Marauder Horsemaster (Marauder Horsemen)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_806"
+      },
+      {
+        "Id": "statline_393"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357cad6d966c2c14b365d3",
+    "Name": "Chaos Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_807"
+      },
+      {
+        "Id": "statline_782"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "68357cad6d966c2c14b367e0",
+    "Name": "Chaos Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_30"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "d256-85be-6fcc-1cb"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357cad6d966c2c14b369f2",
+    "Name": "Champion (Chaos Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_31"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "d256-85be-6fcc-1cb"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357cae6d966c2c14b37008",
+    "Name": "Chaos Spawn",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_41"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "68357cae6d966c2c14b37202",
+    "Name": "Chaos Troll",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_42"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "cdde-5994-8941-787f"
+      }
+    ]
+  },
+  {
+    "Id": "68357cae6d966c2c14b373fb",
+    "Name": "Chimera",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_808"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, claws and fangs only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "68357cae6d966c2c14b375f2",
+    "Name": "Chosen Chaos Knight",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_809"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357cae6d966c2c14b37ffc",
+    "Name": "Champion (Chosen Chaos Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_810"
+      },
+      {
+        "Id": "statline_784"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357caf6d966c2c14b39dda",
+    "Name": "Chosen Chaos Warrior",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_811"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357caf6d966c2c14b3a7c5",
+    "Name": "Champion (Chosen Chaos Warrior)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_812"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb06d966c2c14b3c56d",
+    "Name": "Dragon Ogre",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_34"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb06d966c2c14b3cdc8",
+    "Name": "Shartak (Dragon Ogre)",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_35"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb06d966c2c14b3d617",
+    "Name": "Chaos Giant",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_40"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "e433-20e5-52c4-8f15"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "5ef1-6977-b2a8-bb53"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "742-e3dd-26f9-778f"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb06d966c2c14b3d807",
+    "Name": "Dragon Ogre Shaggoth",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_43"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b8f1-3ef8-d7a2-509c"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb06d966c2c14b3e058",
+    "Name": "Gigantic Spawn",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_44"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "99ab-9d14-ac70-af11"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "7f20-fd7f-4556-c756"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb16d966c2c14b3e250",
+    "Name": "Gorebeast Chariot",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_813"
+      },
+      {
+        "Id": "statline_786"
+      },
+      {
+        "Id": "statline_783"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Gorebeast only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "860b-e13a-4710-9bf0",
+        "Info": "(Gorebeast only)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb16d966c2c14b3e45e",
+    "Name": "Hellcannon",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statline_96"
+      },
+      {
+        "Id": "statline_97"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fa6a-ab7-6580-a1ea"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "68ed-9275-f95a-a3f5"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1084-a4e9-79f-3462"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "c24d-4386-c1ef-f195"
+      },
+      {
+        "Id": "cf5a-3201-dddf-5561"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb16d966c2c14b3e651",
+    "Name": "Warpfire Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_814"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "4769-be05-035a-7e91"
+      },
+      {
+        "Id": "8dcd-1035-2a18-ba2f"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "97b3-1cdd-d81b-331a"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "ccb7-517d-8228-355e"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb16d966c2c14b3e868",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb16d966c2c14b3ede4",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357cb26d966c2c14b3f951",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2521 @@
+[
+  {
+    "Id": "profile_1765312756660",
+    "Name": "Winged Warsphinx",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_668"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "cc9e-70c4-6f2c-413f",
+        "Info": "(9)"
+      },
+      {
+        "Id": "6dbb-9bec-43f5-f2e0",
+        "Info": "(2)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "6e39-5258-cf17-3bde",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "73e4-3483-b269-9079",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "68357c426d966c2c1497884d",
+    "Name": "Nekaph,",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_669"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "c454-56fe-b50f-c2a7"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "860b-e13a-4710-9bf0"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "d8c0-69d0-6048-c28e"
+      },
+      {
+        "Id": "26cd-4c1b-a55b-93a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c426d966c2c1497a759",
+    "Name": "Prince Apophas",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_670"
+      },
+      {
+        "Id": "8c0b-6fe6-dc06-512"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "e300-297d-688a-b8a2"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "89cb-9d6e-32d5-e190"
+      }
+    ]
+  },
+  {
+    "Id": "68357c436d966c2c1497c667",
+    "Name": "Settra the Imperishable",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statline_671"
+      },
+      {
+        "Id": "statline_672"
+      },
+      {
+        "Id": "statline_673"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ee2a-d02e-46dd-48e7"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "609a-2943-a6e1-e002"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(2D3)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(3)"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "b52f-1075-6ee0-6d62"
+      },
+      {
+        "Id": "3369-799d-c3f-a106"
+      }
+    ]
+  },
+  {
+    "Id": "68357c446d966c2c149804d9",
+    "Name": "High Priest",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "ba9a09a0-db04-4abb-86dd-aaef5422f5ec",
+    "Name": "High Priest on Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "d4a3aa9c-420e-4025-ae34-3356914279c3",
+    "Name": "High Priest on Necrolith Bone Dragon",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "statline_676"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9ada-55bb-3fc4-e52b"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "High Priest on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c456d966c2c149878d0",
+    "Name": "Mortuary Priest",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_678"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "1c9b91d7-ae27-4e14-827d-0d3412751075",
+    "Name": "Mortuary Priest on Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_678"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Mortuary Priest on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_678"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c466d966c2c1498c935",
+    "Name": "Necrotect",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_679"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "2cb-b6cc-72e8-ee9e"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "68357c476d966c2c1498ee6e",
+    "Name": "Royal Herald",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_680"
+      },
+      {
+        "Id": "d88f-102f-fef9-dab2"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "26cd-4c1b-a55b-93a"
+      }
+    ]
+  },
+  {
+    "Id": "3a2149b4-2f3b-4d43-8f10-aaf34e422066",
+    "Name": "Royal Herald on Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_680"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "d88f-102f-fef9-dab2"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "26cd-4c1b-a55b-93a"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "65701982-cc53-42a8-88ce-2139ec95d01e",
+    "Name": "Royal Herald on Skeleton Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_680"
+      },
+      {
+        "Id": "statline_681"
+      },
+      {
+        "Id": "statline_682"
+      },
+      {
+        "Id": "d88f-102f-fef9-dab2"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "26cd-4c1b-a55b-93a"
+      }
+    ]
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Royal Herald on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_680"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c486d966c2c149963b6",
+    "Name": "Tomb King",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "61286aad-3e33-4d70-9186-54adc725642f",
+    "Name": "Tomb King on Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "8a7e9dec-e17b-4d11-8e41-2288995f3874",
+    "Name": "Tomb King on Skeleton Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "statline_681"
+      },
+      {
+        "Id": "statline_682"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "8975afd7-61b1-42b6-913f-a668e22db93f",
+    "Name": "Tomb King on Necrolith Bone Dragon",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "statline_676"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9ada-55bb-3fc4-e52b"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "66457e07-ca13-499d-b683-727cbcf57a72",
+    "Name": "Tomb King on Khemrian Warsphinx",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "statline_684"
+      },
+      {
+        "Id": "statline_685"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d",
+        "Info": "(Tomb Guard Crew Only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "b8f6-1cbc-b19-c7b7"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Tomb King on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_683"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4a6d966c2c149a20cc",
+    "Name": "Tomb Prince",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_686"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      }
+    ]
+  },
+  {
+    "Id": "108dd568-91cd-4bd7-8421-4fedf57a5875",
+    "Name": "Tomb Prince on Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_686"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "88fb6f8e-1b58-40bd-9bd1-6ee527f6cd04",
+    "Name": "Tomb Prince on Skeleton Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_686"
+      },
+      {
+        "Id": "statline_681"
+      },
+      {
+        "Id": "statline_682"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "abde-68e9-9d0e-a46"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "profile_1765311714447",
+    "Name": "Tomb Prince on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_686"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4b6d966c2c149a9157",
+    "Name": "Sepulchral Stalker",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_687"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4c6d966c2c149ab074",
+    "Name": "Skeleton Archer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_688"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "559-d4c6-b2e8-500f"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4c6d966c2c149acf98",
+    "Name": "Master of Arrows (Skeleton Archer)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_689"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "559-d4c6-b2e8-500f"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4d6d966c2c149b2cdd",
+    "Name": "Skeleton Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_690"
+      },
+      {
+        "Id": "statline_682"
+      },
+      {
+        "Id": "statline_691"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4d6d966c2c149b53ed",
+    "Name": "Master Charioteer (Skeleton Chariot)",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_692"
+      },
+      {
+        "Id": "statline_682"
+      },
+      {
+        "Id": "statline_691"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4f6d966c2c149bc8f5",
+    "Name": "Skeleton Horse Archer",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_693"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c4f6d966c2c149be827",
+    "Name": "Master of Horse (Skeleton Horse Archer)",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_694"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "1f10-d7d-be19-7e8f"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c506d966c2c149c459d",
+    "Name": "Skeleton Horseman",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_695"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c506d966c2c149c6b13",
+    "Name": "Master of Horse (Skeleton Horseman)",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_696"
+      },
+      {
+        "Id": "statline_675"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c516d966c2c149cdb4d",
+    "Name": "Skeleton Skirmisher",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_697"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c526d966c2c149cfa66",
+    "Name": "Skeleton Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_698"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c526d966c2c149d1fc4",
+    "Name": "Master of Arms (Skeleton Warrior)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_699"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c536d966c2c149d8fc2",
+    "Name": "Tomb Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_700"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c546d966c2c149db6bd",
+    "Name": "Tomb Captain (Tomb Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_701"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c556d966c2c149e2b8c",
+    "Name": "Tomb Swarm",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_702"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357c556d966c2c149e4a8e",
+    "Name": "Carrion",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_703"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c556d966c2c149e6991",
+    "Name": "Khemrian Warsphinx",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_704"
+      },
+      {
+        "Id": "statline_685"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d",
+        "Info": "(Tomb Guard Crew Only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "b8f6-1cbc-b19-c7b7"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4",
+        "Info": "(Tomb Guard Crew Only)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "68357c566d966c2c149e88be",
+    "Name": "Necropolis Knight",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_705"
+      },
+      {
+        "Id": "statline_706"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d",
+        "Info": "(Necropolis Knights & Captain only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39",
+        "Info": "(Necroserpent only)"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c566d966c2c149eafd6",
+    "Name": "Necropolis Captain (Necropolis Knight)",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_707"
+      },
+      {
+        "Id": "statline_706"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d",
+        "Info": "(Necropolis Knights & Captain only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39",
+        "Info": "(Necroserpent only)"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c586d966c2c149f24ce",
+    "Name": "Sepulchral Stalker",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_687"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357c586d966c2c149f43e8",
+    "Name": "Tomb Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_700"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c596d966c2c149f6ae1",
+    "Name": "Tomb Captain (Tomb Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_701"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "7424-ec43-7581-965a"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5a6d966c2c149fdfb1",
+    "Name": "Tomb Scorpion",
+    "Type": "Profile",
+    "BaseId": "11",
+    "Children": [
+      {
+        "Id": "statline_708"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5a6d966c2c149ffec1",
+    "Name": "Ushabti",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_709"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5a6d966c2c14a01dda",
+    "Name": "Ancient (Ushabti)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_710"
+      },
+      {
+        "Id": "d57a-d79-ea09-8dbd"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5b6d966c2c14a03ceb",
+    "Name": "Casket of Souls",
+    "Type": "Profile",
+    "BaseId": "15",
+    "Children": [
+      {
+        "Id": "statline_711"
+      },
+      {
+        "Id": "e8fa-c1b8-3da7-f23d"
+      },
+      {
+        "Id": "e499-a9e5-3160-f62d"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "8ff4-5dcd-f462-1acd"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "54de-15ad-9dc8-e4be"
+      },
+      {
+        "Id": "a10c-954f-cdd4-5116"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5b6d966c2c14a05bf8",
+    "Name": "Necrolith Colossus",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_712"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "fbbb-aba9-7f94-97db"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5c6d966c2c14a07afc",
+    "Name": "Necrosphinx",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_713"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(2)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "31d6-475d-5db3-94b6"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+2)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5c6d966c2c14a09a0d",
+    "Name": "Screaming Skull Catapult",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_714"
+      },
+      {
+        "Id": "statline_715"
+      },
+      {
+        "Id": "ae9b-6cef-787a-da54"
+      },
+      {
+        "Id": "e45d-952-f679-ae2c"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "14ec-afd4-37fd-d2bc"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5c6d966c2c14a0b939",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5d6d966c2c14a0dbd1",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5e6d966c2c14a13e93",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5e6d966c2c14a15d9b",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100"
+      },
+      {
+        "Id": "233a-1715-82be-1410"
+      },
+      {
+        "Id": "74e5-b4c9-5ca9-6ca2"
+      },
+      {
+        "Id": "8961-ff44-72ad-9de1"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "133a-a421-c52f-e33f"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357c5e6d966c2c14a17cf5",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c606d966c2c14a1faff",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c606d966c2c14a21a46",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c616d966c2c14a2396d",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "bcf8-d942-102e-b155"
+      }
+    ]
+  }
+]

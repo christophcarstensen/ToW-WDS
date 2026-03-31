@@ -1,0 +1,53 @@
+[
+  {
+    "Id": "statline_263",
+    "Name": "Dwarf Engineer Sappers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_264",
+    "Name": "Scout Gyrocopter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "e2de-d72a-fe52-92e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  }
+]
