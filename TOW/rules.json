@@ -356,8 +356,7 @@
   {
     "Id": "7e4f-91be-f8d3-0bcd",
     "Name": "Victory Points",
-    "Type": "Rule",
-    "Description": null
+    "Type": "Rule"
   },
   {
     "Id": "dfb4-a590-c057-c4f1",
@@ -542,8 +541,7 @@
   {
     "Id": "32f0-4684-911d-f9a7",
     "Name": "Blessings of Chaos",
-    "Type": "Rule",
-    "Description": null
+    "Type": "Rule"
   },
   {
     "Id": "b592-330-5a29-162f",
@@ -1892,8 +1890,7 @@
   {
     "Id": "9944-e9db-28f2-c04f",
     "Name": "Deploying Weapon Teams",
-    "Type": "Rule",
-    "Description": null
+    "Type": "Rule"
   },
   {
     "Id": "89ce-2c95-bf48-c8af",
@@ -1904,14 +1901,12 @@
   {
     "Id": "81e-3f45-7d99-d927",
     "Name": "Targeting Weapon Teams",
-    "Type": "Rule",
-    "Description": null
+    "Type": "Rule"
   },
   {
     "Id": "9b30-4c0d-2758-1772",
     "Name": "Weapon Team Leadership",
-    "Type": "Rule",
-    "Description": null
+    "Type": "Rule"
   },
   {
     "Id": "d1b-648-e07f-5175",
@@ -5757,7 +5752,7 @@
     "Id": "5813-3367-8935-57a5",
     "Name": "Ring of Fury",
     "Type": "Rule",
-    "Description": "Description: The wielder of a Ring of Fury can cast the Hammerhand spell from the Lore of Battle Magic as a Bound spell, with a Power Level of 2."
+    "Description": "Description: The wielder of a Ring of Fury can cast the Hammerhand spell from the Lore of Battle Magic as a Bound spell, with a Power Level of 1."
   },
   {
     "Id": "73a7-369d-054e-c268",
@@ -10809,7 +10804,7 @@
     "Id": "1e11-55ae-e371-d024",
     "Name": "Quick Turn",
     "Type": "Rule",
-    "Description": "Description: After moving, unless it charged, marched or fled, a unit that is in Open Order formation may pivot about its centre to change its facing by up to 90°.\n\n\nRelated: Highly Manoeuvrable"
+    "Description": "Description: Unless it marched, a unit that is in Open Order formation may pivot about its centre to change its facing by up to 90° after moving during the Remaining Moves sub-phase.\n\n\nRelated: Highly Manoeuvrable"
   },
   {
     "Id": "1569-f61f-1e1a-eba7",
