@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "statline_566",
+    "Name": "Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "Id": "statline_720",
+    "Name": "Royal Host Horseman Archer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_721",
+    "Name": "Master of Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_722",
+    "Name": "Royal Host Archer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_723",
+    "Name": "Master of Arms",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "85-9154-7dc1-ddc6"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_724",
+    "Name": "Tomb Guard Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_725",
+    "Name": "Tomb Guard Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_726",
+    "Name": "Tomb Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  }
+]

@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "Id": "b0890a67-c3fb-47cd-87fe-5c2345ddcf82",
     "Name": "On Foot",
     "Type": "Mount",
@@ -598,10 +599,21 @@
     "OwnerId": "68357bda6d966c2c148327ce",
     "WDSDataId": "68357bda6d966c2c148327d6c",
     "StatlineIndex": "0"
+=======
+    "Id": "ce2a8431-4b40-4ab8-bc31-3b151b82b0f0",
+    "Name": "Giant Cave Squig",
+    "Type": 0
+  },
+  {
+    "Id": "e4978352-2885-4da7-8491-7383aba672c8",
+    "Name": "Fanatic",
+    "Type": 6
+>>>>>>> test
   },
   {
     "Id": "04cbbc86-b188-4bbc-99fb-29911bc6ed03obb",
     "Name": "Orc Bully",
+<<<<<<< HEAD
     "Type": "ModelAdd",
     "OwnerId": "68357bda6d966c2c14831f08",
     "WDSDataId": "68357bd86d966c2c1482c25aob",
@@ -622,5 +634,33 @@
     "OwnerId": "68357bdd6d966c2c148371e6",
     "WDSDataId": "68357bd86d966c2c1482c25aob",
     "StatlineIndex": "0"
+=======
+    "Type": 6
+  },
+  {
+    "Id": "6e650715-c1da-49a0-b02b-41686ddf0f7c",
+    "Name": "Frenzy",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      }
+    ]
+  },
+  {
+    "Id": "ae16fddf-468f-44ad-84d3-10be76f602e0",
+    "Name": "Giant Spider",
+    "Type": 1
+  },
+  {
+    "Id": "804c6106-fd0b-4129-bd26-0690f4b9be15",
+    "Name": "Spidersilk Lobber",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "1feb-b4ec-6cfc-8f7"
+      }
+    ]
+>>>>>>> test
   }
 ]

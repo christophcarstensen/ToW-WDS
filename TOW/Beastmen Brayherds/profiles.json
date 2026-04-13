@@ -2,6 +2,7 @@
   {
     "Id": "6847dd3c7e64980f675f19b4",
     "Name": "Ghorros Warhoof",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -48,10 +49,54 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1"
+      },
+      {
+        "Id": "7c-7525-760e-17ad"
+      },
+      {
+        "Id": "92b3-e07b-208b-ca6a"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6883-5744-d0e5-dc3b"
+      },
+      {
+        "Id": "353f-f21a-bb7c-d516"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "6847dd517e64980f67607f87",
     "Name": "Kralmaw, the Prophet of Ruin",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -99,10 +144,50 @@
         "length": "30"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_2"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "814d-8748-07c1-ab99"
+      },
+      {
+        "Id": "e9e5-d860-7701-0f11"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "f294-c233-5f85-0821"
+      },
+      {
+        "Id": "87fd-67b2-286c-24e5"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "6847dd437e64980f675f9a0d",
     "Name": "Herdstone",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -360,10 +445,41 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "3",
+    "Children": [
+      {
+        "Id": "statline_3"
+      },
+      {
+        "Id": "8482-0f23-6ab1-a7fe"
+      },
+      {
+        "Id": "4423-d81d-1197-e49c"
+      },
+      {
+        "Id": "3a3e-a3c6-d393-b1dc"
+      },
+      {
+        "Id": "7641-f791-8120-9758"
+      },
+      {
+        "Id": "af29-67cf-d73b-ec79"
+      },
+      {
+        "Id": "fb58-ea2e-9d71-3c0c"
+      },
+      {
+        "Id": "7e4f-91be-f8d3-0bcd"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357afd6d966c2c145c3850",
     "Name": "Beastlord",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -624,10 +740,153 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_4"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "1643796e-83b3-47cd-bfff-3229e9cb3859",
+    "Name": "Beastlord on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_4"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "099bd1d1-864d-4c0d-94c1-fb892ca45459",
+    "Name": "Beastlord on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_4"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357afe6d966c2c145c5449",
     "Name": "Bray-Shaman",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -669,10 +928,157 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_11"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "4695c0ba-e41e-41b0-9542-ca31560e4022",
+    "Name": "Bray-Shaman on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "a2ce1962-2c67-4343-b65c-54662f2f4220",
+    "Name": "Bray-Shaman on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_11"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04",
+        "Info": "(Razorgor only)"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357aff6d966c2c145c73e6",
     "Name": "Warhoof",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -715,10 +1121,48 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_12"
+      },
+      {
+        "Id": "7c-7525-760e-17ad"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357aff6d966c2c145c7cce",
     "Name": "Doombull",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -764,10 +1208,58 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_13"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357aff6d966c2c145c859c",
     "Name": "Gorebull",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1034,10 +1526,58 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_14"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357aff6d966c2c145c8e6e",
     "Name": "Great Bray-Shaman",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1299,10 +1839,157 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_15"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "fb9ce5df-b2b8-4540-a804-48b56048b61d",
+    "Name": "Great Bray-Shaman on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_15"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "4649863e-2f4a-405b-8c4a-503c5cd5c5f9",
+    "Name": "Great Bray-Shaman on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_15"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "583e-832e-5e02-23cb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04",
+        "Info": "(Razorgor only)"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "6419-d95f-555e-16b9"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b006d966c2c145cae13",
     "Name": "Wargor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1390,10 +2077,153 @@
         "length": "30"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_16"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "3786eab7-8cc9-452d-8773-d5ec9b0ce07b",
+    "Name": "Wargor on Tuskgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16"
+      },
+      {
+        "Id": "statline_5"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "9734d807-e97f-44fd-a5b4-f1c57b7e0cbf",
+    "Name": "Wargor on Razorgor Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_16"
+      },
+      {
+        "Id": "statline_9"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b016d966c2c145ccef1",
     "Name": "Bestigor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1436,10 +2266,61 @@
         "length": "30"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_17"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b016d966c2c145cd967",
+    "Name": "Gouge-horn (Bestigor)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_18"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b016d966c2c145cf8a6",
     "Name": "Chaos Warhound",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1527,10 +2408,32 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_19"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b016d966c2c145cfb10",
     "Name": "Gor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1626,10 +2529,85 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_20"
+      },
+      {
+        "Id": "4203-7f82-8eaa-bfd3"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b026d966c2c145d03da",
+    "Name": "True-horn (Gor)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_21"
+      },
+      {
+        "Id": "4203-7f82-8eaa-bfd3"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b026d966c2c145d1e2d",
     "Name": "Minotaur",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1677,10 +2655,105 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_22"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b026d966c2c145d30c8",
+    "Name": "Champion (Minotaur)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_23"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b036d966c2c145d508e",
     "Name": "Razorgor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1725,10 +2798,49 @@
         "length": "75"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_24"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b036d966c2c145d52ef",
     "Name": "Tuskgor Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1876,10 +2988,51 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_25"
+      },
+      {
+        "Id": "statline_6"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b036d966c2c145d5580",
     "Name": "Ungor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1971,10 +3124,79 @@
         "length": "30"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_26"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d580b",
+    "Name": "Half-horn (Ungor)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_27"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b036d966c2c145d5f94",
     "Name": "Bestigor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2069,10 +3291,61 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_17"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d6a07",
+    "Name": "Gouge-horn (Bestigor)",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_18"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b046d966c2c145d8940",
     "Name": "Centigor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2166,10 +3439,99 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_28"
+      },
+      {
+        "Id": "7c-7525-760e-17ad"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b046d966c2c145d9218",
+    "Name": "Gorehoof (Centigor)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_29"
+      },
+      {
+        "Id": "7c-7525-760e-17ad"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b046d966c2c145dac78",
     "Name": "Chaos Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2211,10 +3573,71 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_30"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "d256-85be-6fcc-1cb"
+      }
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145daf04",
+    "Name": "Champion (Chaos Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_31"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "d256-85be-6fcc-1cb"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b056d966c2c145db688",
     "Name": "Cockatrice",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2259,10 +3682,43 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_32"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(1)"
+      },
+      {
+        "Id": "c32f-e4ed-cc42-69fc"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b056d966c2c145db8f9",
     "Name": "Cygor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2358,10 +3814,48 @@
         "length": "75"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_33"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5b02-b6ce-8f7f-b393"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "b06f-c50f-6546-509c"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b056d966c2c145dbb60",
     "Name": "Dragon Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2405,10 +3899,85 @@
         "length": "75"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_34"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      }
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145dc435",
+    "Name": "Shartak (Dragon Ogre)",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_35"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b056d966c2c145dccff",
     "Name": "Ghorgon",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2455,10 +4024,55 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_36"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "31dc-5b36-bbf8-bba3"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b056d966c2c145dcf61",
     "Name": "Harpy",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2497,10 +4111,36 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_37"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b066d966c2c145dd1c1",
     "Name": "Jabberslythe",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2598,10 +4238,49 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_38"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "dfb4-a590-c057-c4f1"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "2e29-8f80-1a23-dbdb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b066d966c2c145dd431",
     "Name": "Minotaur",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2649,10 +4328,105 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_22"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357b066d966c2c145de6c9",
+    "Name": "Champion (Minotaur)",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_23"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca"
+      },
+      {
+        "Id": "d485-902a-f6aa-8fbe"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fcf3-41f3-60c8-7deb"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "b97f-2f88-1a71-ecf1"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b066d966c2c145e0689",
     "Name": "Razorgor Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2753,10 +4527,59 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_39"
+      },
+      {
+        "Id": "statline_10"
+      },
+      {
+        "Id": "statline_7"
+      },
+      {
+        "Id": "statline_8"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Razorgor only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04",
+        "Info": "(Razorgor only)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+2)"
+      },
+      {
+        "Id": "595-bbd0-34c7-e601"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "3650-49a2-85b-702e"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e091a",
     "Name": "Chaos Giant",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2801,10 +4624,48 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_40"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "e433-20e5-52c4-8f15"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "5ef1-6977-b2a8-bb53"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e0b82",
     "Name": "Chaos Spawn",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2848,10 +4709,46 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_41"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e0df6",
     "Name": "Chaos Troll",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2895,10 +4792,40 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_42"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "8f64-6d4c-466b-1b94"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e1069",
     "Name": "Cygor",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2945,10 +4872,48 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_33"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5b02-b6ce-8f7f-b393"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "b06f-c50f-6546-509c"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e12d0",
     "Name": "Dragon Ogre Shaggoth",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2994,10 +4959,53 @@
         "length": "75"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_43"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b8f1-3ef8-d7a2-509c"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "74d8-efb5-1253-cb99"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b076d966c2c145e1b96",
     "Name": "Ghorgon",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3044,10 +5052,55 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_36"
+      },
+      {
+        "Id": "5e04-be01-6254-98b9"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(6+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "31dc-5b36-bbf8-bba3"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b086d966c2c145e1dfd",
     "Name": "Gigantic Spawn",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3096,10 +5149,55 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_44"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b086d966c2c145e206f",
     "Name": "Jabberslythe",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3192,10 +5290,49 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_38"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "dfb4-a590-c057-c4f1"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "2e29-8f80-1a23-dbdb"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b086d966c2c145e22ef",
     "Name": "Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3238,10 +5375,77 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b086d966c2c145e28e5",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "6847dd647e64980f6761ff6b",
     "Name": "Preyton",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3286,10 +5490,43 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "11",
+    "Children": [
+      {
+        "Id": "statline_47"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "988d-7383-6ad8-b25d"
+      },
+      {
+        "Id": "c8a8-9dd9-7b0c-54cf"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b086d966c2c145e35c0",
     "Name": "Bonegrinder Giant",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3334,5 +5571,42 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      }
+    ]
+>>>>>>> test
   }
 ]

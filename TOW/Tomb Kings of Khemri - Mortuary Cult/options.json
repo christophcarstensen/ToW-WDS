@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Id": "c7e7638c-7204-446e-af9b-116aa8fe825b",
@@ -296,3 +297,12 @@
     "StatlineIndex": ""
   }
 ]
+=======
+﻿[
+    {
+        "Id":  "champion_venerable_ancient",
+        "Name":  "Venerable Ancient",
+        "Type":  5
+    }
+]
+>>>>>>> test

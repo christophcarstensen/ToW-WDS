@@ -1,0 +1,1352 @@
+[
+  {
+    "Id": "statline_101",
+    "Name": "Bloodthirster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "10",
+      "BS": "5",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "7",
+      "A": "6",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "98b5-10aa-d591-14fa"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_102",
+    "Name": "Daemon Prince",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "7",
+      "BS": "5",
+      "S": "6",
+      "T": "5",
+      "W": "4",
+      "I": "7",
+      "A": "5",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "525f-ed7f-9ed6-b396"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_103",
+    "Name": "Great Unclean One",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "3",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "4",
+      "A": "5",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_104",
+    "Name": "Herald of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "7",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_105",
+    "Name": "Juggernaut of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+1)",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "a2d4-a8c-aaf6-c326"
+      }
+    ]
+  },
+  {
+    "Id": "statline_106",
+    "Name": "Blood Throne Of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+4)",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_107",
+    "Name": "Bloodletter Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      }
+    ]
+  },
+  {
+    "Id": "statline_108",
+    "Name": "Herald of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "5",
+      "S": "5",
+      "T": "5",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [,
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_109",
+    "Name": "Palanquin of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "(+4)",
+      "I": "3",
+      "A": "D6+1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_110",
+    "Name": "Herald of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [,
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_111",
+    "Name": "Steed of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_112",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_113",
+    "Name": "Daemonette Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_114",
+    "Name": "Exalted Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+6)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_115",
+    "Name": "Herald of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_116",
+    "Name": "Disc of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_117",
+    "Name": "Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_118",
+    "Name": "Screamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "ec59-a4dd-928c-f154"
+      }
+    ]
+  },
+  {
+    "Id": "statline_119",
+    "Name": "Burning Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "256b-6a1-239c-178e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_120",
+    "Name": "Exalted Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_121",
+    "Name": "Blue Horror Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_122",
+    "Name": "Keeper of Secrets",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "7",
+      "BS": "6",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "7",
+      "A": "6",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "b5de-11a2-d4dc-8530"
+      }
+    ]
+  },
+  {
+    "Id": "statline_123",
+    "Name": "Lord of Change",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "6",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "6",
+      "A": "4",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_124",
+    "Name": "Bloodletter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_125",
+    "Name": "Bloodreaper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_126",
+    "Name": "Blue Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_127",
+    "Name": "Ectoplasmic Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_128",
+    "Name": "Brimstone Horrors",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "2",
+      "BS": "2",
+      "S": "2",
+      "T": "3",
+      "W": "6",
+      "I": "2",
+      "A": "4",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_129",
+    "Name": "Chaos Fury",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "7046-2e99-b93-c148"
+      }
+    ]
+  },
+  {
+    "Id": "statline_130",
+    "Name": "Daemonette",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_131",
+    "Name": "Alluress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_132",
+    "Name": "Flesh Hound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "5",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_133",
+    "Name": "Nurglings",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "0",
+      "S": "2",
+      "T": "3",
+      "W": "7",
+      "I": "2",
+      "A": "D3+1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_134",
+    "Name": "Pink Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_135",
+    "Name": "Iridescent Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_136",
+    "Name": "Plaguebearer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_137",
+    "Name": "Plagueridden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_138",
+    "Name": "Seeker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_139",
+    "Name": "Heartseeker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_140",
+    "Name": "Beast of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "D6+1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "6468-50c6-9b68-c662"
+      }
+    ]
+  },
+  {
+    "Id": "statline_141",
+    "Name": "Bloodletter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_142",
+    "Name": "Juggernaut of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "a2d4-a8c-aaf6-c326"
+      }
+    ]
+  },
+  {
+    "Id": "statline_143",
+    "Name": "Bloodreaper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_144",
+    "Name": "Fiend of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "6",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      },
+      {
+        "Id": "c2dd-e3b2-645e-f01b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_145",
+    "Name": "Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_146",
+    "Name": "Pyroclaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_147",
+    "Name": "Exalted Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_148",
+    "Name": "Hellflayer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_149",
+    "Name": "Exalted Alluress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_150",
+    "Name": "Plaguebearer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c9e2-68ca-3b19-c513"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_151",
+    "Name": "Rot Fly",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_152",
+    "Name": "Plagueridden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c9e2-68ca-3b19-c513"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_153",
+    "Name": "Screamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "ec59-a4dd-928c-f154"
+      }
+    ]
+  },
+  {
+    "Id": "statline_154",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_155",
+    "Name": "Burning Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "256b-6a1-239c-178e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_156",
+    "Name": "Skull Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "7cd6-d329-ea50-6d9a"
+      },
+      {
+        "Id": "f0f4-6d93-2765-627c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_157",
+    "Name": "Soul Grinder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "3",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "3",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "89ae-9660-ecf4-35cf"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "acee-e9b9-7db8-e2df"
+      }
+    ]
+  }
+]

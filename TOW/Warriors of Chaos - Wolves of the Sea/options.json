@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Id": "c68ca70b-d29b-41e0-8d4a-ed578aff312a",
@@ -544,3 +545,22 @@
     "StatlineIndex": ""
   }
 ]
+=======
+﻿[
+    {
+        "Id":  "champion_first_sword",
+        "Name":  "First Sword",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_headtaker",
+        "Name":  "Headtaker",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_skin_wolf_jarl",
+        "Name":  "Skin Wolf Jarl",
+        "Type":  5
+    }
+]
+>>>>>>> test

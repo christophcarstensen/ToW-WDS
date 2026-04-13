@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "Id": "c316dccf-bbaf-4095-8ec4-a684ed941fab",
     "Name": "Cold One",
     "Attributes": {
@@ -644,10 +645,312 @@
         "length": "100"
       }
     }
+=======
+    "Id": "68357b246d966c2c14628576",
+    "Name": "Dark Elf Dreadlord",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      }
+    ]
+  },
+  {
+    "Id": "c316dccf-bbaf-4095-8ec4-a684ed941fab",
+    "Name": "Dark Elf Dreadlord on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_159"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "18006733-f7c2-4e31-9d93-09371ee8778f",
+    "Name": "Dark Elf Dreadlord on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "046723fb-d378-4720-a071-0460354a88fd",
+    "Name": "Dark Elf Dreadlord on Black Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_161"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "6ab31f5f-5022-4614-9b27-2589b80db2ca",
+    "Name": "Dark Elf Dreadlord on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_162"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "267c-dd21-b1b0-57ee"
+      }
+    ]
+  },
+  {
+    "Id": "b9c5a8fd-c0c6-48f4-9022-42c985ea0386",
+    "Name": "Dark Elf Dreadlord on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_163"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "098914e0-aba5-4f8c-ae0b-f294c3ef6d90",
+    "Name": "Dark Elf Dreadlord on Cold One Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "statline_164"
+      },
+      {
+        "Id": "statline_165"
+      },
+      {
+        "Id": "statline_166"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b266d966c2c1462d9e0",
     "Name": "Dark Elf Master",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -763,10 +1066,213 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      }
+    ]
+  },
+  {
+    "Id": "d18167b1-1628-4076-9a8e-d9f6b84efc2b",
+    "Name": "Dark Elf Master on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "statline_159"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "a749c646-b3af-4a8f-a6e3-94712b23191a",
+    "Name": "Dark Elf Master on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "744b8c53-57fc-4be1-9fab-0413cf99dbb1",
+    "Name": "Dark Elf Master on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "statline_163"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "09e690fa-f31d-4693-bc44-2e3647ba3883",
+    "Name": "Dark Elf Master on Cold One Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "statline_164"
+      },
+      {
+        "Id": "statline_165"
+      },
+      {
+        "Id": "statline_166"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b286d966c2c14633cd9",
     "Name": "Death Hag",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -957,10 +1463,107 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_168"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(all enemies)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      }
+    ]
+  },
+  {
+    "Id": "89d12351-ebed-459f-9ac2-902885eabbc3",
+    "Name": "Death Hag on Cauldron of Blood",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_168"
+      },
+      {
+        "Id": "statline_169"
+      },
+      {
+        "Id": "statline_170"
+      },
+      {
+        "Id": "db3d-faa3-4355-3a6b"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "a042-c2f5-ebcb-2bab"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(all enemies)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b296d966c2c1463902c",
     "Name": "High Beastmaster",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1030,10 +1633,167 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_171"
+      },
+      {
+        "Id": "statline_162"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "e3ae-90-a94a-e684"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "267c-dd21-b1b0-57ee"
+      }
+    ]
+  },
+  {
+    "Id": "598ef3c0-5284-4bf0-bcc4-26edae8314dc",
+    "Name": "High Beastmaster on Manticore",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_171"
+      },
+      {
+        "Id": "statline_162"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "e3ae-90-a94a-e684"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "267c-dd21-b1b0-57ee"
+      }
+    ]
+  },
+  {
+    "Id": "d87ed468-e700-4f9d-aa69-9eafb008dc6b",
+    "Name": "High Beastmaster on Scourgerunner Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_171"
+      },
+      {
+        "Id": "statline_172"
+      },
+      {
+        "Id": "statline_173"
+      },
+      {
+        "Id": "statline_174"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "e3ae-90-a94a-e684"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "a52f-2b8e-55bf-b140"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2b6d966c2c1463e3bb",
     "Name": "Khainite Assassin",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1229,10 +1989,39 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_175"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(All Enemies)"
+      },
+      {
+        "Id": "a3c3-954c-5b3a-17f5"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "48fd-23c1-c0d5-ae1d"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2b6d966c2c1463ec1f",
     "Name": "Sorceress",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1489,10 +2278,181 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_176"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      }
+    ]
+  },
+  {
+    "Id": "30e6a466-6dde-4f17-b543-8e4a7cff303c",
+    "Name": "Sorceress on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_176"
+      },
+      {
+        "Id": "statline_159"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "949ccf70-1f14-4123-b60f-bad82c431763",
+    "Name": "Sorceress on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_176"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "664afd90-1905-404b-b8b0-4ceaad73031e",
+    "Name": "Sorceress on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_176"
+      },
+      {
+        "Id": "statline_163"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2d6d966c2c14644a58",
     "Name": "Supreme Sorceress",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1584,10 +2544,234 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_177"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      }
+    ]
+  },
+  {
+    "Id": "033d04f7-a645-40df-8de0-82c18951d5a4",
+    "Name": "Supreme Sorceress on Cold One",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_177"
+      },
+      {
+        "Id": "statline_159"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "d3652afb-795c-48ee-aaf0-20446d7b438a",
+    "Name": "Supreme Sorceress on Dark Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_177"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "2e0232db-8583-49a4-94e7-30837074b160",
+    "Name": "Supreme Sorceress on Black Dragon",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_177"
+      },
+      {
+        "Id": "statline_161"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+  },
+  {
+    "Id": "db8a3dfa-4ed8-4477-b09b-47a17bb108d2",
+    "Name": "Supreme Sorceress on Dark Pegasus",
+    "Type": "Profile",
+    "BaseId": "14",
+    "Children": [
+      {
+        "Id": "statline_177"
+      },
+      {
+        "Id": "statline_163"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Dark Pegasus only)"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "909c-157c-ea4c-bb2d"
+      },
+      {
+        "Id": "dea-f874-c70e-2e4a"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2f6d966c2c1464a8a3",
     "Name": "Corsair",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1677,10 +2861,63 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_178"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "a52f-2b8e-55bf-b140"
+      }
+    ]
+  },
+  {
+    "Id": "68357b2f6d966c2c1464ac7a",
+    "Name": "Reaver (Corsair)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_179"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "a52f-2b8e-55bf-b140"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2f6d966c2c1464b7e3",
     "Name": "Repeater Crossbowman",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1769,10 +3006,57 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_180"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      }
+    ]
+  },
+  {
+    "Id": "68357b2f6d966c2c1464ba23",
+    "Name": "Lordling (Repeater Crossbowman)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_181"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b2f6d966c2c1464c0c3",
     "Name": "Dark Elf Warrior",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1880,10 +3164,57 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_182"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      }
+    ]
+  },
+  {
+    "Id": "68357b2f6d966c2c1464c300",
+    "Name": "Lordling (Dark Elf Warrior)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_183"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b306d966c2c1464c997",
     "Name": "Dark Rider",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1993,10 +3324,75 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_184"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357b306d966c2c1464cbfe",
+    "Name": "Herald (Dark Rider)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_185"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b306d966c2c1464d2f1",
     "Name": "Witch Elf",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2090,10 +3486,81 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_186"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      }
+    ]
+  },
+  {
+    "Id": "68357b306d966c2c1464d6c0",
+    "Name": "Hag (Witch Elf)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_187"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b306d966c2c1464e212",
     "Name": "Black Guard",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2138,10 +3605,75 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_188"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357b316d966c2c1464ec18",
+    "Name": "Tower Master (Black Guard)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_189"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "fab5-2714-1dd-4ed8"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "6133-9bd8-8780-23ed"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b316d966c2c14650a0c",
     "Name": "Cold One Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2300,10 +3832,53 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_190"
+      },
+      {
+        "Id": "statline_165"
+      },
+      {
+        "Id": "statline_166"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b316d966c2c14650c52",
     "Name": "Cold One Knight",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2416,10 +3991,97 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_191"
+      },
+      {
+        "Id": "statline_192"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357b316d966c2c14651688",
+    "Name": "Dread Knight (Cold One Knight)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_193"
+      },
+      {
+        "Id": "statline_192"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Cold One only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "f7af-e016-1f9c-54c0"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b326d966c2c146534e1",
     "Name": "Shade",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2509,10 +4171,69 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_194"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357b326d966c2c14653d53",
+    "Name": "Bloodshade (Shade)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_195"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b326d966c2c146545b7",
     "Name": "Executioner",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2555,10 +4276,63 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_196"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+  },
+  {
+    "Id": "68357b326d966c2c14654fbb",
+    "Name": "Draich Master (Executioner)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_197"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "4022-c403-b083-ba83"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b336d966c2c14656da7",
     "Name": "Harpy",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2597,10 +4371,39 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_37"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(10)"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b336d966c2c14656fc1",
     "Name": "Kharibdyss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2643,10 +4446,42 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_198"
+      },
+      {
+        "Id": "5bc1-9e5a-d313-7f26"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1084-a4e9-79f-3462"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b336d966c2c146571f8",
     "Name": "Scourgerunner Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2730,10 +4565,46 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_199"
+      },
+      {
+        "Id": "statline_173"
+      },
+      {
+        "Id": "statline_174"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "a52f-2b8e-55bf-b140"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b336d966c2c14657441",
     "Name": "War Hydra",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2828,10 +4699,47 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_200"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "23c7-1aeb-5f02-c9e1",
+        "Info": "(+remaining Wounds)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1084-a4e9-79f-3462"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b336d966c2c14657670",
     "Name": "Witch Elf",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2875,10 +4783,81 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_186"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      }
+    ]
+  },
+  {
+    "Id": "68357b336d966c2c14657a3d",
+    "Name": "Hag (Witch Elf)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_187"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b346d966c2c14658588",
     "Name": "Bloodwrack Medusa",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2925,10 +4904,49 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_201"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "b8ee-3d5f-7896-c7d8"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b346d966c2c146587ae",
     "Name": "Bloodwrack Shrine",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3035,10 +5053,59 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_202"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "a042-c2f5-ebcb-2bab"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "b8ee-3d5f-7896-c7d8"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b346d966c2c146589fd",
     "Name": "Doomfire Warlock",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3097,10 +5164,89 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_203"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "de9b-915c-95a0-803e"
+      },
+      {
+        "Id": "6f31-6ced-94b8-627e"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39",
+        "Info": "(Doomfire Warlocks and Master only)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "68357b346d966c2c1465925d",
+    "Name": "Master (Doomfire Warlock)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_204"
+      },
+      {
+        "Id": "statline_160"
+      },
+      {
+        "Id": "de9b-915c-95a0-803e"
+      },
+      {
+        "Id": "6f31-6ced-94b8-627e"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39",
+        "Info": "(Doomfire Warlocks and Master only)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b346d966c2c14659aab",
     "Name": "Kharibdyss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3143,10 +5289,42 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_198"
+      },
+      {
+        "Id": "5bc1-9e5a-d313-7f26"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1084-a4e9-79f-3462"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b356d966c2c14659cdb",
     "Name": "Reaper Bolt Thrower",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3233,10 +5411,30 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_205"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b356d966c2c14659f01",
     "Name": "Sister of Slaughter",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3279,10 +5477,75 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_206"
+      },
+      {
+        "Id": "410d-4b9e-8e83-6ff3"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      }
+    ]
+  },
+  {
+    "Id": "68357b356d966c2c1465a2cd",
+    "Name": "Hag (Sister of Slaughter)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_207"
+      },
+      {
+        "Id": "410d-4b9e-8e83-6ff3"
+      },
+      {
+        "Id": "cf6b-ab6d-f5a1-e20c"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(High Elves)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "404b-9605-8eb5-e94b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b356d966c2c1465ae16",
     "Name": "War Hydra",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3376,10 +5639,47 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_200"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "23c7-1aeb-5f02-c9e1",
+        "Info": "(+remaining Wounds)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1084-a4e9-79f-3462"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b356d966c2c1465b060",
     "Name": "Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3422,10 +5722,92 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357b356d966c2c1465b610",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357b366d966c2c1465c6ac",
     "Name": "Imperial Dwarf Warrior",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3467,5 +5849,34 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      }
+    ]
+>>>>>>> test
   }
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Id": "405dfd25-c989-4270-b21f-8b3bbaf5b726",
@@ -248,3 +249,12 @@
     "StatlineIndex": ""
   }
 ]
+=======
+﻿[
+    {
+        "Id":  "champion_shrine_keeper",
+        "Name":  "Shrine Keeper",
+        "Type":  5
+    }
+]
+>>>>>>> test

@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "Id": "cffa6096-10c2-425d-a3cc-6055fa1b2c20",
     "Name": "On Foot",
     "Type": "Mount",
@@ -430,5 +431,20 @@
     "OwnerId": "68357c456d966c2c149878cb",
     "WDSDataId": "profile_1765311714447",
     "StatlineIndex": ""
+=======
+    "Id": "8c53e34c-f79c-4268-9b1e-43683f533e73",
+    "Name": "Ancient",
+    "Type": 1
+  },
+  {
+    "Id": "67ca1319-33ac-4385-9afd-26aeb0564826",
+    "Name": "Greatbow",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b005-a9dc-59f1-1977"
+      }
+    ]
+>>>>>>> test
   }
 ]

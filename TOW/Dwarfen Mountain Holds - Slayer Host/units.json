@@ -2,6 +2,7 @@
   {
     "Id": "unit_1764969775401",
     "Name": "Brotherhood Of Grimnir",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Special",
       "army": "Dwarfen Mountain Holds - Slayer Host",
@@ -26,10 +27,22 @@
       "option_1765913940018",
       "option_1765913963070"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "profile_1764962748049"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b496d966c2c14684736",
     "Name": "Ungrim Ironfist",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "315",
       "category": "Named Characters",
@@ -49,10 +62,22 @@
     "ProfileIds": [
       "68357b496d966c2c1468473a"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b496d966c2c1468473a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4a6d966c2c14684f40",
     "Name": "Daemon Slayer",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "130",
       "category": "Characters",
@@ -73,10 +98,22 @@
     "ProfileIds": [
       "68357b4a6d966c2c14684f44"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4a6d966c2c14684f44"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4a6d966c2c1468537d",
     "Name": "Dragon Slayer",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "70",
       "category": "Characters",
@@ -95,10 +132,22 @@
     "ProfileIds": [
       "68357b4a6d966c2c14685381"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4a6d966c2c14685381"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b3d6d966c2c146691f5",
     "Name": "Slayers",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "12",
       "category": "Core",
@@ -123,10 +172,22 @@
       "68357b4c6d966c2c1468a403",
       "68357b4c6d966c2c1468a403g"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4c6d966c2c1468a403"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468abcd",
     "Name": "Doomseeker",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "50",
       "category": "Special",
@@ -145,10 +206,22 @@
     "ProfileIds": [
       "68357b4d6d966c2c1468abd6"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4d6d966c2c1468abd6"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468afdc",
     "Name": "Dwarf Cart",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "65",
       "category": "Rare",
@@ -167,10 +240,22 @@
     "ProfileIds": [
       "68357b4d6d966c2c1468afdf"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Light Chariot"
+    },
+    "BasicProfileIds": [
+      "68357b4d6d966c2c1468afdf"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468b790",
     "Name": "Hammerers",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "16",
       "category": "Rare",
@@ -199,10 +284,22 @@
     "ProfileIds": [
       "68357b4d6d966c2c1468b793"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4d6d966c2c1468b793"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b4f6d966c2c1468e8f4",
     "Name": "Rangers",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "11",
       "category": "Mercenaries",
@@ -236,10 +333,22 @@
     "ProfileIds": [
       "68357b4f6d966c2c1468e8f7"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b4f6d966c2c1468e8f7"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b506d966c2c14691d14",
     "Name": "Goblin-Hewer",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "120",
       "category": "Rare",
@@ -259,10 +368,22 @@
     "ProfileIds": [
       "68357b506d966c2c14691d1c"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "68357b506d966c2c14691d1c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b466d966c2c1467c530",
     "Name": "Badlands Ogre Bulls",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
@@ -292,10 +413,22 @@
     "ProfileIds": [
       "68357b466d966c2c1467c54e"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Monstrous Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b466d966c2c1467c54e"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b476d966c2c1467e926",
     "Name": "Doomseeker",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "50",
       "category": "Mercenaries",
@@ -314,10 +447,22 @@
     "ProfileIds": [
       "68357b476d966c2c1467e92c"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b476d966c2c1467e92c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b486d966c2c1467f9eb",
     "Name": "Imperial Dwarf Mercenaries",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "8",
       "category": "Mercenaries",
@@ -349,10 +494,22 @@
     "ProfileIds": [
       "68357b486d966c2c1467f9f1"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b486d966c2c1467f9f1"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b486d966c2c14682843",
     "Name": "Imperial Ogres",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
@@ -379,10 +536,22 @@
     "ProfileIds": [
       "68357b486d966c2c14682857"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Monstrous Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b486d966c2c14682857"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b406d966c2c1466eeb6",
     "Name": "Prince Ulther's Dragon Company",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "115",
       "category": "Mercenaries",
@@ -412,5 +581,16 @@
     "ProfileIds": [
       "68357b406d966c2c1466eed9"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b406d966c2c1466eed9"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   }
 ]

@@ -2,6 +2,7 @@
   {
     "Id": "68357be06d966c2c1483b6ad",
     "Name": "Kiknik Toofsnatcha",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -74,10 +75,84 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_511"
+      },
+      {
+        "Id": "statline_512"
+      },
+      {
+        "Id": "9c83-738c-c8bc-7ca4"
+      },
+      {
+        "Id": "8c0b-6fe6-dc06-512"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1, Chompa only)"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "8b84-abc0-9eff-bf28"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "71d4-7ac2-bcf6-a9b9"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "bdfa-7454-de80-7d73",
+        "Info": "(Hammer)"
+      },
+      {
+        "Id": "c478-cb33-aa71-5e7a",
+        "Info": "(Pick)"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be06d966c2c1483b897",
     "Name": "Ogdruz Swampdigga",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -355,10 +430,50 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_513"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "296f-b05b-2e45-909d"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "ce1-45e2-ec44-a54d"
+      },
+      {
+        "Id": "e7-89e4-3ae2-65db"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "33f2-c333-97a-c1a7"
+      },
+      {
+        "Id": "b990-5f17-350f-c244"
+      },
+      {
+        "Id": "af85-e641-1bb1-2314"
+      },
+      {
+        "Id": "4ee3-2ad1-7dee-f23"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be06d966c2c1483ba6e",
     "Name": "Black Orc Bigboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -692,10 +807,228 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_55"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "6d070043-ec85-40b1-be3e-ebc78bd3a211",
+    "Name": "Black Orc Bigboss on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_55"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "14a52af9-e60e-4919-907c-cb10599345a3",
+    "Name": "Black Orc Bigboss on Orc Boar Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_55"
+      },
+      {
+        "Id": "statline_57"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_59"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+  },
+  {
+    "Id": "fd283091-0b8f-4ade-a3c6-1c35df7bc391",
+    "Name": "Black Orc Bigboss on Black Orc Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_55"
+      },
+      {
+        "Id": "statline_60"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_61"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be16d966c2c1483e2fc",
     "Name": "Black Orc Warboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -925,10 +1258,286 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_62"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "d908f56a-7cb5-4a51-b309-2d22252d155f",
+    "Name": "Black Orc Warboss on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_62"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "cb1aaa4c-3590-4b42-9583-cdbaede983fc",
+    "Name": "Black Orc Warboss on Orc Boar Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_62"
+      },
+      {
+        "Id": "statline_57"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_59"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+  },
+  {
+    "Id": "e4e6340b-9045-495d-8dc7-245ddd68d0dc",
+    "Name": "Black Orc Warboss on Wyvern",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_62"
+      },
+      {
+        "Id": "statline_63"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c761-4dde-b2c8-b6fe"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "8f63eacb-743f-4ee7-bce9-f94c649254dc",
+    "Name": "Black Orc Warboss on Black Orc Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_62"
+      },
+      {
+        "Id": "statline_60"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_61"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be26d966c2c14840dc0",
     "Name": "Goblin Bigboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1105,10 +1714,182 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_514"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "829d6df3-9f41-4e06-9a41-4e2243746419",
+    "Name": "Goblin Bigboss on Goblin Wolf Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_514"
+      },
+      {
+        "Id": "statline_515"
+      },
+      {
+        "Id": "statline_516"
+      },
+      {
+        "Id": "statline_517"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "4f83b230-100d-4bee-9151-cb414f9ae6f4",
+    "Name": "Goblin Bigboss on Gigantic Spider",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_514"
+      },
+      {
+        "Id": "statline_518"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "c0c8353f-c6af-44cd-9a22-b532fef55cfc",
+    "Name": "Goblin Bigboss on Giant Wolf",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_514"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be36d966c2c148435ab",
     "Name": "Goblin Oddgit",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1368,10 +2149,140 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_519"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "afed-c0ac-a708-3351"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "535e3bfe-5941-4c6d-b359-95d45086d3f4",
+    "Name": "Goblin Oddgit on Goblin Wolf Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_519"
+      },
+      {
+        "Id": "statline_515"
+      },
+      {
+        "Id": "statline_516"
+      },
+      {
+        "Id": "statline_517"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "3a8682a7-fddb-4ecd-83a7-3e7056b3e483",
+    "Name": "Goblin Oddgit on Giant Wolf",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_519"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be46d966c2c1484523c",
     "Name": "Goblin Oddnob",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1603,10 +2514,212 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_520"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "afed-c0ac-a708-3351"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "9219cbce-36ad-4ce0-8421-c0d150a0beb0",
+    "Name": "Goblin Oddnob on Goblin Wolf Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_520"
+      },
+      {
+        "Id": "statline_515"
+      },
+      {
+        "Id": "statline_516"
+      },
+      {
+        "Id": "statline_517"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "ff7e3060-b16e-425c-8de4-6aa2bf8114ab",
+    "Name": "Goblin Oddnob on Arachnarok Spider",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statline_520"
+      },
+      {
+        "Id": "statline_521"
+      },
+      {
+        "Id": "statline_522"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b8f6-1cbc-b19-c7b7"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "d4a3-bdc8-bdad-bb9"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "b5ccac62-23ab-4a37-b09b-62eaad7312c3",
+    "Name": "Goblin Oddnob on Giant Wolf",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_520"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "1c45-4b57-e14e-478d"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be56d966c2c1484791f",
     "Name": "Goblin Warboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1794,10 +2907,182 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_523"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "e8e34f5a-6ade-4d17-bf61-7c56289cb3a8",
+    "Name": "Goblin Warboss on Goblin Wolf Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_523"
+      },
+      {
+        "Id": "statline_515"
+      },
+      {
+        "Id": "statline_516"
+      },
+      {
+        "Id": "statline_517"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+  },
+  {
+    "Id": "3be576e4-b25b-4d03-96b3-21a3ca3ac12c",
+    "Name": "Goblin Warboss on Gigantic Spider",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_523"
+      },
+      {
+        "Id": "statline_518"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "769fabe5-4d43-42cf-b28b-8cf66d0e247b",
+    "Name": "Goblin Warboss on Giant Wolf",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_523"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be56d966c2c14849a7e",
     "Name": "Orc Bigboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2047,10 +3332,180 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_529"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "efac8576-54d2-4902-81b9-59ba51717f54",
+    "Name": "Orc Bigboss on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_529"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "a56acc69-9561-4e84-8fcf-08cd3d1a69b5",
+    "Name": "Orc Bigboss on Orc Boar Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_529"
+      },
+      {
+        "Id": "statline_57"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_59"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be66d966c2c1484b8a7",
     "Name": "Orc Warboss",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2149,10 +3604,244 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_530"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "79bf2430-5404-4801-bfcc-58df8fadae04",
+    "Name": "Orc Warboss on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_530"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "d94eaea6-4b8d-4f63-90bf-716063591181",
+    "Name": "Orc Warboss on Wyvern",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_530"
+      },
+      {
+        "Id": "statline_63"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c761-4dde-b2c8-b6fe"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+  },
+  {
+    "Id": "912d41dd-5a38-42eb-9dba-75621df5b25b",
+    "Name": "Orc Warboss on Orc Boar Chariot",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_530"
+      },
+      {
+        "Id": "statline_57"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_59"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "7711-627f-5ae5-cc7c"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be76d966c2c1484da95",
     "Name": "Orc Weirdboy",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2307,10 +3996,108 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_531"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      },
+      {
+        "Id": "dbf3-b0e3-2fa7-b173"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      }
+    ]
+  },
+  {
+    "Id": "95d1ae99-b143-45b6-a1cf-8143f25db57f",
+    "Name": "Orc Weirdboy on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_531"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      },
+      {
+        "Id": "dbf3-b0e3-2fa7-b173"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be76d966c2c1484ed62",
     "Name": "Orc Weirdnob",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2358,10 +4145,166 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_532"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      },
+      {
+        "Id": "dbf3-b0e3-2fa7-b173"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      }
+    ]
+  },
+  {
+    "Id": "10091fb8-6f7c-4af3-ac2d-17733d786625",
+    "Name": "Orc Weirdnob on War Boar",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_532"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      },
+      {
+        "Id": "dbf3-b0e3-2fa7-b173"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "251ce4be-6dd9-4c8e-a3b0-c857d93cc63f",
+    "Name": "Orc Weirdnob on Wyvern",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_532"
+      },
+      {
+        "Id": "statline_63"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "48b1-c979-edba-2158"
+      },
+      {
+        "Id": "dbf3-b0e3-2fa7-b173"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "c761-4dde-b2c8-b6fe"
+      },
+      {
+        "Id": "8382-4e23-e72c-d90"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be86d966c2c148509c1",
     "Name": "Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2438,10 +4381,52 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_566"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "statline_61"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": "(Black Orc Crew only)"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be86d966c2c14850d91",
     "Name": "Goblin Wolf Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2650,10 +4635,57 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_550"
+      },
+      {
+        "Id": "statline_516"
+      },
+      {
+        "Id": "statline_517"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "1b65-71ef-52a3-93d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be96d966c2c1485119b",
     "Name": "Wolf Rider",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2715,10 +4747,97 @@
         "length": "50"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_538"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "68357bd76d966c2c1482a810c",
+    "Name": "Boss (Wolf Rider)",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_537"
+      },
+      {
+        "Id": "statline_69"
+      },
+      {
+        "Id": "afa3-a46a-2608-f62c"
+      },
+      {
+        "Id": "df-a39-e62-1c57"
+      },
+      {
+        "Id": "6cb0-9d5a-f165-e272"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357be96d966c2c148519d0",
     "Name": "Boar Boy",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2782,10 +4901,112 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_554"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bdb6d966c2c148339c7c",
+    "Name": "Boss (Boar Boy)",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_555"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bea6d966c2c14853ac7",
     "Name": "Boar Boy",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2849,10 +5070,64 @@
         "length": "60"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_554"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "5450-cbf1-3e74-254a",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bea6d966c2c14855baf",
     "Name": "Orc Boar Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2933,10 +5208,60 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_556"
+      },
+      {
+        "Id": "statline_58"
+      },
+      {
+        "Id": "statline_59"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "78e4-fffe-6662-41fe"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bea6d966c2c14855da2",
     "Name": "Snotling Pump Wagon",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2993,10 +5318,49 @@
         "length": "75"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_558"
+      },
+      {
+        "Id": "statline_559"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(3, Pump Wagon Impact Hits only)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bea6d966c2c14855f5f",
     "Name": "Chariot",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3073,10 +5437,52 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_566"
+      },
+      {
+        "Id": "statline_56"
+      },
+      {
+        "Id": "statline_61"
+      },
+      {
+        "Id": "b592-330-5a29-162f"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "785a-2886-af42-dce9"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": "(Black Orc Crew only)"
+      },
+      {
+        "Id": "a097-2e5c-8366-efc1"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c392-507a-daf5-126"
+      },
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357beb6d966c2c14856324",
     "Name": "Giant",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3169,10 +5575,54 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_505"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "e433-20e5-52c4-8f15"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "fe58-2a95-7d15-4c0"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "742-e3dd-26f9-778f"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357beb6d966c2c148564f7",
     "Name": "Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3215,10 +5665,92 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357beb6d966c2c14856a43",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357beb6d966c2c14857520",
     "Name": "Bonegrinder Giant",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3263,10 +5795,54 @@
         "length": "100"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357beb6d966c2c148576dd",
     "Name": "Doomseeker",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3315,10 +5891,71 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100"
+      },
+      {
+        "Id": "233a-1715-82be-1410"
+      },
+      {
+        "Id": "74e5-b4c9-5ca9-6ca2"
+      },
+      {
+        "Id": "8961-ff44-72ad-9de1"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "133a-a421-c52f-e33f"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bec6d966c2c148578eb",
     "Name": "Imperial Dwarf Warrior",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3408,10 +6045,46 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bec6d966c2c148581c5",
     "Name": "Imperial Ogre",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3454,10 +6127,92 @@
         "length": "40"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bec6d966c2c148583c0",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bec6d966c2c1485859b",
     "Name": "Standard Bearer (Dragon Company trooper)",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3670,5 +6425,55 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "bcf8-d942-102e-b155"
+      }
+    ]
+>>>>>>> test
   }
 ]

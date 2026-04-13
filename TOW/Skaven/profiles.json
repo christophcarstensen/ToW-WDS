@@ -2,6 +2,7 @@
   {
     "Id": "68357bfa6d966c2c14875deb",
     "Name": "Weapon Team Crew",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1881,10 +1882,38 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_586"
+      },
+      {
+        "Id": "9944-e9db-28f2-c04f"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "81e-3f45-7d99-d927"
+      },
+      {
+        "Id": "9b30-4c0d-2758-1772"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bfe6d966c2c148packmaster",
     "Name": "Packmaster",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -1924,10 +1953,496 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_587"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "7aa8-e26d-1738-44b6"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfa6d966c2c148760ea",
+    "Name": "Grey Seer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_588"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "dfb6b530-91b4-49fd-aa25-8cc5444790f4",
+    "Name": "Grey Seer on Screaming Bell",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_588"
+      },
+      {
+        "Id": "statline_589"
+      },
+      {
+        "Id": "statline_590"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2, Rat Ogre only)"
+      },
+      {
+        "Id": "d1b-648-e07f-5175"
+      },
+      {
+        "Id": "a042-c2f5-ebcb-2bab"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "f768-e204-4c41-3dbc"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "e5d7-5cab-a440-cf46"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfa6d966c2c14877601",
+    "Name": "Master Assassin",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_591"
+      },
+      {
+        "Id": "8c0b-6fe6-dc06-512"
+      },
+      {
+        "Id": "f48b-78da-9aee-f1dc"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "eea7-89d9-a996-403c"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "8e17-dff-3ec8-ebab"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfb6d966c2c14877f1c",
+    "Name": "Plague Priest",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_592"
+      },
+      {
+        "Id": "a9e3-f7a2-26bc-60f7"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "cb083392-5076-4faa-b979-590b62574888",
+    "Name": "Plague Priest on Plague Furnace",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_592"
+      },
+      {
+        "Id": "statline_593"
+      },
+      {
+        "Id": "statline_594"
+      },
+      {
+        "Id": "a9e3-f7a2-26bc-60f7"
+      },
+      {
+        "Id": "a042-c2f5-ebcb-2bab"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "83e6-6917-19d0-95fc"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "f768-e204-4c41-3dbc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfb6d966c2c148791bf",
+    "Name": "Plague Priest",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_592"
+      },
+      {
+        "Id": "a9e3-f7a2-26bc-60f7"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "d744241d-b143-45c0-a6a2-807db818670e",
+    "Name": "Plague Priest on Plague Furnace",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_592"
+      },
+      {
+        "Id": "statline_593"
+      },
+      {
+        "Id": "statline_594"
+      },
+      {
+        "Id": "a9e3-f7a2-26bc-60f7"
+      },
+      {
+        "Id": "a042-c2f5-ebcb-2bab"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "83e6-6917-19d0-95fc"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "81f5-4895-4abc-fc39"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "f768-e204-4c41-3dbc"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487a45c",
+    "Name": "Skaven Chieftain",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_595"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487af36",
+    "Name": "Skaven Warlord",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_596"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487b86e",
+    "Name": "Warlock Engineer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_597"
+      },
+      {
+        "Id": "7988-e736-21a-8fc5"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "c396-488f-2432-3e7a"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487c4c9",
+    "Name": "Giant Rat",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_598"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "b49e-b47f-fb38-596e"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bfe6d966c2c148mastermoulder",
     "Name": "Master Moulder",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2050,10 +2565,824 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_599"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "7aa8-e26d-1738-44b6"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487ca9f",
+    "Name": "Night Runner",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_600"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487cd97",
+    "Name": "Nightleader (Night Runner)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_601"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487d083",
+    "Name": "Rat Swarms",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_602"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487de55",
+    "Name": "Gutter Runner",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_603"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "eea7-89d9-a996-403c"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487e782",
+    "Name": "Assassin (Gutter Runner)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_604"
+      },
+      {
+        "Id": "9fff-999f-6e96-e149"
+      },
+      {
+        "Id": "eea7-89d9-a996-403c"
+      },
+      {
+        "Id": "1a06-31aa-cbfe-1a5"
+      },
+      {
+        "Id": "e83e-f127-1904-3858"
+      },
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f0a6",
+    "Name": "Plague Monk",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_605"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f9d9",
+    "Name": "Plague Deacon (Plague Monk)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_606"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1488155a",
+    "Name": "Globadiers",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_607"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1488184b",
+    "Name": "Rat Ogre",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_608"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(2)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "38c6-b344-e030-1f4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14882a9a",
+    "Name": "Jezzail Team",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "statline_609"
+      },
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14882d8d",
+    "Name": "Doomwheel",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_610"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "b4a3-6d68-5ac6-59d6"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f",
+        "Info": "(Rats only)"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(2)"
+      },
+      {
+        "Id": "13dc-36db-30db-538c"
+      }
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14883080",
+    "Name": "Hell Pit Abomination",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_611"
+      },
+      {
+        "Id": "b76b-85eb-340a-6ba0"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "4924-fc1f-bcd-746a"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "7750-766e-e21e-ff21"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      }
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c1488336a",
+    "Name": "Censer Bearer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_612"
+      },
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14883658",
+    "Name": "Plagueclaw Catapult",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_613"
+      },
+      {
+        "Id": "statline_614"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      }
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c1488394f",
+    "Name": "Warp Lightning Cannon",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_615"
+      },
+      {
+        "Id": "statline_616"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c14883c5c",
+    "Name": "Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_45"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c148842d6",
+    "Name": "Champion (Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_46"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c1488513e",
+    "Name": "Bonegrinder Giant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_48"
+      },
+      {
+        "Id": "7c08-9451-ab5c-b5eb"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6+1)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0"
+      },
+      {
+        "Id": "4f28-3f86-cf88-6b3a"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "d3a2-c528-1da0-e731"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c14885428",
+    "Name": "Doomseeker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_100"
+      },
+      {
+        "Id": "233a-1715-82be-1410"
+      },
+      {
+        "Id": "74e5-b4c9-5ca9-6ca2"
+      },
+      {
+        "Id": "8961-ff44-72ad-9de1"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "93d9-c75b-f655-30ac"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "2ecd-c6b3-bd8b-864b"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-2)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "1b08-4621-6379-ff1f"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      },
+      {
+        "Id": "133a-a421-c52f-e33f"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c14885764",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_208"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "32f7-8e30-3fe8-b11e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c148864f6",
+    "Name": "Imperial Ogre",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_258"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c1488681f",
+    "Name": "Champion (Imperial Ogre)",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_259"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "6359-4018-5cd4-3720"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "68357c026d966c2c14886b28",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_293"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "1f64-3ddc-db58-12fb"
+      },
+      {
+        "Id": "2e16-e293-353e-6881"
+      },
+      {
+        "Id": "f4b3-18af-16bf-78dd",
+        "Info": "(Orcs & Goblins)"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "4d1b-2617-ebdc-4f4d"
+      },
+      {
+        "Id": "a230-c540-6a65-4974"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "bcf8-d942-102e-b155"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bfe6d966c2c148stormvermin",
     "Name": "Stormvermin",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2093,10 +3422,35 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_617"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      }
+    ]
+>>>>>>> test
   },
   {
     "Id": "68357bfe6d966c2c148stormverminc",
     "Name": "Fangleader",
+<<<<<<< HEAD
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2137,5 +3491,81 @@
         "length": "25"
       }
     }
+=======
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_618"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "2207-44c7-b287-ae97"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c148clanrats",
+    "Name": "Clanrats",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_619"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c148clanratsc",
+    "Name": "Clawleader",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_620"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "89ce-2c95-bf48-c8af"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+>>>>>>> test
   }
 ]

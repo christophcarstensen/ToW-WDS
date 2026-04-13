@@ -2,6 +2,7 @@
   {
     "Id": "68357b986d966c2c1475224b",
     "Name": "Border Princes Bombard",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Rare",
       "army": "Realms of Man - Renegade Crowns",
@@ -19,10 +20,22 @@
     "ProfileIds": [
       "68357b986d966c2c14752254"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "68357b986d966c2c14752254"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764642151839",
     "Name": "Border Princes Brigands",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Rare",
       "army": "Realms of Man - Renegade Crowns",
@@ -56,10 +69,22 @@
       "option_1764642350204",
       "option_1764642380984"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b986d966c2c1475262b"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764636633037",
     "Name": "Border Princes Mortars",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Special",
       "army": "Realms of Man - Renegade Crowns",
@@ -79,10 +104,22 @@
       "profile_1764635155669"
     ],
     "OptionListIds": []
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "profile_1764635155669"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764636473778",
     "Name": "Border Princes Organ Guns ",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Rare",
       "army": "Realms of Man - Renegade Crowns",
@@ -102,10 +139,22 @@
       "profile_1764635155668"
     ],
     "OptionListIds": []
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "profile_1764635155668"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764635045697",
     "Name": "Hireling Outrider",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -126,10 +175,22 @@
       "option_1764643935241",
       "option_1764643961193"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Light Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764625094894"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764634313672",
     "Name": "Veteran Freeblades",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -162,10 +223,48 @@
       "option_1764634450939",
       "option_1764634465832"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764625096024"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764634313672_warhorses",
+    "Name": "Veteran Freeblades on Warhorses",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764627652572"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764634313672_barded_warhorses",
+    "Name": "Veteran Freeblades on Barded Warhorses",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764626887332"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764634315489",
     "Name": "Veteran Freeblades",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Special",
       "army": "Realms of Man - Renegade Crowns",
@@ -198,10 +297,22 @@
       "option_1764634450939",
       "option_1764634465832"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764625096024"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764624652867",
     "Name": "Freeblade Knights",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -234,10 +345,48 @@
       "option_1764627287190",
       "option_1764627779573"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764624702462"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764624652867_barded_warhorse",
+    "Name": "Freeblade Knights on Barded Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764626887332"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764624652867_warhorses",
+    "Name": "Freeblade Knights on Warhorses",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764627652572"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764615435659",
     "Name": "Sellswords Infantry",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -270,10 +419,22 @@
       "option_1764616008100",
       "option_1764616034079"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "profile_1764615302059"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764614371352",
     "Name": "Veteran Sellswords",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -306,10 +467,22 @@
       "option_1764614873216",
       "option_1764614831669"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "profile_1764614075567"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764611811013",
     "Name": "Renegade Captain",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Characters",
       "army": "Realms of Man - Renegade Crowns",
@@ -342,10 +515,61 @@
       "option_1764642720520",
       "option_1764628805779"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "profile_1764611828433"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764611811013_barded_warhorse",
+    "Name": "Renegade Captain on Barded Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764626887332"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764611811013_warhorse",
+    "Name": "Renegade Captain on Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Light Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764635142696"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764611811013_warhorse",
+    "Name": "Renegade Captain on Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764627652572"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "unit_1764609204788",
     "Name": "Renegade Prince",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Characters",
       "army": "Realms of Man - Renegade Crowns",
@@ -378,10 +602,48 @@
       "option_1764642698332",
       "option_1764628896814"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "profile_1764610309360"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764609204788_barded_warhorse",
+    "Name": "Renegade Prince on Barded Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764626887332"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "unit_1764609204788_warhorse",
+    "Name": "Renegade Prince on Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764627652572"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357b916d966c2c1473e5b4",
     "Name": "Outcast Wizard",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Characters",
       "army": "Realms of Man - Renegade Crowns",
@@ -403,10 +665,35 @@
     "ProfileIds": [
       "68357b916d966c2c1473e5b7"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357b916d966c2c1473e5b7"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "68357b916d966c2c1473e5b4_warhorse",
+    "Name": "Outcast Wizard on Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Light Cavalry"
+    },
+    "BasicProfileIds": [
+      "profile_1764632624770"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357c0d6d966c2c148a58bf",
     "Name": "Empire Archers",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -429,10 +716,22 @@
     "ProfileIds": [
       "68357c0d6d966c2c148a58c2"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357c0d6d966c2c148a58c2"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "68357c0e6d966c2c148a8c33",
     "Name": "Free Company Militia",
+<<<<<<< HEAD
     "Attributes": {
       "category": "Core",
       "army": "Realms of Man - Renegade Crowns",
@@ -455,5 +754,16 @@
     "ProfileIds": [
       "68357c0e6d966c2c148a8c37"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "68357c0e6d966c2c148a8c37"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   }
 ]

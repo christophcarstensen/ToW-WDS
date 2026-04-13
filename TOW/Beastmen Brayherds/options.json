@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "Id": "a6548813-3b87-4ed7-9c41-73cf72aefecd",
     "Name": "On Foot",
     "Type": "Mount",
@@ -358,5 +359,20 @@
     "OwnerId": "68357b096d966c2c145e4b7f",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+=======
+    "Id": "9998620a-7ff2-4bd6-9b7e-15aa598fb685",
+    "Name": "Javelin",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      }
+    ]
+  },
+  {
+    "Id": "d1de6fba-474c-4bbc-8e8d-06d989b4d3d8",
+    "Name": "Throwing Axes",
+    "Type": 1
+>>>>>>> test
   }
 ]

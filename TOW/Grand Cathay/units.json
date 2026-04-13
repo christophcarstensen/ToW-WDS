@@ -2,6 +2,7 @@
   {
     "Id": "6866ef0af0f4ee4feb035535",
     "Name": "Miao Ying, The Storm Dragon",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "485",
       "category": "Named Characters",
@@ -25,10 +26,44 @@
     "ProfileIds": [
       "6866ef0af0f4ee4feb03553e"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0af0f4ee4feb03553e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0af0f4ee4feb035535_miao_ying,_human_form",
+    "Name": "Miao Ying, The Storm Dragon - Miao Ying, Human Form",
+    "Type": "Unit",
+    "Attributes": {},
+    "BasicProfileIds": [
+      "6866ef0af0f4ee4feb03553e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0af0f4ee4feb035535_miao_ying,_dragon_form",
+    "Name": "Miao Ying, The Storm Dragon - Miao Ying, Dragon Form",
+    "Type": "Unit",
+    "Attributes": {},
+    "BasicProfileIds": [
+      "6866ef0af0f4ee4feb03553f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0bf0f4ee4feb035736",
     "Name": "Gate Keeper",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "45",
       "category": "Characters",
@@ -54,10 +89,35 @@
     "ProfileIds": [
       "6866ef0bf0f4ee4feb035739"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0bf0f4ee4feb035739"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb035736_cathayan_warhorse",
+    "Name": "Gate Keeper on Cathayan Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0bf0f4ee4feb036c07",
     "Name": "Gate Master",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "80",
       "category": "Characters",
@@ -82,10 +142,35 @@
     "ProfileIds": [
       "6866ef0bf0f4ee4feb036c0a"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0bf0f4ee4feb036c0a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb036c07_cathayan_warhorse",
+    "Name": "Gate Master on Cathayan Warhorse",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "9e976c64-4500-44f6-9e6c-0e76a12bb488"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0bf0f4ee4feb037d56",
     "Name": "Lord Magistrate",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "65",
       "category": "Characters",
@@ -116,10 +201,35 @@
     "ProfileIds": [
       "6866ef0bf0f4ee4feb037d5e"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0bf0f4ee4feb037d5e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb037d56_sky_lantern",
+    "Name": "Lord Magistrate on Sky Lantern",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Chariot"
+    },
+    "BasicProfileIds": [
+      "d5dc961f-65f5-4652-a6ad-df6eae6fe27e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0cf0f4ee4feb039e62",
     "Name": "Shugengan General",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "175",
       "category": "Characters",
@@ -143,10 +253,22 @@
     "ProfileIds": [
       "6866ef0cf0f4ee4feb039e65"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Monstrous Creature"
+    },
+    "BasicProfileIds": [
+      "6866ef0cf0f4ee4feb039e65"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0cf0f4ee4feb03a87f",
     "Name": "Shugengan Lord",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "250",
       "category": "Characters",
@@ -170,10 +292,22 @@
     "ProfileIds": [
       "6866ef0cf0f4ee4feb03a887"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Monstrous Creature"
+    },
+    "BasicProfileIds": [
+      "6866ef0cf0f4ee4feb03a887"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0df0f4ee4feb03b2a4",
     "Name": "Strategist",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "40",
       "category": "Characters",
@@ -204,10 +338,35 @@
     "ProfileIds": [
       "6866ef0df0f4ee4feb03b2a7"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Regular Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0df0f4ee4feb03b2a7"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03b2a4_sky_lantern",
+    "Name": "Strategist on Sky Lantern",
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Chariot"
+    },
+    "BasicProfileIds": [
+      "cce541a3-9b7f-4748-af0a-7d0c71d28c97"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0df0f4ee4feb03d3a1",
     "Name": "Jade Lancer",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "20",
       "category": "Core",
@@ -236,10 +395,22 @@
     "ProfileIds": [
       "6866ef0df0f4ee4feb03d3ae"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "6866ef0df0f4ee4feb03d3ae"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0ef0f4ee4feb03fdd3",
     "Name": "Jade Warriors",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "8",
       "category": "Core",
@@ -268,10 +439,22 @@
     "ProfileIds": [
       "6866ef0ef0f4ee4feb03fdda"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef0ef0f4ee4feb03fdda"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0ef0f4ee4feb042789",
     "Name": "Cathayan Grand Cannon",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "130",
       "category": "Special",
@@ -295,10 +478,22 @@
     "ProfileIds": [
       "6866ef0ef0f4ee4feb042792"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "6866ef0ef0f4ee4feb042792"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0ff0f4ee4feb04297a",
     "Name": "Cathayan Sentinel",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "230",
       "category": "Special",
@@ -318,10 +513,20 @@
     "ProfileIds": [
       "6866ef0ff0f4ee4feb042982"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {},
+    "BasicProfileIds": [
+      "6866ef0ff0f4ee4feb042982"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0ff0f4ee4feb042b69",
     "Name": "Fire Rain Rocket Battery",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "130",
       "category": "Special",
@@ -345,10 +550,22 @@
     "ProfileIds": [
       "6866ef0ff0f4ee4feb042b72"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "War Machine"
+    },
+    "BasicProfileIds": [
+      "6866ef0ff0f4ee4feb042b72"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef0ff0f4ee4feb042d5a",
     "Name": "Jade Lancer",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "20",
       "category": "Special",
@@ -377,10 +594,22 @@
     "ProfileIds": [
       "6866ef0ff0f4ee4feb042d62"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Cavalry"
+    },
+    "BasicProfileIds": [
+      "6866ef0ff0f4ee4feb042d62"
+    ],
+    "DefaultFront": 5,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef10f0f4ee4feb045778",
     "Name": "Sky Lantern",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "135",
       "category": "Special",
@@ -403,10 +632,22 @@
     "ProfileIds": [
       "6866ef10f0f4ee4feb045780"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Chariot"
+    },
+    "BasicProfileIds": [
+      "6866ef10f0f4ee4feb045780"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef10f0f4ee4feb045b81",
     "Name": "Cathayan Sentinel",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "230",
       "category": "Rare",
@@ -426,10 +667,20 @@
     "ProfileIds": [
       "6866ef10f0f4ee4feb045b84"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {},
+    "BasicProfileIds": [
+      "6866ef10f0f4ee4feb045b84"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef10f0f4ee4feb045d6b",
     "Name": "Sky Lantern",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "135",
       "category": "Rare",
@@ -452,10 +703,22 @@
     "ProfileIds": [
       "6866ef10f0f4ee4feb045d6e"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Chariot"
+    },
+    "BasicProfileIds": [
+      "6866ef10f0f4ee4feb045d6e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef11f0f4ee4feb04616a",
     "Name": "Badlands Ogre Bulls",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
@@ -485,10 +748,22 @@
     "ProfileIds": [
       "6866ef11f0f4ee4feb04618b"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Monstrous Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef11f0f4ee4feb04618b"
+    ],
+    "DefaultFront": 3,
+    "Formation": 0
+>>>>>>> test
   },
   {
     "Id": "6866ef12f0f4ee4feb047496",
     "Name": "Doomseeker",
+<<<<<<< HEAD
     "Attributes": {
       "totalCost": "50",
       "category": "Mercenaries",
@@ -507,5 +782,16 @@
     "ProfileIds": [
       "6866ef12f0f4ee4feb04749c"
     ]
+=======
+    "Type": "Unit",
+    "Attributes": {
+      "type": "Heavy Infantry"
+    },
+    "BasicProfileIds": [
+      "6866ef12f0f4ee4feb04749c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 0
+>>>>>>> test
   }
 ]

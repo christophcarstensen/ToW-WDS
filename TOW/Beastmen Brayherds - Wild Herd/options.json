@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Id": "9da4f1b4-b1c1-400e-a9b8-4139483a12c2",
@@ -336,3 +337,22 @@
     "StatlineIndex": "1"
   }
 ]
+=======
+﻿[
+    {
+        "Id":  "32fdc071-654e-48ee-b641-af618f3d632c",
+        "Name":  "Splice-horn",
+        "Type":  1
+    },
+    {
+        "Id":  "champion_foerender",
+        "Name":  "Foe-render",
+        "Type":  5
+    },
+    {
+        "Id":  "champion_splicehorn",
+        "Name":  "Splice-horn",
+        "Type":  5
+    }
+]
+>>>>>>> test

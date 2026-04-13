@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Id": "3b32032f-a919-48ad-8a46-8d10272f47cb",
@@ -440,3 +441,13 @@
     "StatlineIndex": "1"
   }
 ]
+=======
+﻿[
+    {
+        "Id":  "champion_watchmaster",
+        "Name":  "Watchmaster",
+        "Type":  5
+    }
+]
+
+>>>>>>> test
