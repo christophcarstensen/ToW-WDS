@@ -1116,8 +1116,8 @@
     "PathName": "Lore of Undeath"
   },
   {
-    "Id": "vanhal’s danse macabre/lore of undeath",
-    "Name": "Vanhal’s Danse Macabre",
+    "Id": "vanhal's danse macabre/lore of undeath",
+    "Name": "Vanhal's Danse Macabre",
     "Type": "Enchantment",
     "Attributes": {},
     "Description": "If this spell is cast with a casting result of 8 or more, the target friendly unit gains a +D3 modifier to one of the following characteristics (to a maximum of 10). If this spell is cast with a casting result of 12 or more, the target friendly unit gains a +D3 modifier to two of the following characteristics (to a maximum of 10). This spell lasts until your next Start of Turn sub-phase.\n- Movement\n- Weapon Skill\n- Initiative",
