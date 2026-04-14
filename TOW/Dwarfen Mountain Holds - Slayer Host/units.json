@@ -2,32 +2,6 @@
   {
     "Id": "unit_1764969775401",
     "Name": "Brotherhood Of Grimnir",
-<<<<<<< HEAD
-    "Attributes": {
-      "category": "Special",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Regular Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Additional Hand Weapon",
-        "Great Weapon"
-      ],
-      "Keywords": [],
-      "Keywords2": []
-    },
-    "ProfileIds": [
-      "profile_1764962748049"
-    ],
-    "OptionListIds": [
-      "option_1765913919153",
-      "option_1765913940018",
-      "option_1765913963070"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Regular Infantry"
@@ -37,32 +11,10 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b496d966c2c14684736",
     "Name": "Ungrim Ironfist",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "315",
-      "category": "Named Characters",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "The Axe of Dargo"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b496d966c2c1468473a"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -72,33 +24,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4a6d966c2c14684f40",
     "Name": "Daemon Slayer",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "130",
-      "category": "Characters",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Additional Hand Weapon",
-        "Great Weapon",
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b4a6d966c2c14684f44"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -108,31 +37,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4a6d966c2c1468537d",
     "Name": "Dragon Slayer",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "70",
-      "category": "Characters",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b4a6d966c2c14685381"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -142,37 +50,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b3d6d966c2c146691f5",
     "Name": "Slayers",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "12",
-      "category": "Core",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Regular Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Additional Hand Weapon",
-        "Great Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "3fc301a3-fd3b-4e19-82a5-d38e71e990cfs",
-      "5e839955-2c2b-4a53-92d6-6d190dc1fdeas"
-    ],
-    "ProfileIds": [
-      "68357b4c6d966c2c1468a403",
-      "68357b4c6d966c2c1468a403g"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Regular Infantry"
@@ -182,31 +63,10 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468abcd",
     "Name": "Doomseeker",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "50",
-      "category": "Special",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b4d6d966c2c1468abd6"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -216,31 +76,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468afdc",
     "Name": "Dwarf Cart",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "65",
-      "category": "Rare",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Light Chariot",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b4d6d966c2c1468afdf"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Light Chariot"
@@ -250,41 +89,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4d6d966c2c1468b790",
     "Name": "Hammerers",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "16",
-      "category": "Rare",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Great hammer",
-        "Shield",
-        "Royal Champion",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "f4e61e68-f36d-43e9-ad0c-14767a9e3a4c",
-      "54bc3d40-b8bc-4f93-b639-999040cef348",
-      "99ef0c55-b3aa-4cd7-8d15-3312d3aa9b60"
-    ],
-    "ProfileIds": [
-      "68357b4d6d966c2c1468b793"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -294,46 +102,10 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b4f6d966c2c1468e8f4",
     "Name": "Rangers",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "11",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Great Weapon",
-        "Shield",
-        "Crossbow",
-        "Throwing Axe",
-        "Hand Weapon",
-        "Ol Deadeye",
-        "Brace of Pistols",
-        "Crossbow",
-        "Pistol",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "405dfd25-c989-4270-b21f-8b3bbaf5b726",
-      "8ce87310-b06f-467b-9532-7fbbcc7822da",
-      "c7912260-c211-4a71-9149-3609fbec0205"
-    ],
-    "ProfileIds": [
-      "68357b4f6d966c2c1468e8f7"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -343,32 +115,10 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b506d966c2c14691d14",
     "Name": "Goblin-Hewer",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "120",
-      "category": "Rare",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "War Machine",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Goblin-Hewer",
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b506d966c2c14691d1c"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "War Machine"
@@ -378,42 +128,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b466d966c2c1467c530",
     "Name": "Badlands Ogre Bulls",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "31",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Monstrous Infantry",
-      "defaultFront": "3"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Crusher",
-        "Additional Hand Weapon",
-        "Great Weapon",
-        "Ironfist",
-        "Hand Weapon",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "41653d72-d55f-4f95-a833-81e8a09c9f6d",
-      "9b715b8e-bb94-4c65-80c5-57bd465cbf15",
-      "e544d2b3-f4ce-4112-b6bc-fc2ef3c42451"
-    ],
-    "ProfileIds": [
-      "68357b466d966c2c1467c54e"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Monstrous Infantry"
@@ -423,31 +141,10 @@
     ],
     "DefaultFront": 3,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b476d966c2c1467e926",
     "Name": "Doomseeker",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "50",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b476d966c2c1467e92c"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -457,44 +154,10 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b486d966c2c1467f9eb",
     "Name": "Imperial Dwarf Mercenaries",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "8",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Great Weapon",
-        "Thrusting Spear",
-        "Crossbow",
-        "Handgun",
-        "Shield",
-        "Hand Weapon",
-        "Veteran",
-        "Standard Bearer",
-        "Musician",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "f4ca72cf-9010-4225-8eeb-f7347041da11",
-      "92454669-61bf-48f4-9fbc-31294a25edbb",
-      "option_1765914237637"
-    ],
-    "ProfileIds": [
-      "68357b486d966c2c1467f9f1"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -504,39 +167,10 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b486d966c2c14682843",
     "Name": "Imperial Ogres",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "31",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Monstrous Infantry",
-      "defaultFront": "3"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Ogre Captain",
-        "Light cannon",
-        "Ogre pistol",
-        "Great Weapon",
-        "Morning Star",
-        "Hand Weapon",
-        "Champion"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "2f2ecbc3-e3af-47ad-ad80-28539c4e3488"
-    ],
-    "ProfileIds": [
-      "68357b486d966c2c14682857"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Monstrous Infantry"
@@ -546,42 +180,10 @@
     ],
     "DefaultFront": 3,
     "Formation": 0
->>>>>>> test
   },
   {
     "Id": "68357b406d966c2c1466eeb6",
     "Name": "Prince Ulther's Dragon Company",
-<<<<<<< HEAD
-    "Attributes": {
-      "totalCost": "115",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds - Slayer Host",
-      "height": "Standard",
-      "type": "Heavy Infantry",
-      "defaultFront": "5"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Great Weapon",
-        "Dragonblade",
-        "Standard Bearer",
-        "Musician"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [
-      "48951f3b-44a6-466c-ad94-ulther",
-      "48951f3b-44a6-466c-ad94-borri",
-      "48951f3b-44a6-466c-ad94-a915f20b96d2",
-      "78d0896a-21f1-4995-9517-92d231e9fa50"
-    ],
-    "ProfileIds": [
-      "68357b406d966c2c1466eed9"
-    ]
-=======
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Infantry"
@@ -591,6 +193,5 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
->>>>>>> test
   }
 ]

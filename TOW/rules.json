@@ -123,7 +123,7 @@
     "Id": "5c2-e9dd-2715-a0c0",
     "Name": "Impact Hits",
     "Type": "Rule",
-    "Description": "Description: The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as 'X'). Often, this is determined by the roll of a dice.\n\n# Resolving Impact Hits\nImpact Hits can only be made by a charging model that moved 3\" or more and that is in base contact with the enemy. Impact Hits are resolved against the charged unit when the combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, before issuing challenges. They hit automatically and use the unmodified Strength of the model making them.\n"
+    "Description": "Description: The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rile. Often, this is determined by the roll of a dice.\nResolving Impact Hits: Impact Hits can only be made by a charging model that moved 3\" or more and that is in base contact with the enemy. Impact hits are attacks made in combat that always strike at Initiative 10 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model.\n"
   },
   {
     "Id": "3650-49a2-85b-702e",
@@ -356,7 +356,8 @@
   {
     "Id": "7e4f-91be-f8d3-0bcd",
     "Name": "Victory Points",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": null
   },
   {
     "Id": "dfb4-a590-c057-c4f1",
@@ -541,7 +542,8 @@
   {
     "Id": "32f0-4684-911d-f9a7",
     "Name": "Blessings of Chaos",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": null
   },
   {
     "Id": "b592-330-5a29-162f",
@@ -1890,7 +1892,8 @@
   {
     "Id": "9944-e9db-28f2-c04f",
     "Name": "Deploying Weapon Teams",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": null
   },
   {
     "Id": "89ce-2c95-bf48-c8af",
@@ -1901,12 +1904,14 @@
   {
     "Id": "81e-3f45-7d99-d927",
     "Name": "Targeting Weapon Teams",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": null
   },
   {
     "Id": "9b30-4c0d-2758-1772",
     "Name": "Weapon Team Leadership",
-    "Type": "Rule"
+    "Type": "Rule",
+    "Description": null
   },
   {
     "Id": "d1b-648-e07f-5175",
@@ -5752,7 +5757,7 @@
     "Id": "5813-3367-8935-57a5",
     "Name": "Ring of Fury",
     "Type": "Rule",
-    "Description": "Description: The wielder of a Ring of Fury can cast the Hammerhand spell from the Lore of Battle Magic as a Bound spell, with a Power Level of 1."
+    "Description": "Description: The wielder of a Ring of Fury can cast the Hammerhand spell from the Lore of Battle Magic as a Bound spell, with a Power Level of 2."
   },
   {
     "Id": "73a7-369d-054e-c268",
@@ -9184,7 +9189,7 @@
     "Id": "5f3c-3336-9f01-52c5",
     "Name": "Impact Hits (X)",
     "Type": "Rule",
-    "Description": "Description: The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as 'X'). Often, this is determined by the roll of a dice.\n\n# Resolving Impact Hits\nImpact Hits can only be made by a charging model that moved 3\" or more and that is in base contact with the enemy. Impact Hits are resolved against the charged unit when the combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, before issuing challenges. They hit automatically and use the unmodified Strength of the model making them."
+    "Description": "Description: The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as 'X'). Often, this is determined by the roll of a dice.\n # Resolving Impact Hits\n Impact Hits can only be made by a charging model that moved 3\" or more and that is in base contact with the enemy. Impact hits are attacks made in combat that always strike at Initiative 10 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model."
   },
   {
     "Id": "6dbb-9bec-43f5-f2e0",
@@ -10804,7 +10809,7 @@
     "Id": "1e11-55ae-e371-d024",
     "Name": "Quick Turn",
     "Type": "Rule",
-    "Description": "Description: Unless it marched, a unit that is in Open Order formation may pivot about its centre to change its facing by up to 90° after moving during the Remaining Moves sub-phase.\n\n\nRelated: Highly Manoeuvrable"
+    "Description": "Description: After moving, unless it charged, marched or fled, a unit that is in Open Order formation may pivot about its centre to change its facing by up to 90°.\n\n\nRelated: Highly Manoeuvrable"
   },
   {
     "Id": "1569-f61f-1e1a-eba7",
@@ -12635,130 +12640,5 @@
     "Name": "Lore of the Shadowlands",
     "Type": "Rule",
     "Description": "Lore of the Shadowlands"
-  },
-  {
-    "Id": "rules_1775065145978",
-    "Name": "A Resplendence of Luminescents",
-    "Type": "Rule",
-    "Description": "Description: A Resplendence of Luminescents: This model and any unit it has joined gains the Magical Attacks special rule."
-  },
-  {
-    "Id": "rules_1775065225210",
-    "Name": "An Annoyance of Netlings",
-    "Type": "Rule",
-    "Description": "Description: An Annoyance of Netlings: Whilst this model is engaged in a challenge, its opponent in the challenge suffers a -1 modifier to its rolls To Hit."
-  },
-  {
-    "Id": "rules_1775065250960",
-    "Name": "A Lamentation of Despairs",
-    "Type": "Rule",
-    "Description": "Description: A Lamentation of Despairs: Unless this model is fleeing, enemy units that are within 6’’ of this model suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test (to a minimum of 2)"
-  },
-  {
-    "Id": "rules_1775065280004",
-    "Name": "A Murder of Spites",
-    "Type": "Rule",
-    "Description": "Description: When this model’s combat is chosen during Step 1 of The Combat Phase, a single enemy unit it is engaged with suffers D3 Strength 2 hits, each with an AP of -1."
-  },
-  {
-    "Id": "rules_1775065325393",
-    "Name": "A Befuddlement of Mischiefs",
-    "Type": "Rule",
-    "Description": "Description: During the Combat phase, a single enemy unit that is in Base Contact with this model suffers a -1 modifier to both its Weapon Skill and Initiative characteristics."
-  },
-  {
-    "Id": "rules_1775065360033",
-    "Name": "A Muster of Malevolents",
-    "Type": "Rule",
-    "Description": "Description: Wood Elf Nobles and Waystalkers only. An enemy model hit by one or more shooting attacks made by this model’s Asrai Longbow suffers an additional D3 Strength 2 hits, each with an AP of -. These hits have the Armour Bane (1) special rule."
-  },
-  {
-    "Id": "rules_1775065404047",
-    "Name": "A Blight of Terrors",
-    "Type": "Rule",
-    "Description": "Description: This model and any unit it has joined gains the Terror special rule."
-  },
-  {
-    "Id": "rules_1775065425701",
-    "Name": "Aspect of the Boar",
-    "Type": "Rule",
-    "Description": "Description: A character who adopts the Aspect of the Boar improves the Armour Piercing characteristics of its weapon(s) by 1 during a Turn in which it charged and gains the Impact Hits (1) special rule. However, units that have been joined by the Character cannot use that character's Leadership."
-  },
-  {
-    "Id": "rules_1775065463239",
-    "Name": "Aspect of the Cat",
-    "Type": "Rule",
-    "Description": "Description: A character who adopts the Aspect of the Cat gains the Armour Bane (1) special rule and may re-roll any failed rolls To Hit during a challenge. However, units that have been joined by the Character cannot use that character's Leadership."
-  },
-  {
-    "Id": "rules_1775065490264",
-    "Name": "Aspect of the Bear",
-    "Type": "Rule",
-    "Description": "Description: 'Infantry' or 'calvalry' only. A character who adopts the Aspect of the Bear increases their Strength and Toughness characteristic by 1. However, units that have been joined by the Character cannot use that character's Leadership."
-  },
-  {
-    "Id": "rules_1775065517372",
-    "Name": "Aspect of the Hound",
-    "Type": "Rule",
-    "Description": "Description: A character who adopts the Aspect of the Hound, and any unit they have joined, may re-roll any rolls To hit of a natural 1 during The Combat Phase. However, units that have been joined by the Character cannot use that character's Leadership."
-  },
-  {
-    "Id": "rules_1775065539171",
-    "Name": "Scout Kindred",
-    "Type": "Rule",
-    "Description": "Description: 'Infantry' only. A character belonging to the Scout Kindred gains the Quick Shot and Scouts Special Rules.\n"
-  },
-  {
-    "Id": "rules_1775065558582",
-    "Name": "New rules",
-    "Type": "Rule"
-  },
-  {
-    "Id": "rules_1775065567717",
-    "Name": "Eternal Kindred",
-    "Type": "Rule",
-    "Description": "Description: 'Infantry' only. A character belonging to the Eternal Kindred and any unit they have joined, may re-roll any rolls To Hit of a natural 1 during The Combat Phase. In addition, a character belonging to the Eternal Kindred, and any unit they have joined, may re-roll and failed rolls To wound during The Combat Phase while within 6\" of a special feature."
-  },
-  {
-    "Id": "rules_1775065595113",
-    "Name": "Wild Rider Kindred",
-    "Type": "Rule",
-    "Description": "Description: Wood Elf Nobles only. A character belonging to the Wild Rider Kindred must be mounted on an Elven Steed or Great Stag and may only wear Light Armour. In addition, they gain the Counter Charge, Frenzy, Furious Charge, and Talismanic Tattoos Special Rules."
-  },
-  {
-    "Id": "rules_1775077113180",
-    "Name": "Parry",
-    "Type": "Rule",
-    "Description": "Description: With sword and shield, warriors attempt to deflect enemy attacks. Whilst engaged in close combat, a model with this rule that is equipped with and chooses to use a hand weapon and shield improves its armour value by 1, to a maximum of 3+."
-  },
-  {
-    "Id": "rules_1775077179626",
-    "Name": "Massed Infantry",
-    "Type": "Rule",
-    "Description": "Description: Numbers alone can sometimes overcome the foe. When determining combat results, if one side has a higher Unit Strength than the other and includes one or more units with this rule, that side may claim a bonus of +1 combat result point."
-  },
-  {
-    "Id": "rules_1775077240199",
-    "Name": "Press of Battle",
-    "Type": "Rule",
-    "Description": "Description: In the heat of battle, orderly ranks become a swirling melee. Except during a turn in which it charged, the fighting rank of a unit that has this rule and is arrayed in combat order is not one, but two ranks deep. In other words, models that are directly behind and in base contact with models in the units actual fighting rank are also considered to be within its fighting rank."
-  },
-  {
-    "Id": "rules_1775078696663",
-    "Name": "Obsidian Sentinel",
-    "Type": "Rule",
-    "Description": "Description: An Obsidian Sentinel has the Magic Resitance (-2) special rule. In addition, any enemy Wizard that wishes to cash a spell whilst within 12\" of one or more Obsidian Sentinels must first make a Leadership test. If this test is failed, the Wizard's Casting roll suffers a -3 modifier. If this test is passed, the Wizard's Casting roll suffers a -1 modifier."
-  },
-  {
-    "Id": "rules_1775078718488",
-    "Name": "Granite Sentinel",
-    "Type": "Rule",
-    "Description": "Description: A Granite Sentinel improves its Armour Value by 1. In addition, a Granite Sentinel is immune to the Multiple Wounds (X) special rule. If a Granite Sentinel suffers an unsaved wound from an attack with this special rule, it loses a single Wound."
-  },
-  {
-    "Id": "rules_1775078735159",
-    "Name": "Warpstone Sentinel",
-    "Type": "Rule",
-    "Description": "Description: A Warpstone Sentinel has the Magic Attacks special rule. In addition, whilst in Base Contact with one or more Warpstone Sentinels, enemy units suffer a -1 modifier to their Toughness characteristic (to a minimum of 1)."
   }
 ]
