@@ -357,7 +357,7 @@
     "Id": "7e4f-91be-f8d3-0bcd",
     "Name": "Victory Points",
     "Type": "Rule",
-    "Description": null
+    "Description": "Description: Most scenarios use 'Victory Points' to determine the winner. In order to win, one player must score at least 100 Victory Points more than their opponent – if one player scores twice as many Victory Points as their opponent, that player has achieved a crushing victory! Any other result is a draw. Victory Points are won in several ways:\n - Dead or Fled\n - The King is Dead\n - Trophies of War\n - Scenario Objectives\n - Special Features\n\n \n\n\nRelated: Trophies of War (Warhammer Battles), Special Features (Warhammer Battles)"
   },
   {
     "Id": "dfb4-a590-c057-c4f1",
@@ -543,7 +543,7 @@
     "Id": "32f0-4684-911d-f9a7",
     "Name": "Blessings of Chaos",
     "Type": "Rule",
-    "Description": null
+    "Description": "When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, roll on the table below to determine the effect of its warped blessings:\n\nD6 - Result\n1-2 - Stinging Barbs: The envenomed touch of the warped ones raises great weals of agony upon unarmoured flesh. Until the end of this Combat phase, models with this special rule gain the Poisoned Attacks special rule.\n3-4 - Scything Talons: Insect limbs tipped with scythe-like blades erupt from the warped ones to lash at the foe. Until the end of this Combat phase, all attacks made by models with this special rule have an Armour Piercing characteristic of -2.\n5-6 - Chitinous Hide: The flesh of the warped ones hardens beneath the swords of the foe. Until the end of this Combat phase, models with this special rule gain a +1 modifier to their Toughness characteristics."
   },
   {
     "Id": "b592-330-5a29-162f",
@@ -1893,7 +1893,7 @@
     "Id": "9944-e9db-28f2-c04f",
     "Name": "Deploying Weapon Teams",
     "Type": "Rule",
-    "Description": null
+    "Description": "A Weapon Team must be deployed at the same time as its 'parent' unit (the unit it was bought as an upgrade for), and must be deployed within 3\" of that unit."
   },
   {
     "Id": "89ce-2c95-bf48-c8af",
@@ -1905,13 +1905,13 @@
     "Id": "81e-3f45-7d99-d927",
     "Name": "Targeting Weapon Teams",
     "Type": "Rule",
-    "Description": null
+    "Description": "If it is within 3\" of its parent unit, and if that unit contains five or more models (and is not itself fleeing), a Weapon Team cannot be targeted by enemy shooting or by enemy spells, unless the Weapon Team is the closest target."
   },
   {
     "Id": "9b30-4c0d-2758-1772",
     "Name": "Weapon Team Leadership",
     "Type": "Rule",
-    "Description": null
+    "Description": "Whilst within 3\" of its parent unit, a Weapon Team gains a positive (+) modifier to its Leadership characteristic equal to the parent unit's current Rank Bonus, up to a maximum of Leadership 10."
   },
   {
     "Id": "d1b-648-e07f-5175",
@@ -3747,7 +3747,7 @@
     "Id": "7269-bfbe-3c9f-7da",
     "Name": "Infernal Puppet",
     "Type": "Rule",
-    "Description": "Description: Unless the owner of the Infernal Puppet is fleeing or engaged in combat, they may use it whenever an enemy Wizard that is within 24\" of them makes a Casting roll. If they do so, the enemy Wizard must roll an extra D6 and discard the highest result."
+    "Description": "Description: Unless the owner of the Infernal Puppet is fleeing or engaged in combat, they may use it whenever an enemy Wizard that is within 15\" of them makes a Casting roll. If they do so, the enemy Wizard must roll an extra D6 and discard the highest result."
   },
   {
     "Id": "290c-fc4a-190b-b0b6",
