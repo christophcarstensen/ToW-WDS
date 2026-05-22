@@ -1024,5 +1024,99 @@
         "Id": "6d4a-7733-d725-a267"
       }
     ]
+  },
+  {
+    "Id": "profiles_1779469387502",
+    "Name": "Crane Gunner Teams",
+    "Type": "Profile",
+    "BaseId": "7",
+    "Children": [
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "statlines_1779469496280"
+      },
+      {
+        "Id": "equipment_1779469746030"
+      },
+      {
+        "Id": "equipment_1779469735770"
+      },
+      {
+        "Id": "equipment_1779469705085"
+      },
+      {
+        "Id": "equipment_1779469721454"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779470995781",
+    "Name": "Iron Hail Gunners",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "5b67-8535-146c-7cea"
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      },
+      {
+        "Id": "equipment_1779469705085"
+      },
+      {
+        "Id": "equipment_1779471257761"
+      },
+      {
+        "Id": "equipment_1779469721454"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779472161165",
+    "Name": "Peasant Soldier",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779472222274"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779472210217",
+    "Name": "New profiles",
+    "Type": "Profile"
+  },
+  {
+    "Id": "profiles_1779472835078",
+    "Name": "Peasant Elder",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779472285812"
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      },
+      {
+        "Id": "9cba-89a5-1796-5fe4"
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0"
+      }
+    ]
   }
 ]

@@ -453,14 +453,16 @@
       ],
       "Core": [
         "6866ef0ff0f4ee4feb042d5a",
-        "6866ef0ef0f4ee4feb03fdd3"
+        "6866ef0ef0f4ee4feb03fdd3",
+        "units_1779471148992"
       ],
       "Special": [
         "6866ef0ef0f4ee4feb042789",
         "6866ef10f0f4ee4feb045b81",
         "6866ef0ff0f4ee4feb042b69",
         "6866ef0ff0f4ee4feb042d5a",
-        "6866ef10f0f4ee4feb045d6b"
+        "6866ef10f0f4ee4feb045d6b",
+        "units_1779470139900"
       ],
       "Rare": [
         "6866ef10f0f4ee4feb045b81",
@@ -470,7 +472,7 @@
         "6866ef11f0f4ee4feb04616a"
       ]
     },
-	"Grand Cathay - Jade Fleet": {
+    "Grand Cathay - Jade Fleet": {
       "Named Characters": [
         "6866ef0af0f4ee4feb035535"
       ],
@@ -809,8 +811,7 @@
         "68357bc26d966c2c147f58ba"
       ]
     },
-	"Realms of Man - Renegade Crowns": {
-      "Named Characters": [],
+    "Realms of Man - Renegade Crowns": {
       "Characters": [
         "unit_1764609204788",
         "unit_1764611811013",

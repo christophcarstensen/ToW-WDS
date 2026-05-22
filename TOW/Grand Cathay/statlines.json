@@ -609,5 +609,85 @@
         "Id": "3f07-e69d-8818-d45d"
       }
     ]
+  },
+  {
+    "Id": "statlines_1779469496280",
+    "Name": "Crane Gunner Teams",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779470490809",
+    "Name": "Iron Hail Gunners",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779470580510",
+    "Name": "Marksman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779472222274",
+    "Name": "Peasant Soldier",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "5"
+    }
+  },
+  {
+    "Id": "statlines_1779472285812",
+    "Name": "Peasant Elder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "LD": "6"
+    }
   }
 ]

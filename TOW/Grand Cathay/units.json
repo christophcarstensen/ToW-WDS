@@ -16,7 +16,6 @@
     "Id": "6866ef0af0f4ee4feb035535_miao_ying,_human_form",
     "Name": "Miao Ying, The Storm Dragon - Miao Ying, Human Form",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0af0f4ee4feb03553e"
     ],
@@ -27,7 +26,6 @@
     "Id": "6866ef0af0f4ee4feb035535_miao_ying,_dragon_form",
     "Name": "Miao Ying, The Storm Dragon - Miao Ying, Dragon Form",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0af0f4ee4feb03553f"
     ],
@@ -207,7 +205,6 @@
     "Id": "6866ef0ff0f4ee4feb04297a",
     "Name": "Cathayan Sentinel",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "6866ef0ff0f4ee4feb042982"
     ],
@@ -257,7 +254,6 @@
     "Id": "6866ef10f0f4ee4feb045b81",
     "Name": "Cathayan Sentinel",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "6866ef10f0f4ee4feb045b84"
     ],
@@ -302,5 +298,38 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
+  },
+  {
+    "Id": "units_1779470139900",
+    "Name": "Crane Gunner Teams",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1779469387502"
+    ]
+  },
+  {
+    "Id": "units_1779471148992",
+    "Name": "Iron Hail Gunners",
+    "Type": "Unit",
+    "DefaultFront": 4,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1779470995781"
+    ]
+  },
+  {
+    "Id": "units_1779472907533",
+    "Name": "Peasant Levy",
+    "Type": "Unit",
+    "DefaultFront": 10,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1779472161165"
+    ],
+    "Attributes": {
+      "type": "Regular Infantry"
+    }
   }
 ]
