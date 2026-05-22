@@ -1118,5 +1118,107 @@
         "Id": "505f-e12d-2e36-31d0"
       }
     ]
+  },
+  {
+    "Id": "profiles_1779482409515",
+    "Name": "Astromancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779482190540"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779483163199",
+    "Name": "Supreme Astromancer",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1779483178771"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779482409516",
+    "Name": "Astromancer on Cathayan Horse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1779482190540"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      },
+      {
+        "Id": "statline_17794157921477"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1779483163200",
+    "Name": "Supreme Astromancer on Cathayan Horse",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1779483178771"
+      },
+      {
+        "Id": "2125-6aa2-f782-42bf"
+      },
+      {
+        "Id": "90ed-c9be-a611-79cc",
+        "Info": "(-1)"
+      },
+      {
+        "Id": "ace9-f0d5-dcff-3fd4"
+      },
+      {
+        "Id": "statline_17794157921477"
+      },
+      {
+        "Id": "5186-798d-69d-6545"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      }
+    ]
   }
 ]
