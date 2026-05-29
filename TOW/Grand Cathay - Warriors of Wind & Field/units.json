@@ -287,19 +287,6 @@
     "Formation": 0
   },
   {
-    "Id": "6866ef12f0f4ee4feb047496",
-    "Name": "Doomseeker",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "6866ef12f0f4ee4feb04749c"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "units_1779470139900",
     "Name": "Crane Gunner Teams",
     "Type": "Unit",
