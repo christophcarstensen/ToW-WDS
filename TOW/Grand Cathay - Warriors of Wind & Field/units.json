@@ -164,7 +164,7 @@
   },
   {
     "Id": "6866ef0df0f4ee4feb03d3a1",
-    "Name": "Jade Lancer",
+    "Name": "Jade Lancers",
     "Type": "Unit",
     "Attributes": {
       "type": "Heavy Cavalry"
@@ -202,16 +202,6 @@
     "Formation": 0
   },
   {
-    "Id": "6866ef0ff0f4ee4feb04297a",
-    "Name": "Cathayan Sentinel",
-    "Type": "Unit",
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042982"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "6866ef0ff0f4ee4feb042b69",
     "Name": "Fire Rain Rocket Battery",
     "Type": "Unit",
@@ -222,19 +212,6 @@
       "6866ef0ff0f4ee4feb042b72"
     ],
     "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb042d5a",
-    "Name": "Jade Lancer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042d62"
-    ],
-    "DefaultFront": 5,
     "Formation": 0
   },
   {
