@@ -665,70 +665,6 @@
     ]
   },
   {
-    "Id": "6866ef0ff0f4ee4feb042d62",
-    "Name": "Jade Lancer",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_283"
-      },
-      {
-        "Id": "statline_273"
-      },
-      {
-        "Id": "4cef-4823-4dd5-a26a"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5186-798d-69d-6545"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "50d1-e83d-685e-7c94"
-      }
-    ]
-  },
-  {
-    "Id": "6866ef0ff0f4ee4feb0437fb",
-    "Name": "Jade Lancer Officer (Jade Lancer)",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_284"
-      },
-      {
-        "Id": "statline_273"
-      },
-      {
-        "Id": "4cef-4823-4dd5-a26a"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5186-798d-69d-6545"
-      },
-      {
-        "Id": "9cba-89a5-1796-5fe4"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "50d1-e83d-685e-7c94"
-      }
-    ]
-  },
-  {
     "Id": "6866ef10f0f4ee4feb045780",
     "Name": "Sky Lantern",
     "Type": "Profile",
@@ -780,48 +716,6 @@
       },
       {
         "Id": "8f64-6d4c-466b-1b94"
-      }
-    ]
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045b84",
-    "Name": "Cathayan Sentinel",
-    "Type": "Profile",
-    "BaseId": "12",
-    "Children": [
-      {
-        "Id": "statline_289"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac"
-      },
-      {
-        "Id": "22be-fd06-f491-d1f9"
-      },
-      {
-        "Id": "b221-591c-1017-89e3"
-      },
-      {
-        "Id": "c822-7ad0-f24a-e4af"
-      },
-      {
-        "Id": "72db-24bb-7493-d753",
-        "Info": "(D3+1)"
-      },
-      {
-        "Id": "6b2c-21ff-3566-67c6"
-      },
-      {
-        "Id": "c7a2-35bf-4313-f4f0"
-      },
-      {
-        "Id": "4f28-3f86-cf88-6b3a"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390"
       }
     ]
   },

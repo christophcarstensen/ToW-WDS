@@ -30,19 +30,6 @@
         "NewUnitId":  "6866ef0df0f4ee4feb03b2a4_sky_lantern"
     },
     {
-        "OptionId":  "champion_jade_lancer_officer",
-        "UnitId":  "6866ef0df0f4ee4feb03d3a1",
-        "NewProfileId":  "6866ef0df0f4ee4feb03de4c"
-    },
-    {
-        "OptionId":  "d07f99e3-7807-4ca9-9315-62a468831d09",
-        "UnitId":  "6866ef0df0f4ee4feb03d3a1"
-    },
-    {
-        "OptionId":  "6b3cc59f-1952-49b1-a1e4-212d65db83c6",
-        "UnitId":  "6866ef0df0f4ee4feb03d3a1"
-    },
-    {
         "OptionId":  "champion_jade_officer",
         "UnitId":  "6866ef0ef0f4ee4feb03fdd3",
         "NewProfileId":  "6866ef0ef0f4ee4feb04084f"
@@ -57,26 +44,8 @@
     },
     {
         "OptionId":  "588159b2-378e-45a8-b1dc-588a3e8a5e39",
-        "UnitId":  "6866ef0ef0f4ee4feb042789",
-        "NewProfileId":  "6866ef0cf0f4ee4feb03a889"
-    },
-    {
-        "OptionId":  "588159b2-378e-45a8-b1dc-588a3e8a5e39",
         "UnitId":  "6866ef0ff0f4ee4feb042b69",
         "NewProfileId":  "6866ef0cf0f4ee4feb03a889"
-    },
-    {
-        "OptionId":  "champion_jade_lancer_officer",
-        "UnitId":  "6866ef0ff0f4ee4feb042d5a",
-        "NewProfileId":  "6866ef0ff0f4ee4feb0437fb"
-    },
-    {
-        "OptionId":  "d07f99e3-7807-4ca9-9315-62a468831d09",
-        "UnitId":  "6866ef0ff0f4ee4feb042d5a"
-    },
-    {
-        "OptionId":  "6b3cc59f-1952-49b1-a1e4-212d65db83c6",
-        "UnitId":  "6866ef0ff0f4ee4feb042d5a"
     },
     {
         "OptionId":  "champion_champion",

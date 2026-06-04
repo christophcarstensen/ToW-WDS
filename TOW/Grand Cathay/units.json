@@ -225,19 +225,6 @@
     "Formation": 0
   },
   {
-    "Id": "6866ef0ff0f4ee4feb042d5a",
-    "Name": "Jade Lancer",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "6866ef0ff0f4ee4feb042d62"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "6866ef10f0f4ee4feb045778",
     "Name": "Sky Lantern",
     "Type": "Unit",
@@ -246,16 +233,6 @@
     },
     "BasicProfileIds": [
       "6866ef10f0f4ee4feb045780"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef10f0f4ee4feb045b81",
-    "Name": "Cathayan Sentinel",
-    "Type": "Unit",
-    "BasicProfileIds": [
-      "6866ef10f0f4ee4feb045b84"
     ],
     "DefaultFront": 1,
     "Formation": 0
