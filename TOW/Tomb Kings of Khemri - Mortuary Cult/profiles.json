@@ -1,50 +1,5 @@
 [
   {
-    "Id": "profile_1765312756660",
-    "Name": "Winged Warsphinx",
-    "Type": "Profile",
-    "BaseId": "10",
-    "Children": [
-      {
-        "Id": "statline_668"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5186-798d-69d-6545"
-      },
-      {
-        "Id": "cc9e-70c4-6f2c-413f",
-        "Info": "(9)"
-      },
-      {
-        "Id": "6dbb-9bec-43f5-f2e0",
-        "Info": "(2)"
-      },
-      {
-        "Id": "c822-7ad0-f24a-e4af"
-      },
-      {
-        "Id": "cc25-1643-8beb-8c64"
-      },
-      {
-        "Id": "6e39-5258-cf17-3bde",
-        "Info": "(6+)"
-      },
-      {
-        "Id": "73e4-3483-b269-9079",
-        "Info": "(D3)"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "c7a2-35bf-4313-f4f0"
-      }
-    ]
-  },
-  {
     "Id": "68357c626d966c2c14a28d99",
     "Name": "Prince Apophas",
     "Type": "Profile",
@@ -301,29 +256,6 @@
     ]
   },
   {
-    "Id": "profile_1765311714447",
-    "Name": "High Priest on Barded Skeletal Steed",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_674"
-      },
-      {
-        "Id": "statline_677"
-      },
-      {
-        "Id": "cc25-1643-8beb-8c64"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
-      }
-    ]
-  },
-  {
     "Id": "68357c646d966c2c14a31111",
     "Name": "Mortuary Priest",
     "Type": "Profile",
@@ -415,29 +347,6 @@
       },
       {
         "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
-    "Id": "profile_1765311714447",
-    "Name": "Mortuary Priest on Barded Skeletal Steed",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_678"
-      },
-      {
-        "Id": "statline_677"
-      },
-      {
-        "Id": "cc25-1643-8beb-8c64"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
       }
     ]
   },
@@ -631,29 +540,6 @@
       },
       {
         "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
-    "Id": "profile_1765311714447",
-    "Name": "Tomb Prince on Barded Skeletal Steed",
-    "Type": "Profile",
-    "BaseId": "1",
-    "Children": [
-      {
-        "Id": "statline_686"
-      },
-      {
-        "Id": "statline_677"
-      },
-      {
-        "Id": "cc25-1643-8beb-8c64"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
       }
     ]
   },
