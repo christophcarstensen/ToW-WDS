@@ -274,6 +274,52 @@
     ]
   },
   {
+    "Id": "ba9a09a0-db04-4abb-86dd-aaef5422a841",
+    "Name": "High Priest on Barded Skeletal Steed",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_674"
+      },
+      {
+        "Id": "statline_677"
+      },
+      {
+        "Id": "a869-df99-ad99-f255"
+      },
+      {
+        "Id": "ccfe-3943-82d5-2a58"
+      },
+      {
+        "Id": "2363-698-c566-4bfb"
+      },
+      {
+        "Id": "9e4d-c79a-658d-6900",
+        "Info": "(1)"
+      },
+      {
+        "Id": "b049-caf4-f185-d3d4"
+      },
+      {
+        "Id": "5ba4-f380-93dc-358d"
+      },
+      {
+        "Id": "cc25-1643-8beb-8c64"
+      },
+      {
+        "Id": "2eb0-1ec8-8e04-72d4",
+        "Info": "(5+)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217"
+      },
+      {
+        "Id": "691e-10ec-4f7c-a2c4"
+      }
+    ]
+  },
+  {
     "Id": "d4a3aa9c-420e-4025-ae34-3356914279c3",
     "Name": "High Priest on Necrolith Bone Dragon",
     "Type": "Profile",
@@ -1876,7 +1922,7 @@
     "Id": "68357c5b6d966c2c14a03ceb",
     "Name": "Casket of Souls",
     "Type": "Profile",
-    "BaseId": "15",
+    "BaseId": "16",
     "Children": [
       {
         "Id": "statline_711"

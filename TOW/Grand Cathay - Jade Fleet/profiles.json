@@ -952,27 +952,6 @@
     ]
   },
   {
-    "Id": "68357c0a6d966c2c1489d956",
-    "Name": "Priest of Sigmar",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_296"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "2125-6aa2-f782-42bf"
-      },
-      {
-        "Id": "6f59-f4af-ca65-cab9"
-      }
-    ]
-  },
-  {
     "Id": "68357c0e6d966c2c148a9f70",
     "Name": "State Trooper",
     "Type": "Profile",
