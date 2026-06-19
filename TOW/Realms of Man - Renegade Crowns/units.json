@@ -104,19 +104,6 @@
     "Formation": 0
   },
   {
-    "Id": "unit_1764634315489",
-    "Name": "Veteran Freeblades",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "profile_1764625096024"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "unit_1764624652867",
     "Name": "Freeblade Knights",
     "Type": "Unit",
