@@ -351,7 +351,6 @@
     "Id": "68357bff6d966c2c14883078",
     "Name": "Hell Pit Abomination",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "68357bff6d966c2c14883080"
     ],
@@ -415,7 +414,6 @@
     "Id": "68357c006d966c2c14885135",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
-    "Attributes": {},
     "BasicProfileIds": [
       "68357c006d966c2c1488513e"
     ],
@@ -500,5 +498,18 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
+  },
+  {
+    "Id": "units_1782832721548",
+    "Name": "Weapon Team",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "68357bfa6d966c2c14875deb"
+    ],
+    "Attributes": {
+      "Type": "Regular Infantry"
+    }
   }
 ]
