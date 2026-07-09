@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "68357b406d966c2c1466fbbc",
     "Name": "Burlok Damminson",
@@ -634,51 +634,6 @@
     ]
   },
   {
-    "Id": "68357b436d966c2c146762d4",
-    "Name": "Scout Gyrocopter",
-    "Type": "Profile",
-    "BaseId": "6",
-    "Children": [
-      {
-        "Id": "statline_264"
-      },
-      {
-        "Id": "708d-ae6e-2dd6-608b"
-      },
-      {
-        "Id": "1a06-31aa-cbfe-1a5"
-      },
-      {
-        "Id": "c557-6102-9a35-bbcd",
-        "Info": "(10)"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "be3e-4c8c-e168-523f"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "(D3)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "59a5-7eca-ee35-96ac"
-      },
-      {
-        "Id": "dc91-48b3-3696-217"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
-      }
-    ]
-  },
-  {
     "Id": "68357b436d966c2c14676829",
     "Name": "Thunderer",
     "Type": "Profile",
@@ -1171,92 +1126,6 @@
     ]
   },
   {
-    "Id": "68357b3d6d966c2c146691ff",
-    "Name": "Troll Slayer",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_245"
-      },
-      {
-        "Id": "233a-1715-82be-1410"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac"
-      },
-      {
-        "Id": "2ecd-c6b3-bd8b-864b"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-2)"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720"
-      },
-      {
-        "Id": "5b67-8535-146c-7cea"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "ea84-d53c-ef3b-57e8"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      }
-    ]
-  },
-  {
-    "Id": "68357b466d966c2c1467c54e",
-    "Name": "Ogre",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_45"
-      },
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "(1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "(1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720"
-      },
-      {
-        "Id": "9e92-303-8d40-895c"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
     "Id": "68357b466d966c2c1467ce32",
     "Name": "Champion (Ogre)",
     "Type": "Profile",
@@ -1296,71 +1165,6 @@
       },
       {
         "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
-    "Id": "68357b476d966c2c1467e92c",
-    "Name": "Doomseeker",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_100"
-      },
-      {
-        "Id": "233a-1715-82be-1410"
-      },
-      {
-        "Id": "74e5-b4c9-5ca9-6ca2"
-      },
-      {
-        "Id": "8961-ff44-72ad-9de1"
-      },
-      {
-        "Id": "2e16-e293-353e-6881"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "(D3+1)"
-      },
-      {
-        "Id": "2ecd-c6b3-bd8b-864b"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-2)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "1b08-4621-6379-ff1f"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390"
-      },
-      {
-        "Id": "691e-10ec-4f7c-a2c4"
-      },
-      {
-        "Id": "133a-a421-c52f-e33f"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "59a5-7eca-ee35-96ac"
       }
     ]
   },
@@ -1470,43 +1274,6 @@
     ]
   },
   {
-    "Id": "68357b486d966c2c1467f9f1",
-    "Name": "Imperial Dwarf Warrior",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_208"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "32f7-8e30-3fe8-b11e"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
     "Id": "68357b486d966c2c1468111d",
     "Name": "Imperial Dwarf Warrior",
     "Type": "Profile",
@@ -1534,46 +1301,6 @@
       },
       {
         "Id": "32f7-8e30-3fe8-b11e"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
-    "Id": "68357b486d966c2c14682857",
-    "Name": "Imperial Ogre",
-    "Type": "Profile",
-    "BaseId": "9",
-    "Children": [
-      {
-        "Id": "statline_258"
-      },
-      {
-        "Id": "2af0-975f-bb14-8b8f",
-        "Info": "(1)"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b"
-      },
-      {
-        "Id": "5c2-e9dd-2715-a0c0",
-        "Info": "(1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720"
-      },
-      {
-        "Id": "9e92-303-8d40-895c"
       },
       {
         "Id": "6d4a-7733-d725-a267"
@@ -1623,116 +1350,6 @@
       },
       {
         "Id": "dbb2-4d85-84c2-528c"
-      }
-    ]
-  },
-  {
-    "Id": "68357b406d966c2c1466eed0",
-    "Name": "Prince Ulther Stonehammer",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_261"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb"
-      },
-      {
-        "Id": "2e16-e293-353e-6881"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59"
-      },
-      {
-        "Id": "f170-4b76-b645-29c4"
-      },
-      {
-        "Id": "34c9-6f88-dcfd-d3fa"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "ea58-1a09-e839-cced"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9"
-      }
-    ]
-  },
-  {
-    "Id": "68357b406d966c2c1466eec7",
-    "Name": "Borri Forkbeard",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_262"
-      },
-      {
-        "Id": "883e-e1b1-4fe9-5912"
-      },
-      {
-        "Id": "1f64-3ddc-db58-12fb"
-      },
-      {
-        "Id": "2e16-e293-353e-6881"
-      },
-      {
-        "Id": "f4b3-18af-16bf-78dd",
-        "Info": "(Orcs & Goblins)"
-      },
-      {
-        "Id": "90ed-c9be-a611-79cc",
-        "Info": "(-1)"
-      },
-      {
-        "Id": "4d1b-2617-ebdc-4f4d"
-      },
-      {
-        "Id": "a230-c540-6a65-4974"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604"
-      },
-      {
-        "Id": "3f0e-1dc6-b425-bf59"
-      },
-      {
-        "Id": "77ca-5e-3d5e-ead5"
-      },
-      {
-        "Id": "6d4a-7733-d725-a267"
-      },
-      {
-        "Id": "dbb2-4d85-84c2-528c"
-      },
-      {
-        "Id": "8997-c74d-3a8d-ecf9"
       }
     ]
   }

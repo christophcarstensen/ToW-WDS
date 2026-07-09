@@ -351,6 +351,7 @@
     "Id": "68357bff6d966c2c14883078",
     "Name": "Hell Pit Abomination",
     "Type": "Unit",
+    "Attributes": {},
     "BasicProfileIds": [
       "68357bff6d966c2c14883080"
     ],
@@ -414,6 +415,7 @@
     "Id": "68357c006d966c2c14885135",
     "Name": "Bonegrinder Giant",
     "Type": "Unit",
+    "Attributes": {},
     "BasicProfileIds": [
       "68357c006d966c2c1488513e"
     ],

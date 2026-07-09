@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "68357c026d966c2c1488759c",
     "Name": "General Hans Von Löwenhacke",
@@ -8,19 +8,6 @@
     },
     "BasicProfileIds": [
       "68357c026d966c2c148875a2"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c026d966c2c148878ae",
-    "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357c026d966c2c148878b4"
     ],
     "DefaultFront": 1,
     "Formation": 0
@@ -815,20 +802,6 @@
     "Formation": 0
   },
   {
-    "Id": "68357c0d6d966c2c148a58bf",
-    "Name": "Empire Archers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0d6d966c2c148a58c2",
-      "68357c0d6d966c2c148a5bda"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "68357c0d6d966c2c148a5edf",
     "Name": "Empire Knights",
     "Type": "Unit",
@@ -838,20 +811,6 @@
     "BasicProfileIds": [
       "68357c0d6d966c2c148a5ee2",
       "68357c0d6d966c2c148a6a49"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357c0e6d966c2c148a8c33",
-    "Name": "Free Company Militia",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357c0e6d966c2c148a8c37",
-      "68357c0e6d966c2c148a8f4a"
     ],
     "DefaultFront": 5,
     "Formation": 0
