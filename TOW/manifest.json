@@ -1,7 +1,6 @@
 {
-  "version": 70,
+  "version": 55,
   "files": [
-    "gameconfig.json",
     "bases.json",
     "cards.json",
     "equipment.json",
@@ -10,12 +9,6 @@
     "rules.json",
     "tokens.json",
     "dummylist.json",
-    "terrains.json",
-    "objectives.json",
-    "modifiedprofile.json",
-    "maps.json",
-    "statlines.json",
-    "deployments.json",
     "Beastmen Brayherds/modifiedunit.json",
     "Beastmen Brayherds/options.json",
     "Beastmen Brayherds/profiles.json",
@@ -212,8 +205,6 @@
     "Wood Elf Realms - Orion's Wild Hunt/options.json",
     "Wood Elf Realms - Orion's Wild Hunt/profiles.json",
     "Wood Elf Realms - Orion's Wild Hunt/statlines.json",
-    "Wood Elf Realms - Orion's Wild Hunt/units.json",
-    "profiles.json",
-    "units.json"
+    "Wood Elf Realms - Orion's Wild Hunt/units.json"
   ]
 }
