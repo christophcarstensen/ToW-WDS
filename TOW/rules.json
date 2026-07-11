@@ -12664,5 +12664,76 @@
     "Name": "Warriors of the Wind",
     "Type": "Rule",
     "Description": "0-1 unit of Peasant Levy per 1,000 points may have the Reserve Move and Scouts special rules for +2 points per model."
+  },
+  {
+    "Id": "rules_1783798039150",
+    "Name": "An Annoyance of Netlings",
+    "Type": "Rule",
+    "Description": "Whilst this model is engaged in a challenge, its opponent in the challenge suffers a -1 modifier to its rolls To Hit."
+  },
+  {
+    "Id": "rules_1783798057998",
+    "Name": "A Resplendence of Luminescents",
+    "Type": "Rule",
+    "Description": "This model and any unit it has joined gains the Magical Attacks special rule."
+  },
+  {
+    "Id": "rules_1783798085522",
+    "Name": "Aspect of the Cat",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Cat gains the Armour Bane (1) special rule and may re-roll any failed rolls To Hit during a challenge."
+  },
+  {
+    "Id": "rules_1783798107934",
+    "Name": "Aspect of the Bear",
+    "Type": "Rule",
+    "Description": "Infantry or cavalry only. A character who adopts the Aspect of the Bear increases their Strength and Toughness characteristics by 1."
+  },
+  {
+    "Id": "rules_1783798125871",
+    "Name": "Aspect of the Hound",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Hound, and any unit they have joined, may re-roll any rolls To Hit of a natural 1 during the Combat phase."
+  },
+  {
+    "Id": "rules_1783798138580",
+    "Name": "Aspect of the Boar",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Boar improves the Armour Piercing characteristics of its weapon(s) by 1 during a turn in which it charged and gains the Impact Hits (1) special rule."
+  },
+  {
+    "Id": "rules_1783798192357",
+    "Name": "A Blight of Terrors",
+    "Type": "Rule",
+    "Description": "This model and any unit it has joined gains the Terror special rule."
+  },
+  {
+    "Id": "rules_1783798197051",
+    "Name": "A Muster of Malevolents",
+    "Type": "Rule",
+    "Description": "Wood Elf Nobles and Waystalkers only. An enemy model hit by one or more shooting attacks made by this model's Asrai longbow suffers an additional D3 Strength 2 hits, each with an AP of -. These hits have the Armour Bane (1) special rule."
+  },
+  {
+    "Id": "rules_1783798224664",
+    "Name": "A Befuddlement of Mischiefs",
+    "Type": "Rule",
+    "Description": "During the Combat phase, a single enemy unit that is in base contact with this model suffers a -1 modifier to both its Weapon Skill and Initiative characteristics."
+  },
+  {
+    "Id": "rules_1783798230018",
+    "Name": "A Murder of Spites",
+    "Type": "Rule",
+    "Description": "When this model's combat is chosen during Step 1 of the Combat phase, a single enemy unit it is engaged with suffers D3 Strength 2 hits, each with an AP of -1."
+  },
+  {
+    "Id": "rules_1783798248545",
+    "Name": "A Lamentation of Despairs",
+    "Type": "Rule",
+    "Description": "Unless this model is fleeing, enemy units that are within 6\" of this model suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test (to a minimum of 2)."
+  },
+  {
+    "Id": "rules_1783798264244",
+    "Name": "",
+    "Type": "Rule"
   }
 ]
