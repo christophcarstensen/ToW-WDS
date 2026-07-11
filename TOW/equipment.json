@@ -1149,7 +1149,7 @@
     "Id": "4f4b-796c-5654-e56d",
     "Name": "Helstorm Rocket Battery",
     "Type": "Equipment",
-    "Description": "R: 12-48\"\nS: 3\nAP: -1\nSpecial Rules: Cumbersome, Helstorm, Move or Shoot\nNotes: This weapon uses a number of 3\" blast templates and the Black Powder Misfire table.\n"
+    "Description": "R: 12-48\"\nS: 4\nAP: -2\nSpecial Rules: Cumbersome, Helstorm, Move or Shoot\nNotes: This weapon uses a number of 3\" blast templates and the Black Powder Misfire table.\n"
   },
   {
     "Id": "6966-2e58-af5-fa99",
