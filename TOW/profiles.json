@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "68357bdb6d966c2c148339c7c",
     "Name": "Boss (Boar Boy)",
@@ -87,6 +87,10 @@
       },
       {
         "Id": "d3eb-1fa0-bb19-f390"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
       }
     ]
   },
@@ -564,6 +568,10 @@
       },
       {
         "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
       }
     ]
   },
@@ -1865,6 +1873,10 @@
       },
       {
         "Id": "505f-e12d-2e36-31d0"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
       }
     ]
   },
@@ -1926,7 +1938,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b466d966c2c1467ce32",
     "Name": "Champion (Ogre)",
     "Type": "Profile",
@@ -1969,7 +1981,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b496d966c2c14682dea",
     "Name": "Champion (Imperial Ogre)",
     "Type": "Profile",
@@ -2012,7 +2024,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b4e6d966c2c1468bbef",
     "Name": "Royal Champion (Hammerer)",
     "Type": "Profile",
@@ -2073,7 +2085,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b4f6d966c2c1468ed09",
     "Name": "Ol Deadeye (Ranger)",
     "Type": "Profile",
@@ -2128,7 +2140,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b486d966c2c1467f9f1",
     "Name": "Veteran (Imperial Dwarf Warrior)",
     "Type": "Profile",
@@ -2179,7 +2191,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "profiles_1779472835078",
     "Name": "Peasant Elder",
     "Type": "Profile",
@@ -2199,7 +2211,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357b886d966c2c147278a2ygrail",
     "Name": "Grail Reliquae",
     "Type": "Profile",
@@ -2235,7 +2247,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357ba76d966c2c1479000bc",
     "Name": "First Knight (Knight of the Realm)",
     "Type": "Profile",
@@ -2279,7 +2291,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "c977bff6-7e9f-46ca-966a-e23918d969e1",
     "Name": "Outcast Wizard on Warhorse",
     "Type": "Profile",
@@ -2320,7 +2332,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357bd86d966c2c1482c25ac",
     "Name": "Boss (Orc)",
     "Type": "Profile",
@@ -2356,7 +2368,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357c106d966c2c148b2a03c",
     "Name": "Captain",
     "Type": "Profile",
@@ -2388,7 +2400,7 @@
       }
     ]
   },
-    {
+  {
     "Id": "68357cab6d966c2c14b328fhandler",
     "Name": "Chaos Warhound Handler",
     "Type": "Profile",
