@@ -22,5 +22,21 @@
         "Id": "dbb2-4d85-84c2-528c"
       }
     ]
+  },
+  {
+    "Id": "statlines_1783801412352",
+    "Name": "Orion, the King in the Woods",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "8",
+      "BS": "6",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "8",
+      "A": "5",
+      "Ld": "10"
+    }
   }
 ]
