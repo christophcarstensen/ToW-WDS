@@ -142,7 +142,8 @@
   {
     "Id": "bb999105-c4a0-4921-8da0-3b8aa6d70af0",
     "Name": "Pegasus",
-    "Type": 0
+    "Type": 0,
+    "Description": ""
   },
   {
     "Id": "de4cfb24-6468-4e1c-9f7d-5a7a2d26315c",
