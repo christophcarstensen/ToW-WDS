@@ -957,7 +957,7 @@
     "Id": "6133-9bd8-8780-23ed",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
   },
   {
     "Id": "5bc1-9e5a-d313-7f26",
@@ -1365,7 +1365,7 @@
     "Id": "306e-1857-ff89-754e",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front."
   },
   {
     "Id": "2f86-a9f-38aa-d39a",
@@ -1503,7 +1503,7 @@
     "Id": "3922-1014-8e75-a126",
     "Name": "Aura Of The Fay",
     "Type": "Rule",
-    "Description": "Description: The Green Knight is a supernatural being of great power. Should he be vanquished by a foe, he disappears into thin air, only to reappear once more and return to the fray. When the Green Knight loses his last Wound, he is removed from play as usual, but is not slain. His controlling player may attempt to awaken him again during any of their Start of Turn sub-phases in which he is not on the battlefield, using the Guardian of the Sacred Sites special rule (as described opposite). However, each time the Green Knight is slain, he is weakened, and suffers a -1 modifier to the dice roll when attempting to awaken him, and a -1 modifier to his Wounds characteristic (to a minimum of 1). Note that the enemy player can only win Victory Points for the Green Knight if he is not on the battlefield at the end of the game.\n"
+    "Description": "Description: The Green Knight is a supernatural being of great power. Should he be vanquished by a foe, he disappears into thin air, only to reappear once more and return to the fray. When the Green Knight loses his last Wound, he is removed from play as usual, but is not slain. His controlling player may attempt to awaken him again during any of their Start of Turn sub-phases in which he is not on the battlefield, using the Guardian of the Sacred Sites special rule (as described opposite). However, each time the Green Knight is slain, he is weakened, and suffers a -1 modifier to the dice roll when attempting to awaken him, and a -1 modifier to his Wounds characteristic (to a minimum of 1). Note that the enemy player only wins Victory Points for destroying\nthe Green Knight the first time he loses his last Wound and is removed from play.\n"
   },
   {
     "Id": "5893-8820-e358-d20f",
@@ -1521,7 +1521,7 @@
     "Id": "de36-314b-6886-b2ee",
     "Name": "Guardian Of The Sacred Sites",
     "Type": "Rule",
-    "Description": "Description: The Green Knight is not placed on the battlefield during deployment – he slumbers until he is awakened during the game. During any of your Start of Turn sub-phases in which the Green Knight is not on the battlefield (even if he was removed from play as a casualty during a previous turn), you may attempt to awaken him by rolling a D6. On a roll of 1-2, he continues to slumber until your next turn at least. On a roll of 3+, the Green Knight awakens. If the Green Knight has not yet been awakened by the start of round five, he awakens automatically.\n\nWhen the Green Knight awakens, he may be placed completely within any ‘natural’ terrain feature anywhere on the battlefield. For the purposes of this rule, a ‘natural’ terrain feature includes any woods, or any difficult or dangerous terrain. ‘It does not include magical vortexes, open ground or hills, or any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.\n\nIn addition, rather than moving normally during the Remaining Moves sub-phase, if the Green Knight is completely within a natural terrain feature and is not engaged in combat, you may remove him from the battlefield and replace him so that he is completely within a different natural terrain feature anywhere on the battlefield. The Green Knight cannot move again during this Movement phase.\n\nNote that when the Green Knight appears within a natural terrain feature, he must abide by the 1\" rule. In other words, the Green Knight cannot be placed within 1\" of an enemy unit.\n"
+    "Description": "Description: The Green Knight is not placed on the battlefield during deployment – he slumbers until he is awakened during the game. During any of your Start of Turn sub-phases in which the Green Knight is not on the battlefield (even if he was removed from play as a casualty during a previous turn), you may attempt to awaken him by rolling a D6. On a roll of 1-2, he continues to slumber until your next turn at least. On a roll of 3+, the Green Knight awakens. If the Green Knight has not yet been awakened by the start of round five, he awakens automatically.\n\nDuring the Compulsory Moves sub-phase of the turn in which he was awakened, the Green Knight may be placed completely within any ‘natural’ terrain feature, anywhere on the battlefield. For the purposes of this rule, a ‘natural’ terrain feature includes any woods, or any difficult or dangerous terrain (as described on page 269 of the Warhammer: the Old World rulebook). It does not include magical vortexes, open ground or hills, or any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.\n\nIn addition, rather than moving normally during the Remaining Moves sub-phase, if the Green Knight is completely within a natural terrain feature and is not engaged in combat, you may remove him from the battlefield and replace him so that he is completely within a different natural terrain feature anywhere on the battlefield. The Green Knight cannot move again during this Movement phase.\n\nNote that when the Green Knight appears within a natural terrain feature, he must abide by the 1\" rule. In other words, the Green Knight cannot be placed within 1\" of an enemy unit.\n"
   },
   {
     "Id": "abb5-9813-5e95-1d94",
@@ -1563,7 +1563,7 @@
     "Id": "2a78-f58a-ac7f-87ae",
     "Name": "Dispersed Formation",
     "Type": "Rule",
-    "Description": "Description: Whilst in Skirmish formation, every model in a unit of Pegasus Knights must be within 2\" of another model belonging to the same unit, rather than the usual 1\".\n"
+    "Description": "Description: To maintain Skirmish formation, every model in this unit must be within 3\" of another model belonging to the same unit, rather than the usual 1\". However, unlike most Skirmishers, models with this special rule do not have a 360° vision arc; they instead have a 90° vision arc, corresponding to their front arc.’"
   },
   {
     "Id": "1439-c8b1-9ff8-298a",
@@ -2727,7 +2727,7 @@
     "Id": "47b4-6109-4960-9f42",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front."
   },
   {
     "Id": "2eab-a965-2f01-1b5b",
@@ -3225,7 +3225,7 @@
     "Id": "dff9-cd97-d1c-ab35",
     "Name": "Blessed Triptych",
     "Type": "Rule",
-    "Description": "Description: A unit that contains a model equipped with a Blessed Triptych gains the Stubborn special rule."
+    "Description": "Description: A unit that contains a Blessed Triptych gains the Stubborn special rule."
   },
   {
     "Id": "3e5f-babb-4f9b-76c3",
@@ -12735,5 +12735,11 @@
     "Id": "rules_1783798264244",
     "Name": "",
     "Type": "Rule"
+  },
+  {
+    "Id": "rules_1783809082194",
+    "Name": "Warriors Of The Wilderness",
+    "Type": "Rule",
+    "Description": "Once players have finished placing terrain, a Chracian Warhost player may place one additional area of difficult\nterrain measuring no less than 3\" at its narrowest and no more than 9\" at its widest point. This may be placed anywhere on the battlefield that is not within their opponent’s deployment zone and not within 6\" of a special feature (note that, unlike most terrain features, this terrain feature can be placed within 12\" of the centre of the battlefield, unless the presence of a special feature precludes this)."
   }
 ]
