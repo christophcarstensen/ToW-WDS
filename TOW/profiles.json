@@ -645,7 +645,7 @@
     "Id": "8e24b58e-ddf3-4103-b0ef-c2fbd0f67b52",
     "Name": "Exalted Champion on Chaos Dragon",
     "Type": "Profile",
-    "BaseId": "10",
+    "BaseId": "12",
     "Children": [
       {
         "Id": "statline_794"
@@ -687,6 +687,10 @@
       },
       {
         "Id": "8382-4e23-e72c-d90"
+      },
+      {
+        "Id": "b664-8530-a988-7ba9",
+        "Info": ""
       }
     ]
   },
