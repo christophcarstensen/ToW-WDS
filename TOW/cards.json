@@ -1001,7 +1001,7 @@
       "Range": "15\"",
       "Type": "Magic Missile"
     },
-    "Description": "The target enemy unit suffers 5D6 Strength 1 hits with no armour save permitted (Ward and Regeneration saves can be attempted as normal).",
+    "Description": "The target enemy unit suffers 5D6 Strength 1 hits, each with an AP of -2.",
     "UIConfig": {
       "Color": "#9C6400",
       "Color2": "#FAC740"
