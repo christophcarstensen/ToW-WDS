@@ -20,7 +20,8 @@
       "type": "Monstrous Infantry"
     },
     "BasicProfileIds": [
-      "profiles_1783801356320"
+      "profiles_1783801356320",
+      "68357cf36d966c2c14bdb434"
     ],
     "DefaultFront": 1,
     "Formation": 0
@@ -419,11 +420,7 @@
       "type": "Regular Infantry"
     },
     "BasicProfileIds": [
-      "68357cfb6d966c2c14bf3353",
-      "profiles_1784043141316",
-      "profiles_1784043175629",
-      "profiles_1784042867382",
-      "profiles_1784042433183"
+      "68357cfb6d966c2c14bf3353"
     ],
     "DefaultFront": 5,
     "Formation": 0
