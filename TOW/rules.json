@@ -12777,5 +12777,11 @@
     "Name": "Scroll of Righteous Smiting",
     "Type": "Rule",
     "Description": "Type: Enchantment\nCasting Value: 7\nRange: Self\n\nRemains in play. Whilst this spell is in play, friendly units whose troop type is war machine that are within the caster's Command range can re-roll a single Artillery dice or Scatter dice per turn."
+  },
+  {
+    "Id": "rules_1784071250456",
+    "Name": "Razor Tusks",
+    "Type": "Rule",
+    "Description": "During a turn in which it charged, the Armour Piercing characteristic of a boar’s tusks (hand weapon) is improved by 1."
   }
 ]
