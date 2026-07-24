@@ -1,75 +1,5 @@
 [
   {
-    "Id": "68357cd36d966c2c14b8919d",
-    "Name": "Araloth, Lord of Talsyn",
-    "Type": "Profile",
-    "BaseId": "4",
-    "Children": [
-      {
-        "Id": "statline_823"
-      },
-      {
-        "Id": "1751-0dbe-b0dd-2f9c"
-      },
-      {
-        "Id": "9fff-999f-6e96-e149"
-      },
-      {
-        "Id": "87ae-4d49-7f58-085f"
-      },
-      {
-        "Id": "e83e-f127-1904-3858"
-      },
-      {
-        "Id": "23c4-bd19-2422-ad08"
-      },
-      {
-        "Id": "605a-2b9a-7e83-441d"
-      },
-      {
-        "Id": "48fd-23c1-c0d5-ae1d"
-      },
-      {
-        "Id": "e351-bbd6-f470-b604"
-      }
-    ]
-  },
-  {
-    "Id": "68357cd36d966c2c14b8941a",
-    "Name": "Hound of Orion",
-    "Type": "Profile",
-    "BaseId": "7",
-    "Children": [
-      {
-        "Id": "statline_824"
-      },
-      {
-        "Id": "5ec9-a98-d8c5-e18b"
-      },
-      {
-        "Id": "3b0c-a477-8823-3a25"
-      },
-      {
-        "Id": "93d9-c75b-f655-30ac"
-      },
-      {
-        "Id": "2125-6aa2-f782-42bf"
-      },
-      {
-        "Id": "e83e-f127-1904-3858"
-      },
-      {
-        "Id": "5b67-8535-146c-7cea"
-      },
-      {
-        "Id": "de18-9243-99b8-e4c0"
-      },
-      {
-        "Id": "d3eb-1fa0-bb19-f390"
-      }
-    ]
-  },
-  {
     "Id": "68357cd46d966c2c14b89694",
     "Name": "Branchwraith",
     "Type": "Profile",
@@ -102,6 +32,10 @@
       },
       {
         "Id": "73e-df40-cff9-91af"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
       }
     ]
   },
@@ -1222,8 +1156,12 @@
         "Id": "73e-df40-cff9-91af"
       },
       {
-        "Id": "74ea-d296-5fa6-b617",
-        "Info": "(X)"
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(-1)"
       }
     ]
   },
@@ -1269,7 +1207,11 @@
       },
       {
         "Id": "74ea-d296-5fa6-b617",
-        "Info": "(X)"
+        "Info": "(-1)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
       }
     ]
   },
@@ -2132,29 +2074,6 @@
       },
       {
         "Id": "59a5-7eca-ee35-96ac"
-      }
-    ]
-  },
-  {
-    "Id": "68357ce16d966c2c14bb1b6dhound",
-    "Name": "Deepwood Hound",
-    "Type": "Profile",
-    "BaseId": "7",
-    "Children": [
-      {
-        "Id": "statline_864"
-      },
-      {
-        "Id": "6359-4018-5cd4-3720"
-      },
-      {
-        "Id": "f569-fb1b-7300-4124"
-      },
-      {
-        "Id": "59a5-7eca-ee35-96ac"
-      },
-      {
-        "Id": "505f-e12d-2e36-31d0"
       }
     ]
   },

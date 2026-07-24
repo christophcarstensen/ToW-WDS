@@ -447,7 +447,7 @@
     "Id": "c2c3-72ce-e66e-b9bc",
     "Name": "Fiery breath",
     "Type": "Equipment",
-    "Description": null
+    "Description": ""
   },
   {
     "Id": "4b56-5100-6a55-452e",
@@ -1149,7 +1149,7 @@
     "Id": "4f4b-796c-5654-e56d",
     "Name": "Helstorm Rocket Battery",
     "Type": "Equipment",
-    "Description": "R: 12-48\"\nS: 3\nAP: -1\nSpecial Rules: Cumbersome, Helstorm, Move or Shoot\nNotes: This weapon uses a number of 3\" blast templates and the Black Powder Misfire table.\n"
+    "Description": "R: 12-48\"\nS: 4\nAP: -2\nSpecial Rules: Cumbersome, Helstorm, Move or Shoot\nNotes: This weapon uses a number of 3\" blast templates and the Black Powder Misfire table.\n"
   },
   {
     "Id": "6966-2e58-af5-fa99",
@@ -1293,7 +1293,7 @@
     "Id": "e977-f337-569a-f59a",
     "Name": "Spectral Scythe",
     "Type": "Equipment",
-    "Description": null
+    "Description": ""
   },
   {
     "Id": "1a31-9a99-e22b-6235",
@@ -1348,12 +1348,6 @@
     "Name": "Spear of Kurnous",
     "Type": "Equipment",
     "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: \n"
-  },
-  {
-    "Id": "0225-ebef-3cf8-2b9d",
-    "Name": "Spear of Kurnous",
-    "Type": "Equipment",
-    "Description": "R: 18\"\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: The Spear of Kurnous shoots like a bolt thrower, using the Through & Through special rule.\n"
   },
   {
     "Id": "34a4-ebfb-91a-a8dd",

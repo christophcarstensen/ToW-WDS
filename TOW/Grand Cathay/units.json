@@ -176,19 +176,6 @@
     "Formation": 0
   },
   {
-    "Id": "6866ef0ef0f4ee4feb03fdd3",
-    "Name": "Jade Warriors",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Infantry"
-    },
-    "BasicProfileIds": [
-      "6866ef0ef0f4ee4feb03fdda"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
     "Id": "6866ef0ef0f4ee4feb042789",
     "Name": "Cathayan Grand Cannon",
     "Type": "Unit",
@@ -248,19 +235,6 @@
       "6866ef10f0f4ee4feb045d6e"
     ],
     "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
-    "Id": "6866ef11f0f4ee4feb04616a",
-    "Name": "Badlands Ogre Bulls",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "6866ef11f0f4ee4feb04618b"
-    ],
-    "DefaultFront": 3,
     "Formation": 0
   },
   {
@@ -324,29 +298,6 @@
     "BasicProfileIds": [
       "profiles_1779483163199"
     ]
-  },
-  {
-    "Id": "units_1779483331838",
-    "Name": "Astromancer",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1779482409515"
-    ]
-  },
-  {
-    "Id": "units_1779484117169",
-    "Name": "Astromancer on Cathayan Horse",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1779482409516"
-    ],
-    "Attributes": {
-      "type": "Heavy Cavalry"
-    }
   },
   {
     "Id": "units_1779484202273",

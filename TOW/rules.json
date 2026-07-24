@@ -957,7 +957,7 @@
     "Id": "6133-9bd8-8780-23ed",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
   },
   {
     "Id": "5bc1-9e5a-d313-7f26",
@@ -1365,7 +1365,7 @@
     "Id": "306e-1857-ff89-754e",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front."
   },
   {
     "Id": "2f86-a9f-38aa-d39a",
@@ -1503,7 +1503,7 @@
     "Id": "3922-1014-8e75-a126",
     "Name": "Aura Of The Fay",
     "Type": "Rule",
-    "Description": "Description: The Green Knight is a supernatural being of great power. Should he be vanquished by a foe, he disappears into thin air, only to reappear once more and return to the fray. When the Green Knight loses his last Wound, he is removed from play as usual, but is not slain. His controlling player may attempt to awaken him again during any of their Start of Turn sub-phases in which he is not on the battlefield, using the Guardian of the Sacred Sites special rule (as described opposite). However, each time the Green Knight is slain, he is weakened, and suffers a -1 modifier to the dice roll when attempting to awaken him, and a -1 modifier to his Wounds characteristic (to a minimum of 1). Note that the enemy player can only win Victory Points for the Green Knight if he is not on the battlefield at the end of the game.\n"
+    "Description": "Description: The Green Knight is a supernatural being of great power. Should he be vanquished by a foe, he disappears into thin air, only to reappear once more and return to the fray. When the Green Knight loses his last Wound, he is removed from play as usual, but is not slain. His controlling player may attempt to awaken him again during any of their Start of Turn sub-phases in which he is not on the battlefield, using the Guardian of the Sacred Sites special rule (as described opposite). However, each time the Green Knight is slain, he is weakened, and suffers a -1 modifier to the dice roll when attempting to awaken him, and a -1 modifier to his Wounds characteristic (to a minimum of 1). Note that the enemy player only wins Victory Points for destroying\nthe Green Knight the first time he loses his last Wound and is removed from play.\n"
   },
   {
     "Id": "5893-8820-e358-d20f",
@@ -1521,7 +1521,7 @@
     "Id": "de36-314b-6886-b2ee",
     "Name": "Guardian Of The Sacred Sites",
     "Type": "Rule",
-    "Description": "Description: The Green Knight is not placed on the battlefield during deployment – he slumbers until he is awakened during the game. During any of your Start of Turn sub-phases in which the Green Knight is not on the battlefield (even if he was removed from play as a casualty during a previous turn), you may attempt to awaken him by rolling a D6. On a roll of 1-2, he continues to slumber until your next turn at least. On a roll of 3+, the Green Knight awakens. If the Green Knight has not yet been awakened by the start of round five, he awakens automatically.\n\nWhen the Green Knight awakens, he may be placed completely within any ‘natural’ terrain feature anywhere on the battlefield. For the purposes of this rule, a ‘natural’ terrain feature includes any woods, or any difficult or dangerous terrain. ‘It does not include magical vortexes, open ground or hills, or any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.\n\nIn addition, rather than moving normally during the Remaining Moves sub-phase, if the Green Knight is completely within a natural terrain feature and is not engaged in combat, you may remove him from the battlefield and replace him so that he is completely within a different natural terrain feature anywhere on the battlefield. The Green Knight cannot move again during this Movement phase.\n\nNote that when the Green Knight appears within a natural terrain feature, he must abide by the 1\" rule. In other words, the Green Knight cannot be placed within 1\" of an enemy unit.\n"
+    "Description": "Description: The Green Knight is not placed on the battlefield during deployment – he slumbers until he is awakened during the game. During any of your Start of Turn sub-phases in which the Green Knight is not on the battlefield (even if he was removed from play as a casualty during a previous turn), you may attempt to awaken him by rolling a D6. On a roll of 1-2, he continues to slumber until your next turn at least. On a roll of 3+, the Green Knight awakens. If the Green Knight has not yet been awakened by the start of round five, he awakens automatically.\n\nDuring the Compulsory Moves sub-phase of the turn in which he was awakened, the Green Knight may be placed completely within any ‘natural’ terrain feature, anywhere on the battlefield. For the purposes of this rule, a ‘natural’ terrain feature includes any woods, or any difficult or dangerous terrain (as described on page 269 of the Warhammer: the Old World rulebook). It does not include magical vortexes, open ground or hills, or any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.\n\nIn addition, rather than moving normally during the Remaining Moves sub-phase, if the Green Knight is completely within a natural terrain feature and is not engaged in combat, you may remove him from the battlefield and replace him so that he is completely within a different natural terrain feature anywhere on the battlefield. The Green Knight cannot move again during this Movement phase.\n\nNote that when the Green Knight appears within a natural terrain feature, he must abide by the 1\" rule. In other words, the Green Knight cannot be placed within 1\" of an enemy unit.\n"
   },
   {
     "Id": "abb5-9813-5e95-1d94",
@@ -1563,7 +1563,7 @@
     "Id": "2a78-f58a-ac7f-87ae",
     "Name": "Dispersed Formation",
     "Type": "Rule",
-    "Description": "Description: Whilst in Skirmish formation, every model in a unit of Pegasus Knights must be within 2\" of another model belonging to the same unit, rather than the usual 1\".\n"
+    "Description": "Description: To maintain Skirmish formation, every model in this unit must be within 3\" of another model belonging to the same unit, rather than the usual 1\". However, unlike most Skirmishers, models with this special rule do not have a 360° vision arc; they instead have a 90° vision arc, corresponding to their front arc.’"
   },
   {
     "Id": "1439-c8b1-9ff8-298a",
@@ -2727,7 +2727,7 @@
     "Id": "47b4-6109-4960-9f42",
     "Name": "Martial Prowess",
     "Type": "Rule",
-    "Description": "Description: A unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.\n"
+    "Description": "Description: During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front."
   },
   {
     "Id": "2eab-a965-2f01-1b5b",
@@ -3225,7 +3225,7 @@
     "Id": "dff9-cd97-d1c-ab35",
     "Name": "Blessed Triptych",
     "Type": "Rule",
-    "Description": "Description: A unit that contains a model equipped with a Blessed Triptych gains the Stubborn special rule."
+    "Description": "Description: A unit that contains a Blessed Triptych gains the Stubborn special rule."
   },
   {
     "Id": "3e5f-babb-4f9b-76c3",
@@ -3813,7 +3813,7 @@
     "Id": "ef80-74a3-4b5f-ce0d",
     "Name": "Hagtree Fetish",
     "Type": "Rule",
-    "Description": "Description: Whenever the bearer of the Hagtree Fetish successfully casts a Magic Missile, they may re-roll any failed rolls To Wound."
+    "Description": "Description: Whenever the bearer of the Hagtree Fetish successfully casts a Magic Missile, they may re-roll any rolls To Wound of a natural 1."
   },
   {
     "Id": "6356-e9e1-1eae-7951",
@@ -4239,7 +4239,7 @@
     "Id": "823b-ea1a-3099-d6a6",
     "Name": "Icon of Rakaph",
     "Type": "Rule",
-    "Description": "Description: Unless making a charge move, a unit carrying the Icon of Rakaph may perform a single free reform at any point during its movement."
+    "Description": "Description: Unless it made a charge move, a unit carrying the Icon of Rakaph may perform a single free reform after moving during the Remaining Moves sub-phase."
   },
   {
     "Id": "477b-3c5-cdc3-f36b",
@@ -5907,7 +5907,7 @@
     "Id": "70d3-ea31-eb40-a58c",
     "Name": "Release the Fanatics!",
     "Type": "Rule",
-    "Description": "Description: Fanatics are not placed on the battlefield at the start of the game. Instead, make a note of which Night Goblin units include Fanatics, and of how many they include. These units are referred to as ‘concealing’ units. A concealing unit may release one or more of its Fanatics during any Start of Turn sub-phase.\n\nWhen a Fanatic is released, it travels through the air to land spinning several feet away from its concealing unit, before embarking upon its erratic journey across the battlefield. To represent this, place the model so that its base is within 3\" of its concealing unit and not touching the bases of any other models.\n\n**Fanatic Movement:** During the Compulsory Moves sub-phase of the turn in which it was released, a Fanatic moves 2D6\" in a direction chosen by its controlling player.\n\nDuring each and every other Compulsory Moves sub-phase, a Fanatic Moves 2D6\" in a random direction. If a Fanatic’s movement brings it into contact with a unit (friend or foe), it moves through that unit. Continue to move it in the same direction until it can be placed on the battlefield with its base not touching the bases of any other models.\n\n*Note that, unlike other models, Fanatics ignore the 1\" rule.*\n\n**Moving Through a Fanatic:** Although dangerous, any unit may move through a Fanatic. Should a unit ever end its move ‘on top’ of a Fanatic, move the Fanatic by the shortest route possible until it can be placed on the battlefield with its base not touching the bases of any models.\n\n**Fanatic Ball & Chain:** Any unit (friend or foe) that is moved through by a moving Fanatic, or that moves through a Fanatic, suffers D6 Strength 5 hits, each with an AP of -3.\n\n**Death of a Fanatic:** A Fanatic model cannot be charged, targeted or attacked in any way.\nHowever, the life of a Fanatic is no less dangerous for this. Should a Fanatic find itself lying fully or partially underneath a template (one placed over a nearby unit, for example, or that has scattered), it risks being hit as normal. Additionally, if any natural double is rolled for its movement, or if a Fanatic moves into any difficult, dangerous or impassable terrain, or any type of linear obstacle, it comes to a sudden and terminal stop, and is immediately removed from play as a casualty. Finally, if a concealing unit is destroyed or flees the battlefield before its Fanatics have been released, they are removed as casualties."
+    "Description": "Description: Fanatics are not placed on the battlefield at the start of the game. Instead, make a note of which Night Goblin units include Fanatics, and of how many they include. These units are referred to as ‘concealing’ units. A concealing unit may release one or more of its Fanatics during any Start of Turn sub-phase.\n\nWhen a Fanatic is released, it travels through the air to land spinning several feet away from its concealing unit, before embarking upon its erratic journey across the battlefield. To represent this, place the model so that its base is within 3\" of its concealing unit and not touching the bases of any other models.\n\n**Fanatic Movement:** During the Compulsory Moves sub-phase of the turn in which it was released, a Fanatic moves 2D6\" in a direction chosen by its controlling player.\n\nDuring each and every other Compulsory Moves sub-phase, a Fanatic Moves 2D6\" in a random direction. If a Fanatic’s movement brings it into contact with a unit (friend or foe), it moves through that unit. Continue to move it in the same direction until it can be placed on the battlefield with its base not touching the bases of any other models.\n\n*Note that, unlike other models, Fanatics ignore the 1\" rule.*\n\n**Moving Through a Fanatic:** Although dangerous, any unit may move through a Fanatic. Should a unit ever end its move ‘on top’ of a Fanatic, move the Fanatic by the shortest route possible until it can be placed on the battlefield with its base not touching the bases of any models.\n\n**Fanatic Ball & Chain:** Any unit (friend or foe) that is moved through by a moving Fanatic, or that moves through a Fanatic, suffers D6 Strength 5 hits, each with an AP of -3.\n\n**Death of a Fanatic:** Enemy units cannot charge a Fanatic, or otherwise attempt to engage a Fanatic in combat. However, a Fanatic can be targeted by enemy shooting as if it were a lone character. If a Fanatic finds itself lying fully or partially underneath a template, it risks being hit as normal. Should a Fanatic move into another Fanatic, they become entangled in one another’s chains and both are removed as casualties. If any natural double is rolled for a Fanatic’s movement, or if it moves into contact with any difficult, dangerous or impassable terrain, or any type of linear obstacle, it comes to a terminal stop, and is removed as a casualty. Finally, if a concealing unit is destroyed or flees the battlefield before its Fanatics have been released, they are also removed as casualties"
   },
   {
     "Id": "1f92-933c-dfaa-bd0a",
@@ -12664,5 +12664,124 @@
     "Name": "Warriors of the Wind",
     "Type": "Rule",
     "Description": "0-1 unit of Peasant Levy per 1,000 points may have the Reserve Move and Scouts special rules for +2 points per model."
+  },
+  {
+    "Id": "rules_1783798039150",
+    "Name": "An Annoyance of Netlings",
+    "Type": "Rule",
+    "Description": "Whilst this model is engaged in a challenge, its opponent in the challenge suffers a -1 modifier to its rolls To Hit."
+  },
+  {
+    "Id": "rules_1783798057998",
+    "Name": "A Resplendence of Luminescents",
+    "Type": "Rule",
+    "Description": "This model and any unit it has joined gains the Magical Attacks special rule."
+  },
+  {
+    "Id": "rules_1783798085522",
+    "Name": "Aspect of the Cat",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Cat gains the Armour Bane (1) special rule and may re-roll any failed rolls To Hit during a challenge."
+  },
+  {
+    "Id": "rules_1783798107934",
+    "Name": "Aspect of the Bear",
+    "Type": "Rule",
+    "Description": "Infantry or cavalry only. A character who adopts the Aspect of the Bear increases their Strength and Toughness characteristics by 1."
+  },
+  {
+    "Id": "rules_1783798125871",
+    "Name": "Aspect of the Hound",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Hound, and any unit they have joined, may re-roll any rolls To Hit of a natural 1 during the Combat phase."
+  },
+  {
+    "Id": "rules_1783798138580",
+    "Name": "Aspect of the Boar",
+    "Type": "Rule",
+    "Description": "A character who adopts the Aspect of the Boar improves the Armour Piercing characteristics of its weapon(s) by 1 during a turn in which it charged and gains the Impact Hits (1) special rule."
+  },
+  {
+    "Id": "rules_1783798192357",
+    "Name": "A Blight of Terrors",
+    "Type": "Rule",
+    "Description": "This model and any unit it has joined gains the Terror special rule."
+  },
+  {
+    "Id": "rules_1783798197051",
+    "Name": "A Muster of Malevolents",
+    "Type": "Rule",
+    "Description": "Wood Elf Nobles and Waystalkers only. An enemy model hit by one or more shooting attacks made by this model's Asrai longbow suffers an additional D3 Strength 2 hits, each with an AP of -. These hits have the Armour Bane (1) special rule."
+  },
+  {
+    "Id": "rules_1783798224664",
+    "Name": "A Befuddlement of Mischiefs",
+    "Type": "Rule",
+    "Description": "During the Combat phase, a single enemy unit that is in base contact with this model suffers a -1 modifier to both its Weapon Skill and Initiative characteristics."
+  },
+  {
+    "Id": "rules_1783798230018",
+    "Name": "A Murder of Spites",
+    "Type": "Rule",
+    "Description": "When this model's combat is chosen during Step 1 of the Combat phase, a single enemy unit it is engaged with suffers D3 Strength 2 hits, each with an AP of -1."
+  },
+  {
+    "Id": "rules_1783798248545",
+    "Name": "A Lamentation of Despairs",
+    "Type": "Rule",
+    "Description": "Unless this model is fleeing, enemy units that are within 6\" of this model suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test (to a minimum of 2)."
+  },
+  {
+    "Id": "rules_1783798264244",
+    "Name": "",
+    "Type": "Rule"
+  },
+  {
+    "Id": "rules_1783809082194",
+    "Name": "Warriors Of The Wilderness",
+    "Type": "Rule",
+    "Description": "Once players have finished placing terrain, a Chracian Warhost player may place one additional area of difficult\nterrain measuring no less than 3\" at its narrowest and no more than 9\" at its widest point. This may be placed anywhere on the battlefield that is not within their opponent’s deployment zone and not within 6\" of a special feature (note that, unlike most terrain features, this terrain feature can be placed within 12\" of the centre of the battlefield, unless the presence of a special feature precludes this)."
+  },
+  {
+    "Id": "rules_1783816487674",
+    "Name": "Scroll of Withering",
+    "Type": "Rule",
+    "Description": "Type: Hex\nCasting Value: 8+\nRange: 21\"\n\nUntil your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Strength and Initiative characteristics and cannot make any Ward or Regeneration saves. This Bound spell may target an enemy unit engaged in combat."
+  },
+  {
+    "Id": "rules_1783816522387",
+    "Name": "Scroll of Summoning",
+    "Type": "Rule",
+    "Description": "Type:Enchantment\nCasting Value: 8+\nRange: 21\"\n\nThe target friendly unit regains D3 lost Wounds and, until your next Start of Turn sub-phase, improves its Regeneration value by 1."
+  },
+  {
+    "Id": "rules_1783816588477",
+    "Name": "Scroll of Awakening",
+    "Type": "Rule",
+    "Description": "Type: Magic Missile\nCasting Value: 9\nRange: 27\"\n\nPlace a small (3\") blast template so that its central hole is directly over the centre of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -2."
+  },
+  {
+    "Id": "rules_1783816655795",
+    "Name": "Scroll of the Outcast Dead",
+    "Type": "Rule",
+    "Description": "Type: Magical Vortex\nCasting Value: 8\nRange: 18\"\n\nRemains in play. Place a small (3\") blast template so that its central hole is within 18\" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6\" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers a single Strength 4 hit with an AP of -2. This hit has the Multiple Wounds (D3) special rule. Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties."
+  },
+  {
+    "Id": "rules_1783816679415",
+    "Name": "Scroll of Urgency",
+    "Type": "Rule",
+    "Description": "Type: Conveyance\nCasting Value: 7\nRange: 21\"\n\nIf the target friendly unit has already moved during this Movement phase (not including failed charge moves), it can immediately move again."
+  },
+  {
+    "Id": "rules_1783816704704",
+    "Name": "Scroll of Righteous Smiting",
+    "Type": "Rule",
+    "Description": "Type: Enchantment\nCasting Value: 7\nRange: Self\n\nRemains in play. Whilst this spell is in play, friendly units whose troop type is war machine that are within the caster's Command range can re-roll a single Artillery dice or Scatter dice per turn."
+  },
+  {
+    "Id": "rules_1784071250456",
+    "Name": "Razor Tusks",
+    "Type": "Rule",
+    "Description": "During a turn in which it charged, the Armour Piercing characteristic of a boar’s tusks (hand weapon) is improved by 1."
   }
 ]

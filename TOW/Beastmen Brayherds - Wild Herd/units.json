@@ -315,7 +315,8 @@
     },
     "BasicProfileIds": [
       "6847dd5c7e64980f6761588f",
-      "6847dd5b7e64980f67613d37"
+      "6847dd5b7e64980f67613d37",
+      "6847dd5f7e64980f67618b42"
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -344,19 +345,6 @@
       "6847dd5e7e64980f67618616"
     ],
     "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "6847dd5e7e64980f6761888e",
-    "Name": "Tuskgor Chariots",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Heavy Chariot"
-    },
-    "BasicProfileIds": [
-      "6847dd5e7e64980f67618896"
-    ],
-    "DefaultFront": 1,
     "Formation": 0
   },
   {
