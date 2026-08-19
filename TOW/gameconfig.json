@@ -1,4 +1,7 @@
 {
+  "BattleReportScreenshotTiming": "AtEndOfTurn",
+  "BattleReportScreenshotCardStackId": null,
+  "BattleReportScreenshotAtDeployment": true,
   "WoundsAttribute": "W",
   "MaxCloudSeparation": 1.2,
   "CloudLargeNeighborCount": 1,
