@@ -24,6 +24,13 @@
   "ShowAttribHeader": false,
   "GeneralKillPoints": 100,
   "BsbKillPoints": 100,
+  "GameStateViewSections": [
+    0,
+    1,
+    2,
+    4,
+    5
+  ],
   "CounterMultiplier": 50,
   "ListParsingAlgorithm": 2,
   "AlternativeRandomTerrainGenerator": true,
