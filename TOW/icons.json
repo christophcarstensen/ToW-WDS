@@ -1,0 +1,310 @@
+[
+  {
+    "Id": "0609d94b-e650-48d2-bf48-c40a4f5bf432",
+    "Name": "Beastmen Brayherds",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/cfd20c19-b3c3-4d2e-8e34-aef06e0239eb.png"
+  },
+  {
+    "Id": "c45da274-959b-4274-a5f6-7832c9cef4ad",
+    "Name": "Beastmen Brayherds - Minotaur Blood Herd",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/df410561-bc4f-4a8c-821a-ac97b374e86f.png"
+  },
+  {
+    "Id": "7e07bde7-4d88-4208-9bff-de0dd982a559",
+    "Name": "Beastmen Brayherds - Wild Herd",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/dadc3f25-1ad0-49b5-b73b-a95fe986e8c2.png"
+  },
+  {
+    "Id": "4741d1ba-d350-4bb4-af3c-54b8eecd5d9d",
+    "Name": "Chaos Dwarfs",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/1e56188e-c8d6-4cb9-97bc-495d5156e205.png"
+  },
+  {
+    "Id": "96d17c71-56da-4615-b09d-eb34868f40dd",
+    "Name": "Daemons of Chaos",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/a310932a-7971-4251-bb04-ac71cc58186b.png"
+  },
+  {
+    "Id": "c1bcd5b4-5759-47a0-8cfa-5e1e85c713dc",
+    "Name": "Dark Elves",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/baa28d15-3c0b-42f5-88ff-ef5a341fa298.png"
+  },
+  {
+    "Id": "b093b5dd-e3ed-4822-8c1a-51b9f8eb7943",
+    "Name": "Dwarfen Mountain Holds",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/d33405bf-69cf-41c6-810f-27f70d1752a4.png"
+  },
+  {
+    "Id": "abc55a51-79e1-422d-b4fb-ec88b23595fc",
+    "Name": "Dwarfen Mountain Holds - Royal Clan",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/6223b74f-5268-4eb9-a9b9-6c3f66605f54.png"
+  },
+  {
+    "Id": "b1e26ac8-e3e9-4ed8-9126-295056f576f5",
+    "Name": "Dwarfen Mountain Holds - Expeditionary Force",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/09997d48-4a49-4737-90bc-6986d6a1f5d1.png"
+  },
+  {
+    "Id": "47b0e803-19bf-4bb2-b18e-2b85816979b1",
+    "Name": "Grand Cathay",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/6b104f26-ae21-40b8-9779-07b8b0406db0.png"
+  },
+  {
+    "Id": "1719110a-6094-4ada-8c04-26923e74c0aa",
+    "Name": "High Elf Realms",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/fc35c3be-7e6c-4314-914c-6ab3687ffe80.png"
+  },
+  {
+    "Id": "8ac07e31-c439-4526-84a7-3185f9e256e4",
+    "Name": "High Elf Realms - Chracian Warhost",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/dac7cf08-13e8-4be5-8111-469ec814ec8f.png"
+  },
+  {
+    "Id": "f032f7a8-948a-4d30-b8ed-eaf6f945e14d",
+    "Name": "High Elf Realms - Sea Guard Garrison",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/cfd252be-5c70-4d90-bf94-4913c080794c.png"
+  },
+  {
+    "Id": "12845634-62ea-42c9-9a37-777afb220353",
+    "Name": "Kingdom of Bretonnia",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/02a86e58-e22e-4c96-bc27-5a803ba9fbe6.png"
+  },
+  {
+    "Id": "ff4003f6-94ba-4126-9bfd-8015ab892d5f",
+    "Name": "Kingdom of Bretonnia - Bretonnian Exiles",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/ca70aa16-e0e2-4dea-a196-1dbbf9e73a1c.png"
+  },
+  {
+    "Id": "1f505e41-4de7-421e-b118-e33d28dcfe3e",
+    "Name": "Kingdom of Bretonnia - Errantry Crusade",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/f5253e82-f500-40d0-8952-f12fc58f6adf.png"
+  },
+  {
+    "Id": "7cd6b41c-f10f-4e8e-b4ee-ab1713187c62",
+    "Name": "Lizardmen",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/0d407c13-81e0-4d66-9e98-da26d255cf63.png"
+  },
+  {
+    "Id": "1cca1a0a-61ab-4a5b-808a-89e72b1f7792",
+    "Name": "Ogre Kingdoms",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/c20fc0a7-cdf9-4150-8cd9-9d8b365cad03.png"
+  },
+  {
+    "Id": "11233762-ada1-428a-9f18-6bb015e7be4e",
+    "Name": "Orc and Goblin Tribes",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/c3a14833-635f-4ab4-a127-a2407c7c6cc4.png"
+  },
+  {
+    "Id": "de4c65ec-fe1d-4ec9-a5b5-7c64be7362a1",
+    "Name": "Orc and Goblin Tribes - Nomadic Waaagh!",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/81110f00-6ebc-4bb7-91c8-3af89b40cc80.png"
+  },
+  {
+    "Id": "4efd1cbf-0dfe-4189-865e-a20fb5cf33fe",
+    "Name": "Orc and Goblin Tribes - Troll Horde",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/d057caf6-3dce-485d-97fd-d7999e6ab4d7.png"
+  },
+  {
+    "Id": "38440f3f-7d09-4cd6-8608-ea76af249cba",
+    "Name": "Skaven",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/75096a10-c458-497a-959a-496deb100411.png"
+  },
+  {
+    "Id": "6b27f6f5-13c3-40ca-9666-85291321b2e6",
+    "Name": "The Empire of Man",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/c1f97855-0521-4582-bb39-3ffec1a0375e.png"
+  },
+  {
+    "Id": "23ecb4c0-f799-4794-aa9d-c501f0290a61",
+    "Name": "The Empire of Man - City-State of Nuln",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/aec5465a-6617-49ef-9a81-adf610a5cec2.png"
+  },
+  {
+    "Id": "900bb9b9-e8cd-4231-bc32-746a8c36f402",
+    "Name": "The Empire of Man - Knightly Order",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/25a2af79-c4ae-46de-b6ce-f7ba574307d9.png"
+  },
+  {
+    "Id": "c134cbcf-718d-4178-bbfa-c4ed2c6fbd10",
+    "Name": "Tomb Kings of Khemri",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/53637584-3fbb-4059-b017-c8f795c40851.png"
+  },
+  {
+    "Id": "858250ef-c3e9-48c7-97b0-336ad20ae058",
+    "Name": "Tomb Kings of Khemri - Mortuary Cult",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/3ad8d3e8-4c38-404e-80d3-b057b23bc78d.png"
+  },
+  {
+    "Id": "dcc9af6f-3dd2-4c4c-b714-3cfe7c34728f",
+    "Name": "Tomb Kings of Khemri - Royal Host",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/55ac58aa-cd7f-461b-8931-574ad2d271be.png"
+  },
+  {
+    "Id": "06f3fc66-3f2b-420a-8d56-c1056f626d74",
+    "Name": "Vampire Counts",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/502a1a96-47fd-4143-8ce0-c8eb098652a2.png"
+  },
+  {
+    "Id": "45f6fc57-3e90-4e9e-a0cc-93986d3daec0",
+    "Name": "Warriors of Chaos",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/17255935-c903-4203-88b3-2f798c828397.png"
+  },
+  {
+    "Id": "23c54e37-61ff-40a8-8e48-9824621669a3",
+    "Name": "Warriors of Chaos - Heralds of Darkness",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/c7f24cb1-4dd5-4919-9d80-fce680fc227e.png"
+  },
+  {
+    "Id": "30d35843-2fc2-4921-8a6d-3e4973539eac",
+    "Name": "Warriors of Chaos - Wolves of the Sea",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/a1c6c6e9-6909-4b6f-a01d-c49e001ad138.png"
+  },
+  {
+    "Id": "d0c721d7-44a4-4702-8271-3081d2bdd6a3",
+    "Name": "Wood Elf Realms",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/354e8875-d5d8-4aee-94e0-41d7f55dd320.png"
+  },
+  {
+    "Id": "6de8afef-c59d-4caf-8e4f-a1c2d86a3613",
+    "Name": "Wood Elf Realms - Host of Talsyn",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/ba99ff09-c56a-4878-951b-098933b2088d.png"
+  },
+  {
+    "Id": "37c42317-110a-491f-95a6-cde4de929b4b",
+    "Name": "Wood Elf Realms - Orion's Wild Hunt",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/ec3eb81e-991c-4d82-b0ba-99705c97b182.png"
+  },
+  {
+    "Id": "bcec0a24-6341-4e18-a824-b1a56e78f135",
+    "Name": "General",
+    "Type": "unit",
+    "MatchingRuleName": "609a-2943-a6e1-e002",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/b778466e-95fb-40b7-88b5-baabcf8fc5bd.png"
+  },
+  {
+    "Id": "5c3ae142-ae67-468a-b692-51a0e06b7f10",
+    "Name": "Battle Standard Bearer",
+    "Type": "unit",
+    "MatchingRuleName": "da9a-f205-577f-debb",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/e1a9055b-36ae-4cb5-b0f9-5d1e9cc97370.png"
+  },
+  {
+    "Id": "21f6a3b9-f0ca-441b-bdf5-ef09ccc38624",
+    "Name": "Wizard Level 1",
+    "Type": "unit",
+    "MatchingRuleName": "c3c-9624-c39-e86a",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/aa0fbd99-d5a0-43d9-919b-75670d32e42a.png"
+  },
+  {
+    "Id": "5d935da3-4723-4bb9-b4d4-23e355317ffe",
+    "Name": "Wizard Level 2",
+    "Type": "unit",
+    "MatchingRuleName": "f40c-d76a-fd42-fb9a",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/ace3fe5b-9d83-4273-b23c-b179a21a732c.png"
+  },
+  {
+    "Id": "b6a9ee0e-b67c-480d-8c8c-d5ff47819680",
+    "Name": "Wizard Level 3",
+    "Type": "unit",
+    "MatchingRuleName": "1acd-4208-ba07-175b",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/10c16775-7d16-434a-aa15-af5bff0ec10c.png"
+  },
+  {
+    "Id": "c81a76a6-bd72-40f2-9322-007c5c9a8e1b",
+    "Name": "Wizard Level 4",
+    "Type": "unit",
+    "MatchingRuleName": "5cee-9c31-3cc4-5c9f",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/3d55a03e-ab5d-447a-85d7-b13417cc78da.png"
+  },
+  {
+    "Id": "fa3fa22e-350d-4905-9c2d-0d476a4994f2",
+    "Name": "Grand Cathay - Jade Fleet",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/96414545-c3e3-44f2-9bec-67007f626db1.png"
+  },
+  {
+    "Id": "e6dbd91c-05b8-4542-8c0a-f4fa6543ebf7",
+    "Name": "Grand Cathay - Warriors of Wind & Field",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/c824d34e-7a6f-4fe8-b7a9-e26952ad853f.png"
+  },
+  {
+    "Id": "92d0bdfe-6687-4552-ad81-b6eb01ac5d68",
+    "Name": "Realms of Man - Renegade Crowns",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/WDS2.0/main/TOW/icons/ec401190-cdef-4467-a111-9a588b9aeab6.png"
+  }
+]
