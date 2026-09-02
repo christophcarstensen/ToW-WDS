@@ -16,7 +16,6 @@
     { "Rule": "Skirmishers", "FormationType": "Cloud" }
   ],
   "UseTurnController": true,
-  "PivotDistanceMeasurement": "Arc",
   "ResultCalculatorAlgorithm": 2,
   "GameStateViewSections": [ 0, 1, 2 ],
   "CounterLabel": "Banners Lost",
