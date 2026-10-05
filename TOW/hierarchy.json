@@ -1558,6 +1558,16 @@
         "68357cff6d966c2c14bfae5e"
       ]
     },
+    "Warriors of Chaos - Hordes of Chaos": {
+      "Named Characters": [],
+      "Characters": [
+        "units_1791130143896"
+      ],
+      "Core": [],
+      "Special": [],
+      "Rare": [],
+      "Mercenaries": []
+    },
     "Warriors of Chaos - Wolves of the Sea": {
       "Named Characters": [
         "68357cc36d966c2c14b6673b",
@@ -1729,16 +1739,6 @@
         "68357cff6d966c2c14bfaa80",
         "68357cff6d966c2c14bfae5e"
       ]
-    },
-    "Warriors of Chaos - Hordes of Chaos": {
-      "Named Characters": [],
-      "Characters": [
-        "units_1791130143896"
-      ],
-      "Core": [],
-      "Special": [],
-      "Rare": [],
-      "Mercenaries": []
     }
   },
   "Cards": {
