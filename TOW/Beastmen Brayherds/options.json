@@ -13,5 +13,27 @@
     "Id": "d1de6fba-474c-4bbc-8e8d-06d989b4d3d8",
     "Name": "Throwing Axes",
     "Type": 1
+  },
+  {
+    "Id": "options_1791476981089",
+    "Name": "Light Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "dbb2-4d85-84c2-528c",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "options_1791477037809",
+    "Name": "Heavy Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c56e-8d1b-bb4-de99",
+        "Info": ""
+      }
+    ]
   }
 ]
