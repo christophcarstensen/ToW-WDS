@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "68357ca36d966c2c14b1cfbc",
     "Name": "Frydaal the Chainmaker",
@@ -920,5 +920,16 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
+  },
+  {
+    "Id": "units_1791476100952",
+    "Name": "Champion of Ruin",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [],
+    "Attributes": {
+      "type": "Heavy Infantry"
+    }
   }
 ]
