@@ -2429,5 +2429,37 @@
         "Id": "691e-10ec-4f7c-a2c4"
       }
     ]
+  },
+  {
+    "Id": "profiles_1791476338806",
+    "Name": "Champion of Ruin",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1791476351259",
+        "Info": ""
+      },
+      {
+        "Id": "5318-b7f2-609d-d783",
+        "Info": "5+"
+      },
+      {
+        "Id": "fe92-e9d9-91b4-e794",
+        "Info": ""
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b",
+        "Info": ""
+      },
+      {
+        "Id": "595-bbd0-34c7-e601",
+        "Info": ""
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08",
+        "Info": ""
+      }
+    ]
   }
 ]
