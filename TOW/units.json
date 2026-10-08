@@ -273,5 +273,18 @@
     ],
     "DefaultFront": 1,
     "Formation": 0
+  },
+  {
+    "Id": "units_1791476869617",
+    "Name": "Chieftain of Ruin",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1791476736448"
+    ],
+    "Attributes": {
+      "type": "Heavy Infantry"
+    }
   }
 ]
