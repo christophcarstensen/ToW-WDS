@@ -105,5 +105,31 @@
         "Info": "(6+)"
       }
     ]
+  },
+  {
+    "Id": "statlines_1791476351259",
+    "Name": "Champion of Ruin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "6",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "5",
+      "A": "3",
+      "LD": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267",
+        "Info": ""
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99",
+        "Info": ""
+      }
+    ]
   }
 ]
