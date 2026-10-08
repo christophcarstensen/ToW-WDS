@@ -18,5 +18,16 @@
         "Id": "7505-7edf-c3de-57a6"
       }
     ]
+  },
+  {
+    "Id": "options_1791476262586",
+    "Name": "Full Plate Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "9a1d-38b0-7d7-7552",
+        "Info": ""
+      }
+    ]
   }
 ]
