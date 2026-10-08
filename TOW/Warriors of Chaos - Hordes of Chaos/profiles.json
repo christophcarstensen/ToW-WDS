@@ -38,5 +38,125 @@
         "Info": ""
       }
     ]
+  },
+  {
+    "Id": "profiles_1791480165165",
+    "Name": "Chaos Cultist",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1791480084139",
+        "Info": ""
+      },
+      {
+        "Id": "8c0b-6fe6-dc06-512",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480220747",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480242511",
+        "Info": ""
+      },
+      {
+        "Id": "595-bbd0-34c7-e601",
+        "Info": ""
+      },
+      {
+        "Id": "5b67-8535-146c-7cea",
+        "Info": ""
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480242511",
+        "Info": ""
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0",
+        "Info": ""
+      },
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      },
+      {
+        "Id": "07e2455e-9de5-49e7-bb08-ca0586030c42",
+        "Info": ""
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442",
+        "Info": ""
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5",
+        "Info": ""
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "muztjjqju8yj2",
+    "Name": "Apostle (Chaos Cultist)",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "8c0b-6fe6-dc06-512",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480220747",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480242511",
+        "Info": ""
+      },
+      {
+        "Id": "595-bbd0-34c7-e601",
+        "Info": ""
+      },
+      {
+        "Id": "5b67-8535-146c-7cea",
+        "Info": ""
+      },
+      {
+        "Id": "59a5-7eca-ee35-96ac",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1791480242511",
+        "Info": ""
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0",
+        "Info": ""
+      },
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      },
+      {
+        "Id": "07e2455e-9de5-49e7-bb08-ca0586030c42",
+        "Info": ""
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442",
+        "Info": ""
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5",
+        "Info": ""
+      },
+      {
+        "Id": "statlines_1791480944041",
+        "Info": ""
+      }
+    ],
+    "BaseId": "4"
   }
 ]
