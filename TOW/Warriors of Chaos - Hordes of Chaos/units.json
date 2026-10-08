@@ -11,5 +11,18 @@
     "Attributes": {
       "Unit Type": "Regular Infantry"
     }
+  },
+  {
+    "Id": "units_1791480631666",
+    "Name": "Chaos Cultists",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1791480165165"
+    ],
+    "Attributes": {
+      "type": "Regular Infantry"
+    }
   }
 ]
