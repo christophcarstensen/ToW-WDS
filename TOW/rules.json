@@ -12801,5 +12801,143 @@
     "Name": "Thralls of Chaos",
     "Type": "Rule",
     "Description": "A Cult Magister cannot be your General and can only join a unit with the Dark Pawns special rule."
+  },
+  {
+    "Id": "rules_1791479120344",
+    "Name": "An Unholy Union",
+    "Type": "Rule",
+    "Description": "Whilst within 6\" of a friendly Beastmen Brayherds unit, Warriors of Chaos units (but not characters) may re-roll any rolls To Hit of a natural 1. Whilst within 6\" of a Warriors of Chaos unit, Beastmen Brayherds units (but not characters) may re-roll any rolls To Wound of a natural 1.\n\nIn addition, whilst a unit from one army list (Warriors of Chaos or Beastmen Brayherds) is within 6\" of a friendly unit drawn from the other army list, it may apply a -1 modifier to the result of any Flee roll.\n\nNote that characters and any units present in both army lists (Chaos Spawn, Chaos Warhounds, Dragon Ogres, Dragon Ogre Shaggoths and Chaos Giants) are unaffected by this special rule."
+  },
+  {
+    "Id": "rules_1791479154163",
+    "Name": "\"For the Dark Gods!\"",
+    "Type": "Rule",
+    "Description": "If a character within a Hordes of Chaos army kills their opponent in a challenge, they must immediately roll on the Gaze of the Gods table. In addition, once per game, your General may re-roll the D6 when rolling on the Gaze of the Gods table."
+  },
+  {
+    "Id": "rules_1791479183642",
+    "Name": "Untrusting Allies",
+    "Type": "Rule",
+    "Description": "Warriors of Chaos characters cannot join a Beastmen Brayherds unit, nor can Beastmen Brayherds characters join a Warriors of Chaos unit, and neither can join a unit of Chaos Cultists. In addition, Warriors of Chaos units cannot use the Leadership characteristic of Beastmen Brayherds characters, nor can Beastmen Brayherds units use the Leadership characteristic of Warriors of Chaos characters."
+  },
+  {
+    "Id": "rules_1791479202057",
+    "Name": "The Shadow Grows",
+    "Type": "Rule",
+    "Description": "For each character your army includes that has a Mark of Chaos other than the Mark of Chaos Undivided, it must also include a non-character unit with the same Mark of Chaos, and vice versa. For example, if your army includes two characters with the Mark of Khorne, it must also include two non-character units with the Mark of Khorne."
+  },
+  {
+    "Id": "rules_1791479244977",
+    "Name": "Sword of Reaving",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Extra Attacks (+D3), Magical Attacks\nNote: Notes: If, after making their attacks, the wielder of this weapon has failed to cause any wounds, they suffer D3 Strength 4 hits with an AP of -1."
+  },
+  {
+    "Id": "rules_1791479337246",
+    "Name": "Flail of Wrecks",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+2\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNotes: The Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn. Should the wielder make any rolls To Wound of a natural 1 during the Combat phase, their Initiative is reduced by 1 (to a minimum of 1) for the remainder of the game."
+  },
+  {
+    "Id": "rules_1791479381856",
+    "Name": "Grim Verdict",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+3\nAP: -1\nSpecial Rules: Armour Bane (2), Furious Charge, Impetuous, Magical Attacks, Requires Two Hands, Strike Last\nNote: Should the wielder lose a round of combat, they suffer a single wound with no armour save permitted (Ward and Regeneration saves can be attempted as normal)."
+  },
+  {
+    "Id": "rules_1791479443322",
+    "Name": "Hunter's Scorn",
+    "Type": "Rule",
+    "Description": "R: 30\"\nS: 5\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Shots (2)\nNotes: Should an enemy model with a Wounds characteristic of 2 or more suffer one or more unsaved wounds from this weapon, they and their unit suffer a - 1 modifier to their Initiative characteristic (to a minimum of 1) for the remainder of the game. However, if the wielder of Hunter's Scorn fails to wound their target, this effect is lost."
+  },
+  {
+    "Id": "rules_1791479491037",
+    "Name": "Armour of Dark Faith",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry or cavalry only. The Armour of Dark Faith is a suit of light armour. In addition, the wearer may re-roll any failed armour saves. However, if the wearer of the Armour of Dark Faith loses a Wound, this effect is lost and it counts as light armour for the rest of the game."
+  },
+  {
+    "Id": "rules_1791479546005",
+    "Name": "Scale of False Promise",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry or cavalry only. The Scale of False Promise is a suit of heavy armour. The wearer improves their Toughness and Wounds characteristics by 1, but becomes subject to the Stupidity special rule. If the wearer already suffers from Stupidity, they must apply a +1 modifier to the dice roll every time they make a Stupidity test."
+  },
+  {
+    "Id": "rules_1791479583446",
+    "Name": "Mantle of Drifting Shadow",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry only. The Mantle of Drifting Shadow is a suit of light armour. The wearer cannot be targeted by any shooting or spells from more than 6\" away. In addition, they improve their Movement characteristic by 1, but gain the Loner special rule."
+  },
+  {
+    "Id": "rules_1791479618917",
+    "Name": "Amulet of Spell Attraction",
+    "Type": "Rule",
+    "Description": "Once per turn, when a friendly unit within the bearer's Command range is targeted by a Magic Missile or Hex, the bearer may make a Leadership test. If the test is passed, the bearer may choose to redirect the spell onto themselves rather than the original target, even if they are out of range or would not normally be an eligible target. The spell is then resolved with the bearer of the Amulet as its target."
+  },
+  {
+    "Id": "rules_1791479669642",
+    "Name": "Periapt of Soul Exchange",
+    "Type": "Rule",
+    "Description": "Single use. During the Command sub-phase of their turn, the bearer of the Periapt of Soul Exchange may channel its power. If they do, D3 friendly models within the bearer's Command range are removed from play as casualties and the bearer recovers that many lost Wounds."
+  },
+  {
+    "Id": "rules_1791479686414",
+    "Name": "The Banner of the Dark Heart",
+    "Type": "Rule",
+    "Description": "When required to make a Fear, Panic or Terror test, a unit carrying this standard may roll an extra D6 and discard the highest result. However, a unit carrying this banner cannot benefit from the General's Inspiring Presence special rule."
+  },
+  {
+    "Id": "rules_1791479709688",
+    "Name": "Standard of the Fell Warrior",
+    "Type": "Rule",
+    "Description": "Single use. During the Remaining Moves sub-phase, a unit carrying this standard may perform a free redress the ranks manoeuvre immediately before moving. Once this manoeuvre is complete, the unit moves as normal but cannot turn or perform a quick turn."
+  },
+  {
+    "Id": "rules_1791479718551",
+    "Name": "Ring of Doom",
+    "Type": "Rule",
+    "Description": "The bearer of the Ring of Doom can cast the Doombolt spell from the Lore of Dark Magic as a Bound spell, with a Power Level of 2. However, each time the spell is successfully cast, your opponent rolls a D6. On a roll of 4+, the bearer reduces their Toughness characteristic by 1 (to a minimum of 1)."
+  },
+  {
+    "Id": "rules_1791479741736",
+    "Name": "Daemon-Blooded Steed",
+    "Type": "Rule",
+    "Description": "Models whose troop type is cavalry only. The bearer's mount improves its Movement, Strength and Attacks characteristics by 1 (to a maximum of 10), but gains the Impetuous special rule."
+  },
+  {
+    "Id": "rules_1791479758396",
+    "Name": "Elixir of Power",
+    "Type": "Rule",
+    "Description": "Single use. During the Command sub-phase of their turn, the bearer of an Elixir of Power can consume it. Until their next Start of Turn sub-phase, the model has a +1 modifier to their Strength, Attacks and Initiative characteristics (to a maximum of 10). Once this effect ends, the bearer loses a single Wound. This Wound cannot be recovered by a Regeneration save."
+  },
+  {
+    "Id": "rules_1791479791546",
+    "Name": "Rod of Might",
+    "Type": "Rule",
+    "Description": "The bearer of the Rod of Might may apply a +1 modifier to any of their casting results. However, the bearer will suffer a miscast if a natural double 1 or 2 is rolled when making a Casting roll, rather than the usual natural double 1."
+  },
+  {
+    "Id": "rules_1791479813897",
+    "Name": "Scroll of Invocation",
+    "Type": "Rule",
+    "Description": "0-1 per Wizard. Single use. The bearer may use this scroll instead of making a Casting roll. If they do, the spell is cast as if the caster had rolled the minimum casting value of the spell. Dispel rolls may be attempted as normal."
+  },
+  {
+    "Id": "rules_1791479832103",
+    "Name": "Infernal Familiar",
+    "Type": "Rule",
+    "Description": "The owner of an Infernal Familiar may select either Doombolt or Winds of Chaos addition to the other spells they know. However, should the Wizard ever suffer a miscast whilst casting the selected spell, they cannot cast it again for the remainder of the game in addition to any other effects from the Miscast table."
+  },
+  {
+    "Id": "rules_1791480220747",
+    "Name": "Dark Pawns",
+    "Type": "Rule",
+    "Description": "Friendly units do not have to make a Panic test when this unit is destroyed or Breaks and flees from combat whilst within 6' of it. Nor do friendly units have to make a Panic test when fled through by this unit."
+  },
+  {
+    "Id": "rules_1791480242511",
+    "Name": "Unseen Threat",
+    "Type": "Rule",
+    "Description": "If this unit is held in reserve, you may apply a +1 or -1 modifier to the result when rolling to determine if it arrives this turn as reinforcements or is delayed. In addition, a unit with this special rule must be placed more than 4\" away from an enemy unit when arriving from reserve, rather than the usual 8\"."
   }
 ]
