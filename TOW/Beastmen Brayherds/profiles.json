@@ -2131,5 +2131,49 @@
         "Id": "d3eb-1fa0-bb19-f390"
       }
     ]
+  },
+  {
+    "Id": "profiles_1791476736448",
+    "Name": "Chieftain of Ruin",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1791476688696",
+        "Info": ""
+      },
+      {
+        "Id": "8117-de6e-d7df-3eca",
+        "Info": ""
+      },
+      {
+        "Id": "5706-b80f-ecc9-85ee",
+        "Info": "(General only)"
+      },
+      {
+        "Id": "31c4-f186-18ba-cd04",
+        "Info": ""
+      },
+      {
+        "Id": "e85-bc3d-e4db-88b",
+        "Info": ""
+      },
+      {
+        "Id": "595-bbd0-34c7-e601",
+        "Info": ""
+      },
+      {
+        "Id": "e83e-f127-1904-3858",
+        "Info": "(not mount)"
+      },
+      {
+        "Id": "24a7-8ec2-fca1-21e2",
+        "Info": ""
+      },
+      {
+        "Id": "505f-e12d-2e36-31d0",
+        "Info": ""
+      }
+    ]
   }
 ]
