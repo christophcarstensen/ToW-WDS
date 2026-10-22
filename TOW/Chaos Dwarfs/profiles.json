@@ -1966,5 +1966,205 @@
         "Id": "133a-a421-c52f-e33f"
       }
     ]
+  },
+  {
+    "Id": "mvk3r3xu719nq",
+    "Name": "Infernal Seneschal on Great Taurus",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_71"
+      },
+      {
+        "Id": "cbdf-d42c-ab0f-d3c6"
+      },
+      {
+        "Id": "e50-cfab-b320-3b1d"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "144b-f554-392a-fd79"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "statline_67",
+        "Info": ""
+      },
+      {
+        "Id": "b8-6065-a1f7-2cf2",
+        "Info": ""
+      },
+      {
+        "Id": "7d45-cf86-c84a-d2e9",
+        "Info": ""
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912",
+        "Info": ""
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af",
+        "Info": ""
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217",
+        "Info": ""
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mvk3vtuz2c2hi",
+    "Name": "Infernal Castellan on Great Taurus",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_70",
+        "Info": ""
+      },
+      {
+        "Id": "statline_67",
+        "Info": ""
+      },
+      {
+        "Id": "cbdf-d42c-ab0f-d3c6"
+      },
+      {
+        "Id": "e50-cfab-b320-3b1d"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "144b-f554-392a-fd79"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "b8-6065-a1f7-2cf2",
+        "Info": ""
+      },
+      {
+        "Id": "7d45-cf86-c84a-d2e9",
+        "Info": ""
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912",
+        "Info": ""
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af",
+        "Info": ""
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217",
+        "Info": ""
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mvk40zfsw0u6s",
+    "Name": "Infernal Castellan on Bale Taurus",
+    "Type": "Profile",
+    "BaseId": "10",
+    "Children": [
+      {
+        "Id": "statline_70",
+        "Info": ""
+      },
+      {
+        "Id": "statline_73",
+        "Info": ""
+      },
+      {
+        "Id": "cbdf-d42c-ab0f-d3c6"
+      },
+      {
+        "Id": "e50-cfab-b320-3b1d"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08"
+      },
+      {
+        "Id": "144b-f554-392a-fd79"
+      },
+      {
+        "Id": "e351-bbd6-f470-b604"
+      },
+      {
+        "Id": "b8-6065-a1f7-2cf2",
+        "Info": ""
+      },
+      {
+        "Id": "7d45-cf86-c84a-d2e9",
+        "Info": ""
+      },
+      {
+        "Id": "883e-e1b1-4fe9-5912",
+        "Info": ""
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9)"
+      },
+      {
+        "Id": "eaca-69a2-8b6a-81c6",
+        "Info": ""
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af",
+        "Info": ""
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D3+1)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217",
+        "Info": ""
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0",
+        "Info": ""
+      }
+    ]
   }
 ]
