@@ -774,7 +774,7 @@
   },
   {
     "Id": "units_1792779349522",
-    "Name": "Gargantuan Treeman Ancient",
+    "Name": "Gargantuan Treemen Ancients",
     "Type": "Unit",
     "DefaultFront": 1,
     "Formation": 0,
@@ -787,7 +787,7 @@
   },
   {
     "Id": "mvlbjptfy5ygj",
-    "Name": "Gargantuan Treeman",
+    "Name": "Gargantuan Treemen",
     "Type": "Unit",
     "DefaultFront": 1,
     "Formation": 0,
