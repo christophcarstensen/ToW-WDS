@@ -19,5 +19,65 @@
         "Id": "6d4a-7733-d725-a267"
       }
     ]
+  },
+  {
+    "Id": "statlines_1792779412812",
+    "Name": "Gargantuan Treeman Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "5",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "1",
+      "A": "4",
+      "LD": "10"
+    },
+    "Children": [
+      {
+        "Id": "equipment_1792779503306",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792779575878",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792779757054",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mvlb9w1pamy82",
+    "Name": "Gargantuan Treeman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "1",
+      "A": "6",
+      "LD": "10"
+    },
+    "Children": [
+      {
+        "Id": "equipment_1792779503306",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792779575878",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792779757054",
+        "Info": ""
+      }
+    ]
   }
 ]

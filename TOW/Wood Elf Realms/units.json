@@ -771,5 +771,31 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
+  },
+  {
+    "Id": "units_1792779349522",
+    "Name": "Gargantuan Treeman Ancient",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1792779390416"
+    ],
+    "Attributes": {
+      "type": "Behemoth"
+    }
+  },
+  {
+    "Id": "mvlbjptfy5ygj",
+    "Name": "Gargantuan Treeman",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "mvlbav3q0telz"
+    ],
+    "Attributes": {
+      "type": "Behemoth"
+    }
   }
 ]
