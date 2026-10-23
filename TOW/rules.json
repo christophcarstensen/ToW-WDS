@@ -12939,5 +12939,113 @@
     "Name": "Unseen Threat",
     "Type": "Rule",
     "Description": "If this unit is held in reserve, you may apply a +1 or -1 modifier to the result when rolling to determine if it arrives this turn as reinforcements or is delayed. In addition, a unit with this special rule must be placed more than 4\" away from an enemy unit when arriving from reserve, rather than the usual 8\"."
+  },
+  {
+    "Id": "rules_1792742854494",
+    "Name": "Axe of Abandon",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Extra Attacks (D3)\nNote: If the Extra Attacks roll is 3, the wielder suffers -1 to hit until the end of that Combat phase."
+  },
+  {
+    "Id": "rules_1792742868829",
+    "Name": "Briar-bow",
+    "Type": "Rule",
+    "Description": "R: 30\"\nS: 3\nAP: -1\nSpecial Rules: Magical Attacks\nNote: A successful hit generates an Artillery Dice number of hits. On a Misfire, the wielder suffers one hit, after which the bow is destroyed."
+  },
+  {
+    "Id": "rules_1792742876824",
+    "Name": "Flaming Sword",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Flaming Attacks, Magical Attacks\nNote: Wounds Flammable models on a 4+ regardless of Toughness. The wielder cannot join a unit with Regeneration."
+  },
+  {
+    "Id": "rules_1792742886801",
+    "Name": "Helmcutter",
+    "Type": "Rule",
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Magical Attacks, No Armour Saves (natural 6s to wound)\nNote: Natural rolls of 6 to wound allow no armour saves."
+  },
+  {
+    "Id": "rules_1792742899285",
+    "Name": "Armour of Dust",
+    "Type": "Rule",
+    "Description": "Full plate armour whose armour value cannot be improved or modified. Each natural 1 rolled for an armour save reduces the wearer's Toughness by 1 for the rest of the battle, to a minimum of 1.\n"
+  },
+  {
+    "Id": "rules_1792742920238",
+    "Name": "Armour of Fate",
+    "Type": "Rule",
+    "Description": "Infantry or cavalry only. Heavy armour that permits rerolls of failed armour saves. A natural 1 on a rerolled save causes a Strength 5 hit against the wearer, with no armour save permitted."
+  },
+  {
+    "Id": "rules_1792742926648",
+    "Name": "Bronze Shield",
+    "Type": "Rule",
+    "Description": "A shield. If its bearer loses wounds to an Assailment, Magic Missile or Magical Vortex, the caster suffers D3 Strength 4 hits at AP -2. This retaliation is then spent."
+  },
+  {
+    "Id": "rules_1792742937218",
+    "Name": "Armour of Jet",
+    "Type": "Rule",
+    "Description": "Heavy armour that a Wizard may wear without penalty. The wearer suffers a -1 modifier to Miscast-table rolls when miscasting or being outclassed."
+  },
+  {
+    "Id": "rules_1792742946747",
+    "Name": "Pariah Stone",
+    "Type": "Rule",
+    "Description": "Before targeting the bearer with a spell or Bound spell, a friendly or enemy model must pass a test using its own Leadership. Failure requires a different target."
+  },
+  {
+    "Id": "rules_1792742958592",
+    "Name": "Obsidian Pendant",
+    "Type": "Rule",
+    "Description": "Grants a 4+ ward against wounds caused by Magic Missiles. The pendant is destroyed when this ward save is first failed."
+  },
+  {
+    "Id": "rules_1792742968383",
+    "Name": "Mouldering Banner",
+    "Type": "Rule",
+    "Description": "Shooting attacks targeting the carrying unit suffer an additional -1 to hit. Friendly units within 6 inches of a unit carrying this banner also suffer an additional -1 to hit with their shooting."
+  },
+  {
+    "Id": "rules_1792742977905",
+    "Name": "Banner of the Resolute Dead",
+    "Type": "Rule",
+    "Description": "Once per game, the carrying unit may roll an extra D6 for a Leadership or Break test and discard the highest die. A unit carrying this banner suffers -1 Movement."
+  },
+  {
+    "Id": "rules_1792742985754",
+    "Name": "Robes of Phakth",
+    "Type": "Rule",
+    "Description": "Infantry only. Grants Ethereal, Fly (8) and Loner."
+  },
+  {
+    "Id": "rules_1792742995564",
+    "Name": "Barrow-dirt",
+    "Type": "Rule",
+    "Description": "Maximum one per model; single use. A Strength 3, AP -3 breath weapon with Magical Attacks and Multiple Wounds (2). After use, the bearer must pass an Initiative test or risk being hit as though partially beneath the flame template."
+  },
+  {
+    "Id": "rules_1792743019861",
+    "Name": "Crown of Fury",
+    "Type": "Rule",
+    "Description": "Grants Furious Charge and Impetuous to the wearer, excluding their mount."
+  },
+  {
+    "Id": "rules_1792743030870",
+    "Name": "Tome of Oppression",
+    "Type": "Rule",
+    "Description": "Infantry or cavalry only. Once per turn, when an enemy Wizard casts a spell, the bearer may replace a Wizardly dispel attempt with an opposed roll: each Wizard rolls D6 and adds their Toughness. If the bearer wins, the spell is dispelled and the enemy Wizard suffers a Strength 4, AP -1 hit. If the enemy wins, the spell proceeds and the bearer suffers that hit. A tie dispels the spell without either Wizard taking a hit."
+  },
+  {
+    "Id": "rules_1792743044096",
+    "Name": "Crude Canopics",
+    "Type": "Rule",
+    "Description": "When the bearer attempts a Wizardly dispel, any natural double except double 1 causes an unbinding. On double 1, the bearer is outclassed as usual but rolls twice on the Miscast table and applies both results."
+  },
+  {
+    "Id": "rules_1792743052462",
+    "Name": "Morithein's Magnifier",
+    "Type": "Rule",
+    "Description": "Once per turn, before declaring a spell's target, the bearer may increase its range by 3 inches. Doing so increases its casting value by 1."
   }
 ]
