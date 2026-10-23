@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "equipment_1792785398799",
+    "Name": "Arboreal Armour",
+    "Type": "Equipment",
+    "Description": "Counts as Full Plate Armour"
+  },
+  {
+    "Id": "equipment_1792785431628",
+    "Name": "Huge Oaken Fists",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (2)\n\n\n\n"
+  },
+  {
+    "Id": "equipment_1792785466340",
+    "Name": "Root Eruption",
+    "Type": "Equipment",
+    "Description": "R: 24\"\nS: 3(6)\nAP: -1\nSpecial Rules: Bombardment, Move & Shoot, Multiple Wounds (D3+1)\n\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule and a 3\" blast template (5\" for a Gargantuan Treeman Ancient). If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table). The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template."
+  }
+]
