@@ -117,5 +117,12 @@
     "Shape": 1,
     "Width": 25,
     "Length": 25
+  },
+  {
+    "Id": "bases_1792867074090",
+    "Name": "60x120Square",
+    "Shape": 0,
+    "Width": 60,
+    "Length": 120
   }
 ]
