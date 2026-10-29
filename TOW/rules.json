@@ -13047,5 +13047,71 @@
     "Name": "Morithein's Magnifier",
     "Type": "Rule",
     "Description": "Once per turn, before declaring a spell's target, the bearer may increase its range by 3 inches. Doing so increases its casting value by 1."
+  },
+  {
+    "Id": "rules_1793277589182",
+    "Name": "Ariel's Favour",
+    "Type": "Rule",
+    "Description": "The bearer of Ariel's Favour has the Magic Resistance (-2) special rule."
+  },
+  {
+    "Id": "rules_1793277762850",
+    "Name": "Blessing of the Oak",
+    "Type": "Rule",
+    "Description": "This model gains the Armoured Hide (1) special rule and is immune to the Killing Blow, Monster Slayer, and Multiple Wounds (X) special rules. If this character suffers an unsaved wound from an attack with any of these special rules, they lose a single Wound"
+  },
+  {
+    "Id": "rules_1793277806222",
+    "Name": "Blessing of the Ash",
+    "Type": "Rule",
+    "Description": "This character improves its Regeneration value by 1. In addition, any enemy model that directs its attacks against this character must re-roll any rolls To Hit of a natural 6"
+  },
+  {
+    "Id": "rules_1793277843007",
+    "Name": "Blessing of the Willow",
+    "Type": "Rule",
+    "Description": "This character gains the Magic Resistance (-2) special rule. In addition, this character has a 5+ Ward Save against any Wounds suffered that were caused by an attack that has the Magical Attacks special rule."
+  },
+  {
+    "Id": "rules_1793277875834",
+    "Name": "Blessing of the Yew",
+    "Type": "Rule",
+    "Description": "The first time this character would lose its last Wound, roll a D6. On a roll of 1, remove the character from play as normal. On a roll of 2-5, the character immediately regains one Wound and is not removed from play. On a roll of 6, the character recovers D3 lost Wounds, up to its starting Wounds characteristic."
+  },
+  {
+    "Id": "rules_1793277941231",
+    "Name": "Kinband of Cavaroc",
+    "Type": "Rule",
+    "Description": "A unit belonging to this Kindred gains the Vanguard special rule and improves the Movement characteristic of the unit and their mounts (should they have one) by 1."
+  },
+  {
+    "Id": "rules_1793277956403",
+    "Name": "Kinband of Argwylon",
+    "Type": "Rule",
+    "Description": "A unit belonging to this Kindred gains the Magic Resistance (-1) special rule."
+  },
+  {
+    "Id": "rules_1793277974914",
+    "Name": "Kinband of Atylwyth",
+    "Type": "Rule",
+    "Description": "A unit belonging to this Kindred may re-roll any rolls To Hit of a natural 1. However, if your army includes any units that belong to this Kindred, it cannot include more than one unit with the Tree Spirit special rule per 1,000 points."
+  },
+  {
+    "Id": "rules_1793277994108",
+    "Name": "Kinband of Modryn",
+    "Type": "Rule",
+    "Description": "During the Shooting phase, a unit belonging to this Kindred may re-roll any rolls To Wound of a natural 1."
+  },
+  {
+    "Id": "rules_1793278007986",
+    "Name": "Kinband of Cythral",
+    "Type": "Rule",
+    "Description": "A unit belonging to this Kindred automatically passes any dangerous terrain tests it is required to make. In addition, it has a 5+ Ward save against any wounds suffered that were caused by a unit whose troop type is 'monster'."
+  },
+  {
+    "Id": "rules_1793278018514",
+    "Name": "Kinband of Torgovann",
+    "Type": "Rule",
+    "Description": "Choose one non-magical combat weapon wielded by this unit and improve the Armour Piercing characteristic of that weapon by 1. The chosen weapon must be clearly noted on your muster list."
   }
 ]
