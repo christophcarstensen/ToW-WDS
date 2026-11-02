@@ -12942,7 +12942,7 @@
   },
   {
     "Id": "rules_1792742854494",
-    "Name": "Axe of Abandon",
+    "Name": "The Axe of Abandon",
     "Type": "Rule",
     "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Extra Attacks (D3)\nNote: If the Extra Attacks roll is 3, the wielder suffers -1 to hit until the end of that Combat phase."
   },
