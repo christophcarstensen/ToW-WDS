@@ -12948,13 +12948,13 @@
   },
   {
     "Id": "rules_1792742868829",
-    "Name": "Briar-bow",
+    "Name": "The Briar-bow",
     "Type": "Rule",
     "Description": "R: 30\"\nS: 3\nAP: -1\nSpecial Rules: Magical Attacks\nNote: A successful hit generates an Artillery Dice number of hits. On a Misfire, the wielder suffers one hit, after which the bow is destroyed."
   },
   {
     "Id": "rules_1792742876824",
-    "Name": "Flaming Sword",
+    "Name": "The Flaming Sword",
     "Type": "Rule",
     "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Flaming Attacks, Magical Attacks\nNote: Wounds Flammable models on a 4+ regardless of Toughness. The wielder cannot join a unit with Regeneration."
   },
@@ -12966,49 +12966,49 @@
   },
   {
     "Id": "rules_1792742899285",
-    "Name": "Armour of Dust",
+    "Name": "The Armour of Dust",
     "Type": "Rule",
     "Description": "Full plate armour whose armour value cannot be improved or modified. Each natural 1 rolled for an armour save reduces the wearer's Toughness by 1 for the rest of the battle, to a minimum of 1.\n"
   },
   {
     "Id": "rules_1792742920238",
-    "Name": "Armour of Fate",
+    "Name": "The Armour of Fate",
     "Type": "Rule",
     "Description": "Infantry or cavalry only. Heavy armour that permits rerolls of failed armour saves. A natural 1 on a rerolled save causes a Strength 5 hit against the wearer, with no armour save permitted."
   },
   {
     "Id": "rules_1792742926648",
-    "Name": "Bronze Shield",
+    "Name": "The Bronze Shield",
     "Type": "Rule",
     "Description": "A shield. If its bearer loses wounds to an Assailment, Magic Missile or Magical Vortex, the caster suffers D3 Strength 4 hits at AP -2. This retaliation is then spent."
   },
   {
     "Id": "rules_1792742937218",
-    "Name": "Armour of Jet",
+    "Name": "The Armour of Jet",
     "Type": "Rule",
     "Description": "Heavy armour that a Wizard may wear without penalty. The wearer suffers a -1 modifier to Miscast-table rolls when miscasting or being outclassed."
   },
   {
     "Id": "rules_1792742946747",
-    "Name": "Pariah Stone",
+    "Name": "The Pariah Stone",
     "Type": "Rule",
     "Description": "Before targeting the bearer with a spell or Bound spell, a friendly or enemy model must pass a test using its own Leadership. Failure requires a different target."
   },
   {
     "Id": "rules_1792742958592",
-    "Name": "Obsidian Pendant",
+    "Name": "The Obsidian Pendant",
     "Type": "Rule",
     "Description": "Grants a 4+ ward against wounds caused by Magic Missiles. The pendant is destroyed when this ward save is first failed."
   },
   {
     "Id": "rules_1792742968383",
-    "Name": "Mouldering Banner",
+    "Name": "The Mouldering Banner",
     "Type": "Rule",
     "Description": "Shooting attacks targeting the carrying unit suffer an additional -1 to hit. Friendly units within 6 inches of a unit carrying this banner also suffer an additional -1 to hit with their shooting."
   },
   {
     "Id": "rules_1792742977905",
-    "Name": "Banner of the Resolute Dead",
+    "Name": "The Banner of the Resolute Dead",
     "Type": "Rule",
     "Description": "Once per game, the carrying unit may roll an extra D6 for a Leadership or Break test and discard the highest die. A unit carrying this banner suffers -1 Movement."
   },
@@ -13026,13 +13026,13 @@
   },
   {
     "Id": "rules_1792743019861",
-    "Name": "Crown of Fury",
+    "Name": "The Crown of Fury",
     "Type": "Rule",
     "Description": "Grants Furious Charge and Impetuous to the wearer, excluding their mount."
   },
   {
     "Id": "rules_1792743030870",
-    "Name": "Tome of Oppression",
+    "Name": "The Tome of Oppression",
     "Type": "Rule",
     "Description": "Infantry or cavalry only. Once per turn, when an enemy Wizard casts a spell, the bearer may replace a Wizardly dispel attempt with an opposed roll: each Wizard rolls D6 and adds their Toughness. If the bearer wins, the spell is dispelled and the enemy Wizard suffers a Strength 4, AP -1 hit. If the enemy wins, the spell proceeds and the bearer suffers that hit. A tie dispels the spell without either Wizard taking a hit."
   },
@@ -13080,37 +13080,37 @@
   },
   {
     "Id": "rules_1793277941231",
-    "Name": "Kinband of Cavaroc",
+    "Name": "The Kinband of Cavaroc",
     "Type": "Rule",
     "Description": "A unit belonging to this Kindred gains the Vanguard special rule and improves the Movement characteristic of the unit and their mounts (should they have one) by 1."
   },
   {
     "Id": "rules_1793277956403",
-    "Name": "Kinband of Argwylon",
+    "Name": "The Kinband of Argwylon",
     "Type": "Rule",
     "Description": "A unit belonging to this Kindred gains the Magic Resistance (-1) special rule."
   },
   {
     "Id": "rules_1793277974914",
-    "Name": "Kinband of Atylwyth",
+    "Name": "The Kinband of Atylwyth",
     "Type": "Rule",
     "Description": "A unit belonging to this Kindred may re-roll any rolls To Hit of a natural 1. However, if your army includes any units that belong to this Kindred, it cannot include more than one unit with the Tree Spirit special rule per 1,000 points."
   },
   {
     "Id": "rules_1793277994108",
-    "Name": "Kinband of Modryn",
+    "Name": "The Kinband of Modryn",
     "Type": "Rule",
     "Description": "During the Shooting phase, a unit belonging to this Kindred may re-roll any rolls To Wound of a natural 1."
   },
   {
     "Id": "rules_1793278007986",
-    "Name": "Kinband of Cythral",
+    "Name": "The Kinband of Cythral",
     "Type": "Rule",
     "Description": "A unit belonging to this Kindred automatically passes any dangerous terrain tests it is required to make. In addition, it has a 5+ Ward save against any wounds suffered that were caused by a unit whose troop type is 'monster'."
   },
   {
     "Id": "rules_1793278018514",
-    "Name": "Kinband of Torgovann",
+    "Name": "The Kinband of Torgovann",
     "Type": "Rule",
     "Description": "Choose one non-magical combat weapon wielded by this unit and improve the Armour Piercing characteristic of that weapon by 1. The chosen weapon must be clearly noted on your muster list."
   }
