@@ -1,45 +1,5 @@
 [
   {
-    "Id": "68357cd46d966c2c14b89690",
-    "Name": "Branchwraiths",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cd46d966c2c14b89694"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0,
-    "ExtraItems": [
-      {
-        "Id": "flock of doom/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "forest walker/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "tree singing/lore of athel loren",
-        "Type": "Card"
-      }
-    ]
-  },
-  {
-    "Id": "68357cd46d966c2c14b89948",
-    "Name": "Glade Captain",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cd46d966c2c14b8994b"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0
-  },
-  {
     "Id": "68357cd46d966c2c14b89948_elven_steed",
     "Name": "Glade Captain on Elven Steed",
     "Type": "Unit",
@@ -181,33 +141,6 @@
     "Formation": 0
   },
   {
-    "Id": "68357cd76d966c2c14b911bd",
-    "Name": "Spellsinger",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cd76d966c2c14b911c0"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0,
-    "ExtraItems": [
-      {
-        "Id": "flock of doom/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "forest walker/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "tree singing/lore of athel loren",
-        "Type": "Card"
-      }
-    ]
-  },
-  {
     "Id": "68357cd76d966c2c14b911bd_elven_steed",
     "Name": "Spellsinger on Elven Steed",
     "Type": "Unit",
@@ -297,33 +230,6 @@
     },
     "BasicProfileIds": [
       "b41b48a6-74d6-46be-b76c-25994d95dc93"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0,
-    "ExtraItems": [
-      {
-        "Id": "flock of doom/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "forest walker/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "tree singing/lore of athel loren",
-        "Type": "Card"
-      }
-    ]
-  },
-  {
-    "Id": "68357cd86d966c2c14b94608",
-    "Name": "Spellweaver",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cd86d966c2c14b94610"
     ],
     "DefaultFront": 1,
     "Formation": 0,
@@ -451,31 +357,6 @@
     ]
   },
   {
-    "Id": "68357cd96d966c2c14b97a6c",
-    "Name": "Treemen Ancients",
-    "Type": "Unit",
-    "Attributes": {},
-    "BasicProfileIds": [
-      "68357cd96d966c2c14b97a74"
-    ],
-    "DefaultFront": 1,
-    "Formation": 0,
-    "ExtraItems": [
-      {
-        "Id": "flock of doom/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "forest walker/lore of athel loren",
-        "Type": "Card"
-      },
-      {
-        "Id": "tree singing/lore of athel loren",
-        "Type": "Card"
-      }
-    ]
-  },
-  {
     "Id": "68357cd96d966c2c14b97d27",
     "Name": "Waystalkers",
     "Type": "Unit",
@@ -498,118 +379,6 @@
     "BasicProfileIds": [
       "68357cd96d966c2c14b9860b",
       "68357cd96d966c2c14b98ec9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cda6d966c2c14b9a8df",
-    "Name": "Dryads",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cda6d966c2c14b9a8e2",
-      "68357cda6d966c2c14b9ab7a"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cda6d966c2c14b9ae01",
-    "Name": "Eternal Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cda6d966c2c14b9ae04",
-      "68357cda6d966c2c14b9b862"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdb6d966c2c14b9d759",
-    "Name": "Glade Guard",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cdb6d966c2c14b9d75d",
-      "68357cdb6d966c2c14b9e030"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdb6d966c2c14b9fa89",
-    "Name": "Glade Riders",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357cdb6d966c2c14b9fa8c",
-      "68357cdb6d966c2c14ba0392"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdc6d966c2c14ba1e55",
-    "Name": "Deepwood Scouts",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cdc6d966c2c14ba1e58",
-      "68357cd96d966c2c14b98ec9"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdc6d966c2c14ba411d",
-    "Name": "Sisters Of The Thorn",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Light Cavalry"
-    },
-    "BasicProfileIds": [
-      "68357cdc6d966c2c14ba4120",
-      "68357cdd6d966c2c14ba4b74"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdd6d966c2c14ba6a45",
-    "Name": "Tree Kin",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Monstrous Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cdd6d966c2c14ba6a4d",
-      "68357cdd6d966c2c14ba6cea"
-    ],
-    "DefaultFront": 3,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdd6d966c2c14ba6f71",
-    "Name": "Wardancers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cdd6d966c2c14ba6f77",
-      "68357cde6d966c2c14ba81b0"
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -638,20 +407,6 @@
     "BasicProfileIds": [
       "68357cdf6d966c2c14bab27d",
       "68357cdf6d966c2c14babcdc"
-    ],
-    "DefaultFront": 5,
-    "Formation": 0
-  },
-  {
-    "Id": "68357cdf6d966c2c14badbca",
-    "Name": "Wildwood Rangers",
-    "Type": "Unit",
-    "Attributes": {
-      "type": "Regular Infantry"
-    },
-    "BasicProfileIds": [
-      "68357cdf6d966c2c14badbcd",
-      "68357ce06d966c2c14bae61d"
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -771,31 +526,5 @@
     ],
     "DefaultFront": 5,
     "Formation": 0
-  },
-  {
-    "Id": "units_1792779349522",
-    "Name": "Gargantuan Treemen Ancients",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "profiles_1792779390416"
-    ],
-    "Attributes": {
-      "type": "Behemoth"
-    }
-  },
-  {
-    "Id": "mvlbjptfy5ygj",
-    "Name": "Gargantuan Treemen",
-    "Type": "Unit",
-    "DefaultFront": 1,
-    "Formation": 0,
-    "BasicProfileIds": [
-      "mvlbav3q0telz"
-    ],
-    "Attributes": {
-      "type": "Behemoth"
-    }
   }
 ]
