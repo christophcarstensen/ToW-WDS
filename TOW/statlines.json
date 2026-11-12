@@ -11594,5 +11594,10686 @@
         "Id": "dbb2-4d85-84c2-528c"
       }
     ]
+  },
+  {
+    "Id": "statlines_1791476688696",
+    "Name": "Chieftain of Ruin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "LD": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statline_51",
+    "Name": "Foe-render",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_52",
+    "Name": "Primal Warhound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_53",
+    "Name": "Warped Gor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "D3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_54",
+    "Name": "Splice-horn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "D3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_64",
+    "Name": "Taur’ruk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "2",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "4",
+      "A": "4",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_65",
+    "Name": "Daemonsmith Sorcerer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_66",
+    "Name": "Lammasu",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "(+3)",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_67",
+    "Name": "Great Taurus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "(+4)",
+      "I": "3",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "5a6-4b8e-d397-8d42"
+      },
+      {
+        "Id": "9dd9-6632-bc76-803d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_68",
+    "Name": "Hobgoblin Khan",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_70",
+    "Name": "Infernal Castellan",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "6",
+      "BS": "4",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_71",
+    "Name": "Infernal Seneschal",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "5",
+      "W": "2",
+      "I": "2",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_72",
+    "Name": "Sorcerer-Prophet",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_73",
+    "Name": "Bale Taurus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "-",
+      "S": "6",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "3",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "5a6-4b8e-d397-8d42"
+      },
+      {
+        "Id": "9dd9-6632-bc76-803d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_76",
+    "Name": "Cutthroat",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_77",
+    "Name": "Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_78",
+    "Name": "Infernal Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_79",
+    "Name": "Deathmask",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_80",
+    "Name": "Bull Centaur Render",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "2",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_81",
+    "Name": "Bull Centaur Ba’hal",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "2",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_82",
+    "Name": "Deathshrieker Rocket Launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "f868-7407-c3aa-2c4a"
+      },
+      {
+        "Id": "56c7-5da0-4e50-dd92"
+      }
+    ]
+  },
+  {
+    "Id": "statline_83",
+    "Name": "Chaos Dwarf Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_84",
+    "Name": "Bolt Thrower",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "4",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "36e4-28b4-31ff-39dc"
+      }
+    ]
+  },
+  {
+    "Id": "statline_85",
+    "Name": "Hobgoblin Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_86",
+    "Name": "Infernal Ironsworn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_87",
+    "Name": "Overseer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_88",
+    "Name": "Iron Daemon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "-",
+      "BS": "-",
+      "S": "8",
+      "T": "7",
+      "W": "7",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "f24c-8b56-5aa4-307"
+      }
+    ]
+  },
+  {
+    "Id": "statline_89",
+    "Name": "Chaos Dwarf Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_90",
+    "Name": "K’daai Fireborn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "2",
+      "S": "5",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_91",
+    "Name": "Manburner",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "2",
+      "S": "5",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_92",
+    "Name": "Magma Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "2694-34f1-f146-6351"
+      }
+    ]
+  },
+  {
+    "Id": "statline_93",
+    "Name": "Sneaky Git",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_94",
+    "Name": "Murder Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_95",
+    "Name": "Dreadquake Mortar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "7",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "4797-bd4f-f0c9-e6e0"
+      }
+    ]
+  },
+  {
+    "Id": "statline_98",
+    "Name": "Hobgoblin Wolf Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_99",
+    "Name": "Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_101",
+    "Name": "Bloodthirster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "10",
+      "BS": "5",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "7",
+      "A": "6",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "98b5-10aa-d591-14fa"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_102",
+    "Name": "Daemon Prince",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "7",
+      "BS": "5",
+      "S": "6",
+      "T": "5",
+      "W": "4",
+      "I": "7",
+      "A": "5",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "525f-ed7f-9ed6-b396"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_103",
+    "Name": "Great Unclean One",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "3",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "4",
+      "A": "5",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_104",
+    "Name": "Herald of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "7",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_105",
+    "Name": "Juggernaut of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+1)",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "a2d4-a8c-aaf6-c326"
+      }
+    ]
+  },
+  {
+    "Id": "statline_106",
+    "Name": "Blood Throne Of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+4)",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_107",
+    "Name": "Bloodletter Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      }
+    ]
+  },
+  {
+    "Id": "statline_108",
+    "Name": "Herald of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "5",
+      "S": "5",
+      "T": "5",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_109",
+    "Name": "Palanquin of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "(+4)",
+      "I": "3",
+      "A": "D6+1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_110",
+    "Name": "Herald of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_111",
+    "Name": "Steed of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_112",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_113",
+    "Name": "Daemonette Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_114",
+    "Name": "Exalted Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+6)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_115",
+    "Name": "Herald of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_116",
+    "Name": "Disc of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_117",
+    "Name": "Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_118",
+    "Name": "Screamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "ec59-a4dd-928c-f154"
+      }
+    ]
+  },
+  {
+    "Id": "statline_119",
+    "Name": "Burning Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "256b-6a1-239c-178e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_120",
+    "Name": "Exalted Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_121",
+    "Name": "Blue Horror Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_122",
+    "Name": "Keeper of Secrets",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "7",
+      "BS": "6",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "7",
+      "A": "6",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "256b-6a1-239c-178e"
+      },
+      {
+        "Id": "b5de-11a2-d4dc-8530"
+      }
+    ]
+  },
+  {
+    "Id": "statline_123",
+    "Name": "Lord of Change",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "6",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "6",
+      "A": "4",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_124",
+    "Name": "Bloodletter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_125",
+    "Name": "Bloodreaper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_126",
+    "Name": "Blue Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_127",
+    "Name": "Ectoplasmic Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_128",
+    "Name": "Brimstone Horrors",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "2",
+      "BS": "2",
+      "S": "2",
+      "T": "3",
+      "W": "6",
+      "I": "2",
+      "A": "4",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_129",
+    "Name": "Chaos Fury",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "7046-2e99-b93-c148"
+      }
+    ]
+  },
+  {
+    "Id": "statline_130",
+    "Name": "Daemonette",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_131",
+    "Name": "Alluress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_132",
+    "Name": "Flesh Hound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "5",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_133",
+    "Name": "Nurglings",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "0",
+      "S": "2",
+      "T": "3",
+      "W": "7",
+      "I": "2",
+      "A": "D3+1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_134",
+    "Name": "Pink Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_135",
+    "Name": "Iridescent Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "f2f0-ceb6-ef2d-ee82"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_136",
+    "Name": "Plaguebearer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_137",
+    "Name": "Plagueridden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_138",
+    "Name": "Seeker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_139",
+    "Name": "Heartseeker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_140",
+    "Name": "Beast of Nurgle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "D6+1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "6468-50c6-9b68-c662"
+      }
+    ]
+  },
+  {
+    "Id": "statline_141",
+    "Name": "Bloodletter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_142",
+    "Name": "Juggernaut of Khorne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "a2d4-a8c-aaf6-c326"
+      }
+    ]
+  },
+  {
+    "Id": "statline_143",
+    "Name": "Bloodreaper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "8016-ac95-6de-d431"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_144",
+    "Name": "Fiend of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "6",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      },
+      {
+        "Id": "c2dd-e3b2-645e-f01b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_145",
+    "Name": "Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_146",
+    "Name": "Pyroclaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_147",
+    "Name": "Exalted Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "statline_148",
+    "Name": "Hellflayer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_149",
+    "Name": "Exalted Alluress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c8e7-6704-893f-4b1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_150",
+    "Name": "Plaguebearer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "c9e2-68ca-3b19-c513"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_151",
+    "Name": "Rot Fly",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_152",
+    "Name": "Plagueridden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "c9e2-68ca-3b19-c513"
+      },
+      {
+        "Id": "30ee-6b4e-90f8-8e8d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_153",
+    "Name": "Screamer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "ec59-a4dd-928c-f154"
+      }
+    ]
+  },
+  {
+    "Id": "statline_154",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_155",
+    "Name": "Burning Chariot of Tzeentch",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "256b-6a1-239c-178e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_156",
+    "Name": "Skull Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "7cd6-d329-ea50-6d9a"
+      },
+      {
+        "Id": "f0f4-6d93-2765-627c"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_157",
+    "Name": "Soul Grinder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "3",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "3",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "89ae-9660-ecf4-35cf"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "acee-e9b9-7db8-e2df"
+      }
+    ]
+  },
+  {
+    "Id": "statline_158",
+    "Name": "Dark Elf Dreadlord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "7",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "6",
+      "A": "4",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_159",
+    "Name": "Cold One",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "(+1)",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_160",
+    "Name": "Dark Steed",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_161",
+    "Name": "Black Dragon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "-",
+      "S": "7",
+      "T": "(+3)",
+      "W": "(+6)",
+      "I": "4",
+      "A": "6",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "79bb-357e-c31e-d97d"
+      },
+      {
+        "Id": "c521-1d17-cb12-239e"
+      },
+      {
+        "Id": "3189-7068-61dc-17ed"
+      }
+    ]
+  },
+  {
+    "Id": "statline_162",
+    "Name": "Manticore",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "5",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3189-7068-61dc-17ed"
+      }
+    ]
+  },
+  {
+    "Id": "statline_163",
+    "Name": "Dark Pegasus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "(+1)",
+      "I": "4",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_164",
+    "Name": "Cold One Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_165",
+    "Name": "Knight Charioteer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_166",
+    "Name": "Cold One",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_167",
+    "Name": "Dark Elf Master",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "6",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_168",
+    "Name": "Death Hag",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "6",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "7",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_169",
+    "Name": "Cauldron of Blood",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+5)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "bb96-1acf-9e5d-a071"
+      }
+    ]
+  },
+  {
+    "Id": "statline_170",
+    "Name": "Witch Elf Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_171",
+    "Name": "High Beastmaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "7",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "7505-7edf-c3de-57a6"
+      }
+    ]
+  },
+  {
+    "Id": "statline_172",
+    "Name": "Scourgerunner Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "(+4)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "75e9-7e36-d63b-cf9a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_173",
+    "Name": "Dark Steed",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "75e9-7e36-d63b-cf9a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_174",
+    "Name": "Beastmaster Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_175",
+    "Name": "Khainite Assassin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "8",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "7",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_176",
+    "Name": "Sorceress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_177",
+    "Name": "Supreme Sorceress",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "5",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_178",
+    "Name": "Corsair",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_179",
+    "Name": "Reaver",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_180",
+    "Name": "Repeater Crossbowman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_181",
+    "Name": "Lordling",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_182",
+    "Name": "Dark Elf Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_183",
+    "Name": "Lordling",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_184",
+    "Name": "Dark Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_185",
+    "Name": "Herald",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_186",
+    "Name": "Witch Elf",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_187",
+    "Name": "Hag",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "44c2-f355-d5ed-24d7"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_188",
+    "Name": "Black Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "8bd5c110-1d06685a"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_189",
+    "Name": "Tower Master",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "8bd5c110-1d06685a"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_190",
+    "Name": "Cold One Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_191",
+    "Name": "Cold One Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_193",
+    "Name": "Dread Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_194",
+    "Name": "Shade",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_195",
+    "Name": "Bloodshade",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "6",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "statline_196",
+    "Name": "Executioner",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "fc34-9ebc-9285-b708"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_197",
+    "Name": "Draich Master",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "fc34-9ebc-9285-b708"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_198",
+    "Name": "Kharibdyss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "0",
+      "S": "7",
+      "T": "5",
+      "W": "5",
+      "I": "3",
+      "A": "5",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "e4c0-a478-fa11-724e"
+      },
+      {
+        "Id": "96ef-bc9-1848-f08e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_199",
+    "Name": "Scourgerunner Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "75e9-7e36-d63b-cf9a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_200",
+    "Name": "War Hydra",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "c2c3-72ce-e66e-b9bc"
+      },
+      {
+        "Id": "4b56-5100-6a55-452e"
+      },
+      {
+        "Id": "3189-7068-61dc-17ed"
+      }
+    ]
+  },
+  {
+    "Id": "statline_201",
+    "Name": "Bloodwrack Medusa",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "5",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "fca5-fa1d-aff2-e333"
+      }
+    ]
+  },
+  {
+    "Id": "statline_202",
+    "Name": "Bloodwrack Shrine",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    }
+  },
+  {
+    "Id": "statline_203",
+    "Name": "Doomfire Warlock",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_204",
+    "Name": "Master",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_205",
+    "Name": "Reaper Bolt Thrower",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "2",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "3646-bdc6-7ed0-5119"
+      },
+      {
+        "Id": "3f5c-8185-3494-86c1"
+      }
+    ]
+  },
+  {
+    "Id": "statline_206",
+    "Name": "Sister of Slaughter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c4d7-c77b-7113-3ae8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_207",
+    "Name": "Hag",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c4d7-c77b-7113-3ae8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_260",
+    "Name": "Dragon Company trooper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3f0e-1dc6-b425-bf59"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_263",
+    "Name": "Dwarf Engineer Sappers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_264",
+    "Name": "Scout Gyrocopter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "e2de-d72a-fe52-92e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_265",
+    "Name": "Royal Clan Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_266",
+    "Name": "Royal Clan Veteran",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_267",
+    "Name": "Shrine Guards",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_268",
+    "Name": "Shrine Keeper (Shrine Guard)",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "6",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "10"
+    }
+  },
+  {
+    "Id": "statline_269",
+    "Name": "Imperial Dwarf Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_270",
+    "Name": "Miao Ying, Human Form",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "7",
+      "BS": "5",
+      "S": "4",
+      "T": "4",
+      "W": "7",
+      "I": "7",
+      "A": "4",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "2594-1ceb-1657-9e16"
+      },
+      {
+        "Id": "23c4-bd19-2422-ad08",
+        "Info": "(Human Form)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_271",
+    "Name": "Miao Ying, Dragon Form",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "8",
+      "BS": "3",
+      "S": "7",
+      "T": "6",
+      "W": "7",
+      "I": "6",
+      "A": "6",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "2594-1ceb-1657-9e16"
+      },
+      {
+        "Id": "c557-6102-9a35-bbcd",
+        "Info": "(9, Dragon form)"
+      },
+      {
+        "Id": "c822-7ad0-f24a-e4af",
+        "Info": "(Dragon form)"
+      },
+      {
+        "Id": "72db-24bb-7493-d753",
+        "Info": "(D6, Dragon form)"
+      },
+      {
+        "Id": "dc91-48b3-3696-217",
+        "Info": "(Dragon form)"
+      },
+      {
+        "Id": "c7a2-35bf-4313-f4f0",
+        "Info": "(Dragon form)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_283",
+    "Name": "Jade Lancer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "e8db-9b63-e462-8bd5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_284",
+    "Name": "Jade Lancer Officer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "e8db-9b63-e462-8bd5"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_287",
+    "Name": "Grand Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "ef00-e657-a314-91ab"
+      }
+    ]
+  },
+  {
+    "Id": "statline_288",
+    "Name": "Ogre Loader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_289",
+    "Name": "Cathayan Sentinel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "1",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "3",
+      "A": "3",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "1085-72be-d0a2-9dad",
+        "Info": "(Deadly Strike)"
+      },
+      {
+        "Id": "00ec-8265-17bd-9428",
+        "Info": "(Scything Blow)"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1779469496280",
+    "Name": "Crane Gunner Teams",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779470490809",
+    "Name": "Iron Hail Gunners",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779470580510",
+    "Name": "Marksman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statlines_1779472222274",
+    "Name": "Peasant Soldier",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "5"
+    }
+  },
+  {
+    "Id": "statlines_1779472285812",
+    "Name": "Peasant Elder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "LD": "6"
+    }
+  },
+  {
+    "Id": "statlines_1779482190540",
+    "Name": "Astromancer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "1",
+      "LD": "8"
+    }
+  },
+  {
+    "Id": "statline_17794157921477",
+    "Name": "Cathayan Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1779483178771",
+    "Name": "Supreme Astromancer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "3",
+      "A": "2",
+      "LD": "8"
+    }
+  },
+  {
+    "Id": "statline_332",
+    "Name": "Handmaidens of the Everqueen",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "6",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "e42c-4a2f-b084-91c0"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "429-8ae9-4365-b67"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_350",
+    "Name": "Silver Helm",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_351",
+    "Name": "High Helm",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_354",
+    "Name": "Dragon Prince",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_355",
+    "Name": "Drakemaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_358",
+    "Name": "Phoenix Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "2708-e296-37ed-385b"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_359",
+    "Name": "Keeper of the Flame",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "2708-e296-37ed-385b"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_362",
+    "Name": "Swordmaster of Hoeth",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "e54f-fb20-3641-aa1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_363",
+    "Name": "Bladelord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "6",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "e54f-fb20-3641-aa1b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_364",
+    "Name": "Tiranoc Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_373",
+    "Name": "Chracian Chieftain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_374",
+    "Name": "Chracian Woodsman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_375",
+    "Name": "Chracian Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_376",
+    "Name": "Lion Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_377",
+    "Name": "Lion Guard Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "66ca-f1a3-7cc3-723d"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_378",
+    "Name": "Sea Guard Garrison Commander",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "7",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_379",
+    "Name": "Ship's Company",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_380",
+    "Name": "Midshipman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_381",
+    "Name": "Bosun",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_403",
+    "Name": "Grail Monk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e7c7-b48f-7d2c-b337",
+        "Info": "(Double-handed)"
+      },
+      {
+        "Id": "985a-110b-3393-79b7",
+        "Info": "(Single handed)"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_406",
+    "Name": "First Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_426",
+    "Name": "Yeoman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "e7c7-b48f-7d2c-b337",
+        "Info": "(Double-handed)"
+      },
+      {
+        "Id": "985a-110b-3393-79b7",
+        "Info": "(Single handed)"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_427",
+    "Name": "Yeoman Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_428",
+    "Name": "Warden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_429",
+    "Name": "Grail Monk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1780229077863",
+    "Name": "Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statline_438",
+    "Name": "Saurus Oldblood",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "6",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "3",
+      "A": "5",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_439",
+    "Name": "Carnosaur",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "0",
+      "S": "7",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "ffb6-bce1-e7c8-90e8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_440",
+    "Name": "Terradon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "(+1)",
+      "W": "(+1)",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_441",
+    "Name": "Ripperdactyl",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "(+1)",
+      "W": "(+1)",
+      "I": "2",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_442",
+    "Name": "Stegadon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "(+5)",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "c2ef-844b-196f-89ed"
+      },
+      {
+        "Id": "8715-7ee1-b1e8-730"
+      }
+    ]
+  },
+  {
+    "Id": "statline_443",
+    "Name": "Skink Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      }
+    ]
+  },
+  {
+    "Id": "statline_444",
+    "Name": "Ancient Stegadon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "-",
+      "S": "6",
+      "T": "6",
+      "W": "(+5)",
+      "I": "1",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "c2ef-844b-196f-89ed"
+      },
+      {
+        "Id": "8715-7ee1-b1e8-730"
+      }
+    ]
+  },
+  {
+    "Id": "statline_445",
+    "Name": "Saurus Scar-Veteran",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "2",
+      "I": "3",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_446",
+    "Name": "Skink Chief",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "5",
+      "S": "4",
+      "T": "3",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_447",
+    "Name": "Skink Priest",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "2",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_448",
+    "Name": "Slann Mage-Priest",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "5",
+      "I": "2",
+      "A": "1",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_449",
+    "Name": "Jungle Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "0",
+      "S": "2",
+      "T": "2",
+      "W": "5",
+      "I": "1",
+      "A": "5",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_450",
+    "Name": "Saurus Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "1",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_451",
+    "Name": "Spawn Leader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "1",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_452",
+    "Name": "Skink",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "2",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_453",
+    "Name": "Patrol Leader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "4",
+      "S": "3",
+      "T": "2",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_454",
+    "Name": "Temple Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "1",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_455",
+    "Name": "Revered Guardian",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "1",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_456",
+    "Name": "Bastiladon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "1",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6ed4-8a23-db9e-139a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_457",
+    "Name": "Chameleon Skink",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "4",
+      "S": "3",
+      "T": "2",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "d03f-1fcf-1246-19ef"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_458",
+    "Name": "Patrol Leader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "5",
+      "S": "3",
+      "T": "2",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "d03f-1fcf-1246-19ef"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_459",
+    "Name": "Cold One Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_460",
+    "Name": "Pack Leader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "2",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_461",
+    "Name": "Kroxigor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_462",
+    "Name": "Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_463",
+    "Name": "Ripperdactyl Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_464",
+    "Name": "Ripperdactyl",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_465",
+    "Name": "Ripperdactyl Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_466",
+    "Name": "Stegadon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "5",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "c2ef-844b-196f-89ed"
+      },
+      {
+        "Id": "8715-7ee1-b1e8-730"
+      }
+    ]
+  },
+  {
+    "Id": "statline_467",
+    "Name": "Terradon Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_468",
+    "Name": "Terradon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_469",
+    "Name": "Sky Leader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_470",
+    "Name": "Ancient Stegadon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "-",
+      "S": "6",
+      "T": "6",
+      "W": "5",
+      "I": "1",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "c2ef-844b-196f-89ed"
+      },
+      {
+        "Id": "8715-7ee1-b1e8-730"
+      }
+    ]
+  },
+  {
+    "Id": "statline_471",
+    "Name": "Razordon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "2637-b726-c17-321"
+      },
+      {
+        "Id": "d487-e11-1cc5-1560"
+      }
+    ]
+  },
+  {
+    "Id": "statline_472",
+    "Name": "Salamander",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "62a4-535f-c619-df64"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "d487-e11-1cc5-1560"
+      }
+    ]
+  },
+  {
+    "Id": "statline_473",
+    "Name": "Troglodon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "ae10-c5ba-fbb6-3377"
+      },
+      {
+        "Id": "f2ca-e290-2a24-28e"
+      },
+      {
+        "Id": "12f3-1f28-7a10-775c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_474",
+    "Name": "Skink Oracle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "ae10-c5ba-fbb6-3377"
+      }
+    ]
+  },
+  {
+    "Id": "statline_475",
+    "Name": "Bruiser",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "4",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_476",
+    "Name": "Stonehorn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "6",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "ffc0-7bb2-eff1-c590"
+      }
+    ]
+  },
+  {
+    "Id": "statline_477",
+    "Name": "Thundertusk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "6",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "a93c-c5f7-b30c-d970"
+      },
+      {
+        "Id": "2813-ef5c-9da9-6c6f"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_478",
+    "Name": "Butcher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_479",
+    "Name": "Firebelly",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "49f4-a3bb-871d-64df"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_480",
+    "Name": "Hunter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "5",
+      "BS": "4",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "3",
+      "A": "4",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "4202-5762-aa8a-99a"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_481",
+    "Name": "Slaughtermaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "5",
+      "I": "3",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_482",
+    "Name": "Tyrant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "4",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "5",
+      "A": "5",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_483",
+    "Name": "Gnoblar Fighter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "2",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_484",
+    "Name": "Grionbiter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "2",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_485",
+    "Name": "Gnoblar Trapper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "2",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_486",
+    "Name": "Snarefinger",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "4",
+      "S": "2",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_487",
+    "Name": "Irongut",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_488",
+    "Name": "Gutlord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_489",
+    "Name": "Sabretusk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_490",
+    "Name": "Scraplauncher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "5",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "2228-5b2-4acc-968f"
+      }
+    ]
+  },
+  {
+    "Id": "statline_491",
+    "Name": "Rhinox",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "2228-5b2-4acc-968f"
+      }
+    ]
+  },
+  {
+    "Id": "statline_492",
+    "Name": "Gnoblar Scrapper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "2",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_493",
+    "Name": "Ironblaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "5",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6937-1aa2-781d-a6cb"
+      },
+      {
+        "Id": "81c1-1345-8219-c9ca"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_494",
+    "Name": "Rhinox",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6937-1aa2-781d-a6cb"
+      },
+      {
+        "Id": "81c1-1345-8219-c9ca"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_495",
+    "Name": "Leadbelcher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_496",
+    "Name": "Leadbelcher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "92c9-78d2-aa39-a8b9",
+        "Info": "(Scatter shot)"
+      },
+      {
+        "Id": "b006-417c-17d1-fb58",
+        "Info": "(Solid shot)"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_497",
+    "Name": "Thunderfist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "92c9-78d2-aa39-a8b9",
+        "Info": "(Scatter shot)"
+      },
+      {
+        "Id": "b006-417c-17d1-fb58",
+        "Info": "(Solid shot)"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_498",
+    "Name": "Maneater",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_499",
+    "Name": "Maneater Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "5",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_500",
+    "Name": "Ogre",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_501",
+    "Name": "Mournfang",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "59ec-ad95-6df2-3fd2"
+      }
+    ]
+  },
+  {
+    "Id": "statline_502",
+    "Name": "Crusher",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "2",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_503",
+    "Name": "Yhetee",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "b704-ed9c-11c8-4bc1"
+      }
+    ]
+  },
+  {
+    "Id": "statline_504",
+    "Name": "Greyback",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "b704-ed9c-11c8-4bc1"
+      }
+    ]
+  },
+  {
+    "Id": "statline_506",
+    "Name": "Gorger",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "2",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "ffcf-1146-1a3c-6e54"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "ac13-f154-621f-497b"
+      }
+    ]
+  },
+  {
+    "Id": "statline_507",
+    "Name": "Stonehorn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "ffc0-7bb2-eff1-c590"
+      }
+    ]
+  },
+  {
+    "Id": "statline_508",
+    "Name": "Ogre Beast Rider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "14dd-3e4f-ea48-e352"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_509",
+    "Name": "Ogre Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "3e77-7a6c-f2e1-cc53"
+      }
+    ]
+  },
+  {
+    "Id": "statline_510",
+    "Name": "Thundertusk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "6",
+      "T": "6",
+      "W": "6",
+      "I": "2",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "a93c-c5f7-b30c-d970"
+      },
+      {
+        "Id": "2813-ef5c-9da9-6c6f"
+      }
+    ]
+  },
+  {
+    "Id": "statline_524",
+    "Name": "Night Goblin Bigboss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_525",
+    "Name": "Giant Cave Squig",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3d6",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "(+1)",
+      "I": "3",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "a32-a00b-8952-23ff"
+      }
+    ]
+  },
+  {
+    "Id": "statline_526",
+    "Name": "Night Goblin Oddgit",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "afed-c0ac-a708-3351"
+      }
+    ]
+  },
+  {
+    "Id": "statline_527",
+    "Name": "Night Goblin Oddnob",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "afed-c0ac-a708-3351"
+      }
+    ]
+  },
+  {
+    "Id": "statline_528",
+    "Name": "Night Goblin Warboss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "5",
+      "A": "4",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_539",
+    "Name": "Night Goblin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_540",
+    "Name": "Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_541",
+    "Name": "Night Goblin Fanatic",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "*",
+      "WS": "*",
+      "BS": "*",
+      "S": "5",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "*",
+      "Ld": "10"
+    },
+    "Children": [
+      {
+        "Id": "1f92-933c-dfaa-bd0a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_542",
+    "Name": "Squig Herder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_544",
+    "Name": "Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_545",
+    "Name": "Snotling",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "2",
+      "BS": "2",
+      "S": "2",
+      "T": "2",
+      "W": "6",
+      "I": "3",
+      "A": "5",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "statline_547",
+    "Name": "Bolt Throwa",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "5",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "36e4-28b4-31ff-39dc"
+      }
+    ]
+  },
+  {
+    "Id": "statline_548",
+    "Name": "Goblin Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_549",
+    "Name": "Orc Boy",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "7505-7edf-c3de-57a6"
+      }
+    ]
+  },
+  {
+    "Id": "statline_550",
+    "Name": "Goblin Wolf Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_551",
+    "Name": "Squig Hopper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_552",
+    "Name": "Bounder Squig",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3d6",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "2",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "82e4-fca1-31c7-48f9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_553",
+    "Name": "Boss",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_561",
+    "Name": "Arachnorok Spider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "7",
+      "I": "4",
+      "A": "6",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "d4a3-bdc8-bdad-bb9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_562",
+    "Name": "Doom Diver Catapult",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "5",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "bfbc-c435-2046-4691"
+      }
+    ]
+  },
+  {
+    "Id": "statline_563",
+    "Name": "Rock Lobber",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "bfbc-c435-2046-4691"
+      }
+    ]
+  },
+  {
+    "Id": "statline_564",
+    "Name": "Mangler Squigs",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3D6",
+      "WS": "4",
+      "BS": "0",
+      "S": "6",
+      "T": "5",
+      "W": "4",
+      "I": "3",
+      "A": "D6",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "fc81-c5b4-c632-2a80"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1780074740509",
+    "Name": "Cave Squig",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "LD": "3"
+    }
+  },
+  {
+    "Id": "statline_566",
+    "Name": "Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_569",
+    "Name": "Mortar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "7",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "2115-8098-83e9-ead7"
+      }
+    ]
+  },
+  {
+    "Id": "statline_570",
+    "Name": "Gun Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_571",
+    "Name": "Organ Gun",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "7",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "5635-efd8-13b6-c841"
+      }
+    ]
+  },
+  {
+    "Id": "statline_572",
+    "Name": "Hireling Outrider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_573",
+    "Name": "Hireling Outrider",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_574",
+    "Name": "Veteran Freeblade",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_575",
+    "Name": "Commander (Freeblade Knight)",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_576",
+    "Name": "Warhorses",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_577",
+    "Name": "Freeblade Knights",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_578",
+    "Name": "Sellswords",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_579",
+    "Name": "Officer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_580",
+    "Name": "Veteran Sellswords",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_581",
+    "Name": "Veteran Officer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_582",
+    "Name": "Renegade Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_584",
+    "Name": "Renegade Prince",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "5",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_586",
+    "Name": "Weapon Team Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "3655-6c21-81d0-3e19"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_588",
+    "Name": "Grey Seer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "3",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "3c27-d55d-e778-cb89"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "5226-1a14-c4ae-fbc3"
+      }
+    ]
+  },
+  {
+    "Id": "statline_589",
+    "Name": "Screaming Bell",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "(+5)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_590",
+    "Name": "Rat Ogre Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "4",
+      "A": "3",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_591",
+    "Name": "Master Assassin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "8",
+      "BS": "7",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "8",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_592",
+    "Name": "Plague Priest",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "5",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_593",
+    "Name": "Plague Furnace",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "2",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "(+5)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "59ef-6830-122d-1967"
+      }
+    ]
+  },
+  {
+    "Id": "statline_594",
+    "Name": "Plague Monk Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_595",
+    "Name": "Skaven Chieftain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "6",
+      "A": "3",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_596",
+    "Name": "Skaven Warlord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "7",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_597",
+    "Name": "Warlock Engineer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "5226-1a14-c4ae-fbc3"
+      }
+    ]
+  },
+  {
+    "Id": "statline_598",
+    "Name": "Giant Rat",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "0",
+      "S": "2",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "3"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_599",
+    "Name": "Master Moulder",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_600",
+    "Name": "Night Runner",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_601",
+    "Name": "Nightleader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_602",
+    "Name": "Rat Swarms",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "2",
+      "BS": "0",
+      "S": "2",
+      "T": "2",
+      "W": "5",
+      "I": "4",
+      "A": "5",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_603",
+    "Name": "Gutter Runner",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_604",
+    "Name": "Assassin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "9bc5-ae1d-c50c-3442"
+      }
+    ]
+  },
+  {
+    "Id": "statline_605",
+    "Name": "Plague Monk",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_606",
+    "Name": "Plague Deacon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_607",
+    "Name": "Globadiers",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "9f93-6bbb-2e84-d7e3"
+      }
+    ]
+  },
+  {
+    "Id": "statline_608",
+    "Name": "Rat Ogre",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "1",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_609",
+    "Name": "Jezzail Team",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "5c5a-b5c9-5a78-57b"
+      },
+      {
+        "Id": "482c-afba-f990-369c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_610",
+    "Name": "Doomwheel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3D6",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    }
+  },
+  {
+    "Id": "statline_611",
+    "Name": "Hell Pit Abomination",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "3D6",
+      "WS": "3",
+      "BS": "1",
+      "S": "6",
+      "T": "5",
+      "W": "6",
+      "I": "4",
+      "A": "D6+1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "94c5-6099-4ee3-6c55"
+      }
+    ]
+  },
+  {
+    "Id": "statline_612",
+    "Name": "Censer Bearer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "e2b4-f4a-df96-4d9e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_613",
+    "Name": "Plagueclaw Catapult",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "4bc3-c0d5-6a31-3091"
+      }
+    ]
+  },
+  {
+    "Id": "statline_614",
+    "Name": "Plague Monk Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "D3+3",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_615",
+    "Name": "Warp Lightning Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "-",
+      "T": "6",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "92ed-f18a-c3a4-7a3e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_616",
+    "Name": "Engineer & Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_617",
+    "Name": "Stormvermin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      }
+    ]
+  },
+  {
+    "Id": "statline_618",
+    "Name": "Fangleader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "5",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      }
+    ]
+  },
+  {
+    "Id": "statline_619",
+    "Name": "Clanrats",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_620",
+    "Name": "Clawleader",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_643",
+    "Name": "Veteran State Trooper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_644",
+    "Name": "Veteran Sargeant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_651",
+    "Name": "Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "5",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "1ef1-8579-c310-4fb5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_664",
+    "Name": "State Trooper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_665",
+    "Name": "Sargeant",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_666",
+    "Name": "Veteran State Trooper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_667",
+    "Name": "Veteran Sargeantr",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_716",
+    "Name": "Arch Necrotect",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "7505-7edf-c3de-57a6"
+      }
+    ]
+  },
+  {
+    "Id": "statline_717",
+    "Name": "Necroserpent",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_718",
+    "Name": "Venerable Ushabti",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "2c5f-ac49-f54a-1329"
+      }
+    ]
+  },
+  {
+    "Id": "statline_719",
+    "Name": "Venerable Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "2c5f-ac49-f54a-1329"
+      }
+    ]
+  },
+  {
+    "Id": "statline_720",
+    "Name": "Royal Host Horseman Archer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_721",
+    "Name": "Master of Horse",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_722",
+    "Name": "Royal Host Archer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "d6b8-1ad9-d024-1d72"
+      }
+    ]
+  },
+  {
+    "Id": "statline_723",
+    "Name": "Master of Arms",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      },
+      {
+        "Id": "85-9154-7dc1-ddc6"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_724",
+    "Name": "Tomb Guard Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_725",
+    "Name": "Tomb Guard Crew",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "98f8-9d8-94cd-3379"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_726",
+    "Name": "Tomb Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_727",
+    "Name": "Cairn Wraith",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "3",
+      "I": "2",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "af7f-d19a-b801-c2f7"
+      }
+    ]
+  },
+  {
+    "Id": "statline_728",
+    "Name": "Master Necromancer",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "3",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "f21c-26a3-f179-be43"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_729",
+    "Name": "Mortis Engine",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+5)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_730",
+    "Name": "Banshees",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_731",
+    "Name": "Spirit Horde",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "1",
+      "A": "D6",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_732",
+    "Name": "Coven Throne",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "(+5)",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "8956-9484-4d5f-abad"
+      }
+    ]
+  },
+  {
+    "Id": "statline_733",
+    "Name": "Pallid Handmaidens",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "5",
+      "T": "-",
+      "W": "-",
+      "I": "5",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_734",
+    "Name": "Abyssal Terror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+4)",
+      "I": "2",
+      "A": "3",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "a668-f95-891-63b6"
+      },
+      {
+        "Id": "a952-5825-e8b9-bd43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_735",
+    "Name": "Zombie Dragon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "-",
+      "S": "6",
+      "T": "(+1)",
+      "W": "(+5)",
+      "I": "2",
+      "A": "5",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      },
+      {
+        "Id": "b25b-7a46-6c0-f432"
+      },
+      {
+        "Id": "a952-5825-e8b9-bd43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_736",
+    "Name": "Nightmare",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_737",
+    "Name": "Skeletal Steed",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "2",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "eb5d-bd8a-c75c-66d7"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_738",
+    "Name": "Terrorgheist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "5",
+      "T": "(+1)",
+      "W": "(+5)",
+      "I": "3",
+      "A": "4",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e93a-8c45-a0c0-f81e"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "9988-6c6d-15ba-ca4a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_739",
+    "Name": "Necromantic Acolyte",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "f21c-26a3-f179-be43"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_740",
+    "Name": "Strigoi Ghoul King",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "3",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "7",
+      "A": "5",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_741",
+    "Name": "Tomb Banshee",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_742",
+    "Name": "Vampire Count",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "7",
+      "BS": "5",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "6",
+      "A": "4",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_743",
+    "Name": "Vampire Thrall",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "6",
+      "BS": "4",
+      "S": "5",
+      "T": "4",
+      "W": "2",
+      "I": "5",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_744",
+    "Name": "Wight King",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_745",
+    "Name": "Wight Lord",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "2",
+      "I": "4",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_746",
+    "Name": "Bat Swarm",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "0",
+      "S": "2",
+      "T": "2",
+      "W": "5",
+      "I": "4",
+      "A": "5",
+      "Ld": "3"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_747",
+    "Name": "Black Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_748",
+    "Name": "Skeletal Steed",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "2",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_749",
+    "Name": "Hell Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_750",
+    "Name": "Crypt Ghoul",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_751",
+    "Name": "Crypt Ghast",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "3",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_752",
+    "Name": "Dire Wolf",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "3"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_753",
+    "Name": "Doom Wolf",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "3"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_754",
+    "Name": "Grave Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_755",
+    "Name": "Seneschal",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_756",
+    "Name": "Skeleton Warrior",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_757",
+    "Name": "Skeleton Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "2",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_758",
+    "Name": "Zombie",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "2",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "1",
+      "A": "1",
+      "Ld": "2"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_759",
+    "Name": "Corpse Cart",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      },
+      {
+        "Id": "73ed-43a8-8ea9-59d1"
+      }
+    ]
+  },
+  {
+    "Id": "statline_760",
+    "Name": "Corpsemaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "73ed-43a8-8ea9-59d1"
+      }
+    ]
+  },
+  {
+    "Id": "statline_761",
+    "Name": "The Restless Dead",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "1",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "1",
+      "A": "2D6",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_762",
+    "Name": "Crypt Horror",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "3",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "a570-53-8c8b-96a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_763",
+    "Name": "Crypt Haunter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "4",
+      "T": "5",
+      "W": "3",
+      "I": "2",
+      "A": "4",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "a570-53-8c8b-96a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_764",
+    "Name": "Fell Bat",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "1",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "3"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_765",
+    "Name": "Spirit Host",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "4",
+      "I": "1",
+      "A": "4",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_766",
+    "Name": "Terrorgheist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "0",
+      "S": "5",
+      "T": "6",
+      "W": "6",
+      "I": "3",
+      "A": "4",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "e93a-8c45-a0c0-f81e"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "9988-6c6d-15ba-ca4a"
+      }
+    ]
+  },
+  {
+    "Id": "statline_767",
+    "Name": "Vargheist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "a952-5825-e8b9-bd43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_768",
+    "Name": "Vargoyle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "4",
+      "BS": "0",
+      "S": "5",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "a952-5825-e8b9-bd43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_769",
+    "Name": "Black Coach",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "6",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statline_770",
+    "Name": "Nightmares",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_771",
+    "Name": "Wraith",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "af7f-d19a-b801-c2f7"
+      }
+    ]
+  },
+  {
+    "Id": "statline_772",
+    "Name": "Blood Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_773",
+    "Name": "Kastellan",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "3520-64c9-a855-ce9e"
+      },
+      {
+        "Id": "8997-c74d-3a8d-ecf9"
+      }
+    ]
+  },
+  {
+    "Id": "statline_774",
+    "Name": "Hexwraith",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_775",
+    "Name": "Spectral Steed",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "2",
+      "BS": "-",
+      "S": "3",
+      "T": "-",
+      "W": "-",
+      "I": "2",
+      "A": "1",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_776",
+    "Name": "Hellwraith",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "3",
+      "BS": "0",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "2",
+      "A": "2",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "77ca-5e-3d5e-ead5"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_777",
+    "Name": "Varghulf",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8",
+      "WS": "5",
+      "BS": "0",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "4",
+      "A": "4",
+      "Ld": "4"
+    },
+    "Children": [
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "a952-5825-e8b9-bd43"
+      }
+    ]
+  },
+  {
+    "Id": "statline_801",
+    "Name": "Chaos Warhound Handler",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_804",
+    "Name": "Forsaken",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "0",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "D3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "statline_811",
+    "Name": "Chosen Chaos Warriors",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "5073-af52-fe26-36ff",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "statline_812",
+    "Name": "Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "4",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      },
+      {
+        "Id": "5073-af52-fe26-36ff",
+        "Info": "(6+)"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1791476351259",
+    "Name": "Champion of Ruin",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "6",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "5",
+      "A": "3",
+      "LD": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267",
+        "Info": ""
+      },
+      {
+        "Id": "c56e-8d1b-bb4-de99",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statline_815",
+    "Name": "Chosen Chaos Chariot",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "WS": "-",
+      "BS": "-",
+      "S": "5",
+      "T": "5",
+      "W": "4",
+      "I": "-",
+      "A": "-",
+      "Ld": "-"
+    },
+    "Children": [
+      {
+        "Id": "e099-1ebb-9e85-34c8"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1791130438842",
+    "Name": "Cult Magister",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "2",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "A": "2",
+      "LD": "8"
+    }
+  },
+  {
+    "Id": "statlines_1791480084139",
+    "Name": "Chaos Cultist",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "LD": "6"
+    }
+  },
+  {
+    "Id": "statlines_1791480944041",
+    "Name": "Apostle",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "LD": "7"
+    }
+  },
+  {
+    "Id": "statline_816",
+    "Name": "Marauder Tribe Chieftain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "5",
+      "BS": "3",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "4",
+      "A": "3",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_817",
+    "Name": "Marauder Tribe Berserker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_818",
+    "Name": "Headtaker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": ""
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_819",
+    "Name": "Marauder Tribe Huscarl",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_820",
+    "Name": "First Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "4",
+      "BS": "3",
+      "S": "3",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "2",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "ee75-c1a8-2f0c-c264"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_821",
+    "Name": "Skin Wolf",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "3",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statline_822",
+    "Name": "Skin Wolf Jarl",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "5",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "3",
+      "I": "4",
+      "A": "4",
+      "Ld": "7"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_864",
+    "Name": "Deepwood Hound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "4",
+      "BS": "-",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1792779412812",
+    "Name": "Gargantuan Treeman Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "5",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "1",
+      "A": "4",
+      "LD": "10"
+    },
+    "Children": [
+      {
+        "Id": "equipment_1792785398799",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792785431628",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792785466340",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "mvlb9w1pamy82",
+    "Name": "Gargantuan Treeman",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "6",
+      "BS": "4",
+      "S": "6",
+      "T": "7",
+      "W": "7",
+      "I": "1",
+      "A": "6",
+      "LD": "10"
+    },
+    "Children": [
+      {
+        "Id": "equipment_1792785398799",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792785431628",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792785466340",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statline_865",
+    "Name": "Wardens of Talsyn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "7",
+      "BS": "4",
+      "S": "4",
+      "T": "3",
+      "W": "3",
+      "I": "6",
+      "A": "4",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "4129-4526-9b5f-57ed"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_866",
+    "Name": "Guardians of Talsyn",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "2",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "4129-4526-9b5f-57ed"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statline_867",
+    "Name": "Watchmaster",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "5",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "3",
+      "Ld": "9"
+    },
+    "Children": [
+      {
+        "Id": "4129-4526-9b5f-57ed"
+      },
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      },
+      {
+        "Id": "5f1c-fd04-b0d5-d5e"
+      }
+    ]
+  },
+  {
+    "Id": "statline_868",
+    "Name": "Beast Keeper",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "4",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "1",
+      "Ld": "8"
+    },
+    "Children": [
+      {
+        "Id": "6d4a-7733-d725-a267"
+      },
+      {
+        "Id": "dbb2-4d85-84c2-528c"
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1783801412352",
+    "Name": "Orion, the King in the Woods",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "8",
+      "BS": "6",
+      "S": "5",
+      "T": "6",
+      "W": "5",
+      "I": "8",
+      "A": "5",
+      "Ld": "10"
+    }
+  },
+  {
+    "Id": "statlines_1784070864751",
+    "Name": "Deepwood Hound",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9",
+      "WS": "4",
+      "BS": "-",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1784070907385",
+    "Name": "Forest Cat",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7",
+      "WS": "4",
+      "BS": "-",
+      "S": "3",
+      "T": "3",
+      "W": "1",
+      "I": "4",
+      "A": "*",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1784070949837",
+    "Name": "Sylvan Boar",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6",
+      "WS": "3",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "1",
+      "I": "3",
+      "A": "1",
+      "Ld": "5"
+    },
+    "Children": [
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1784070986559",
+    "Name": "Bear of Loren",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5",
+      "WS": "4",
+      "BS": "-",
+      "S": "4",
+      "T": "4",
+      "W": "2",
+      "I": "3",
+      "A": "2",
+      "Ld": "6"
+    },
+    "Children": [
+      {
+        "Id": "0579fc66-6ce7-4169-8a3c-b33f8f714276",
+        "Info": ""
+      }
+    ]
   }
 ]

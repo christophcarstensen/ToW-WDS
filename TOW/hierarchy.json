@@ -1750,37 +1750,6 @@
         "68357cff6d966c2c14bfaa80",
         "68357cff6d966c2c14bfae5e"
       ]
-    },
-    "Wood Elf Realms - Spirits of the Forest": {
-      "Named Characters": [],
-      "Characters": [
-        "68357cd96d966c2c14b97a6c",
-        "units_1792779349522",
-        "68357cd86d966c2c14b94608",
-        "68357cd46d966c2c14b89948",
-        "68357cd76d966c2c14b911bd",
-        "68357cd46d966c2c14b89690"
-      ],
-      "Core": [
-        "68357cda6d966c2c14b9a8df",
-        "68357cd96d966c2c14b98603",
-        "68357cdb6d966c2c14b9d759",
-        "68357cdd6d966c2c14ba6a45"
-      ],
-      "Special": [
-        "68357cd96d966c2c14b98603",
-        "68357cda6d966c2c14b9ae01",
-        "68357cdb6d966c2c14b9d759",
-        "68357cdd6d966c2c14ba6f71",
-        "68357cdf6d966c2c14badbca",
-        "68357cdd6d966c2c14ba6a45",
-        "68357cdb6d966c2c14b9fa89",
-        "68357cdc6d966c2c14ba411d"
-      ],
-      "Rare": [
-        "mvlbjptfy5ygj"
-      ],
-      "Mercenaries": []
     }
   },
   "Cards": {

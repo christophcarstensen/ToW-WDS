@@ -1873,5 +1873,1368 @@
         "Id": "equipment_1779472428653"
       }
     ]
+  },
+  {
+    "Id": "9998620a-7ff2-4bd6-9b7e-15aa598fb685",
+    "Name": "Javelin",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      }
+    ]
+  },
+  {
+    "Id": "d1de6fba-474c-4bbc-8e8d-06d989b4d3d8",
+    "Name": "Throwing Axes",
+    "Type": 1
+  },
+  {
+    "Id": "options_1791476981089",
+    "Name": "Light Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "dbb2-4d85-84c2-528c",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "options_1791477037809",
+    "Name": "Heavy Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c56e-8d1b-bb4-de99",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "32fdc071-654e-48ee-b641-af618f3d632c",
+    "Name": "Splice-horn",
+    "Type": 1
+  },
+  {
+    "Id": "champion_foerender",
+    "Name": "Foe-render",
+    "Type": 5
+  },
+  {
+    "Id": "champion_splicehorn",
+    "Name": "Splice-horn",
+    "Type": 5
+  },
+  {
+    "Id": "94723b06-b32e-489b-9117-ec222f52d4a6",
+    "Name": "Bale Taurus",
+    "Type": 0
+  },
+  {
+    "Id": "f86f1520-43b5-404d-a751-6cd1942150f7",
+    "Name": "Boss",
+    "Type": 1
+  },
+  {
+    "Id": "afefa7ed-4149-4da8-b130-d7f65df6e8bc",
+    "Name": "Bull Centaur Ba’hal",
+    "Type": 1
+  },
+  {
+    "Id": "95a50159-a85b-4c29-9e4a-8e4a5bea3273",
+    "Name": "Deathmask",
+    "Type": 1
+  },
+  {
+    "Id": "2284dc55-325d-4ee3-ad6d-de95753822a2",
+    "Name": "Fireglaive",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a0e-aabe-6505-6e7e"
+      }
+    ]
+  },
+  {
+    "Id": "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
+    "Name": "Great Taurus",
+    "Type": 0
+  },
+  {
+    "Id": "23020c7b-63a7-43c4-ac30-e0f749b74fa3",
+    "Name": "Hailshot Blunderbusses",
+    "Type": 1
+  },
+  {
+    "Id": "0d0648c8-73c0-4427-b622-33a97d03e4d8",
+    "Name": "Lammasu",
+    "Type": 0
+  },
+  {
+    "Id": "4af40f4d-164b-4428-8916-79d7b5227781",
+    "Name": "Manburner",
+    "Type": 1
+  },
+  {
+    "Id": "9dba1e89-8935-4bb3-83d2-5a34b0bb3798",
+    "Name": "Murder Boss",
+    "Type": 1
+  },
+  {
+    "Id": "33e6024c-c8ad-481b-ad0d-b69031ed0131",
+    "Name": "Overseer",
+    "Type": 1
+  },
+  {
+    "Id": "champion_bull_centaur_bahal",
+    "Name": "Bull Centaur Ba???hal",
+    "Type": 5
+  },
+  {
+    "Id": "champion_deathmask",
+    "Name": "Deathmask",
+    "Type": 5
+  },
+  {
+    "Id": "champion_manburner",
+    "Name": "Manburner",
+    "Type": 5
+  },
+  {
+    "Id": "champion_murder_boss",
+    "Name": "Murder Boss",
+    "Type": 5
+  },
+  {
+    "Id": "champion_overseer",
+    "Name": "Overseer",
+    "Type": 5
+  },
+  {
+    "Id": "098eed89-f3ed-403c-a2e1-a5661761ed1d",
+    "Name": "Alluress",
+    "Type": 1
+  },
+  {
+    "Id": "9192ca6c-20cb-4203-b49c-1bfca43fe817",
+    "Name": "Blood Throne of Khorne",
+    "Type": 1
+  },
+  {
+    "Id": "cf6871a4-07c0-4655-b828-6c9707a803fe",
+    "Name": "Blood Throne Of Khorne",
+    "Type": 0
+  },
+  {
+    "Id": "05f8efc0-9bf3-4b50-8fee-562922f01314",
+    "Name": "Bloodreaper",
+    "Type": 1
+  },
+  {
+    "Id": "074718b7-985f-4d8d-a4c9-78d283a56d7a",
+    "Name": "Burning Chariot Of Tzeentch",
+    "Type": 0
+  },
+  {
+    "Id": "089a3a9c-fdd1-4c22-9edf-639ad76569e0",
+    "Name": "Burning Chariot of Tzeentch",
+    "Type": 1
+  },
+  {
+    "Id": "6fe36506-8839-4f80-953c-3ea7e227058e",
+    "Name": "Chariot Of Tzeentch",
+    "Type": 0
+  },
+  {
+    "Id": "d4c15bc1-a5bc-447a-a4ac-b9b6492197d4",
+    "Name": "Disc of Tzeentch",
+    "Type": 1
+  },
+  {
+    "Id": "51b592c4-1d43-4760-b07e-d532c5994716",
+    "Name": "Disc Of Tzeentch",
+    "Type": 0
+  },
+  {
+    "Id": "999b1734-d847-4362-b34a-e068d64e9a9a",
+    "Name": "Ectoplasmic Horror",
+    "Type": 1
+  },
+  {
+    "Id": "c323a527-a286-4c14-acdf-e32275d70f65e",
+    "Name": "Exalted Flamer",
+    "Type": 6
+  },
+  {
+    "Id": "9ddecf52-b243-417b-b1f3-aa5d066ff5ee",
+    "Name": "Exalted Seeker Chariot Of Slaanesh",
+    "Type": 0
+  },
+  {
+    "Id": "3a09b193-ddb4-4137-b7b6-bc406aa45ea2",
+    "Name": "Exalted Seeker Chariot of Slaanesh",
+    "Type": 1
+  },
+  {
+    "Id": "cd2005ba-4a3a-40a6-9bc5-38059506eed8",
+    "Name": "Heartseeker",
+    "Type": 1
+  },
+  {
+    "Id": "5364a70d-5ba5-4622-b9bf-9299286177a2",
+    "Name": "Iridescent Horror",
+    "Type": 1
+  },
+  {
+    "Id": "5b684ec6-65a7-4414-a141-d0c1d53ec373",
+    "Name": "Juggernaut of Khorne",
+    "Type": 1
+  },
+  {
+    "Id": "702ce6c7-810d-48f2-b766-1053dac682e2",
+    "Name": "Juggernaut Of Khorne",
+    "Type": 0
+  },
+  {
+    "Id": "2d076fd3-f253-4134-91b1-0be7c86536eb",
+    "Name": "Palanquin Of Nurgle",
+    "Type": 0
+  },
+  {
+    "Id": "f146c31e-a38a-43bd-a76e-13cad02249c0",
+    "Name": "Palanquin of Nurgle",
+    "Type": 1
+  },
+  {
+    "Id": "c323a527-a286-4c14-acdf-e32275d70f65",
+    "Name": "Pyroclaster",
+    "Type": 6
+  },
+  {
+    "Id": "152ed0e9-06b3-4150-a7d4-4c5187dad142",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Type": 0
+  },
+  {
+    "Id": "872488a0-e32d-4bf6-bf9f-c30bf9b80c56",
+    "Name": "Steed of Slaanesh",
+    "Type": 1
+  },
+  {
+    "Id": "3edf1d10-6dfa-46a7-a929-b94e2717a38a",
+    "Name": "Steed Of Slaanesh",
+    "Type": 0
+  },
+  {
+    "Id": "7508eb7c-088f-486a-b1b4-60d0fc41efa6",
+    "Name": "Warpflame",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "57c6-6df1-cb73-c9fb"
+      }
+    ]
+  },
+  {
+    "Id": "champion_alluress",
+    "Name": "Alluress",
+    "Type": 5
+  },
+  {
+    "Id": "champion_bloodreaper",
+    "Name": "Bloodreaper",
+    "Type": 5
+  },
+  {
+    "Id": "champion_ectoplasmic_horror",
+    "Name": "Ectoplasmic Horror",
+    "Type": 5
+  },
+  {
+    "Id": "champion_heartseeker",
+    "Name": "Heartseeker",
+    "Type": 5
+  },
+  {
+    "Id": "champion_iridescent_horror",
+    "Name": "Iridescent Horror",
+    "Type": 5
+  },
+  {
+    "Id": "champion_plagueridden",
+    "Name": "Plagueridden",
+    "Type": 5
+  },
+  {
+    "Id": "champion_pyroclaster",
+    "Name": "Pyroclaster",
+    "Type": 5
+  },
+  {
+    "Id": "1ecb103b-3a5c-41ba-bd9f-c0bc868bd4fd",
+    "Name": "Black Dragon",
+    "Type": 0
+  },
+  {
+    "Id": "a3dbee30-1f4f-4a36-a8f5-19d81e8c9e7b",
+    "Name": "Cauldron of Blood",
+    "Type": 0
+  },
+  {
+    "Id": "5a489803-da62-42ce-bb9e-d077a7bcb850",
+    "Name": "Cold One Chariot",
+    "Type": 0
+  },
+  {
+    "Id": "62f11a4d-9d0a-454c-80db-232b2995f10e",
+    "Name": "Dark Pegasus",
+    "Type": 0
+  },
+  {
+    "Id": "6bf96e91-16a9-4231-925d-a9657586c832",
+    "Name": "Dark Steed",
+    "Type": 0
+  },
+  {
+    "Id": "590c8133-5974-4c4f-a95c-f1ccbd90cd00",
+    "Name": "Ravager Harpoon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "75e9-7e36-d63b-cf9a"
+      }
+    ]
+  },
+  {
+    "Id": "976400b7-b206-4c93-b2c6-300993b8bb55",
+    "Name": "Repeater Crossbow",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "e240-f607-2c57-b181"
+      }
+    ]
+  },
+  {
+    "Id": "df26dadc-3282-4a0a-ab93-bd65dc6d43fa",
+    "Name": "Scourgerunner Chariot",
+    "Type": 0
+  },
+  {
+    "Id": "2d8a2a92-a630-4e66-9e34-5d4da56db0d6",
+    "Name": "Two Hand Weapons",
+    "Type": 1
+  },
+  {
+    "Id": "champion_bloodshade",
+    "Name": "Bloodshade",
+    "Type": 5
+  },
+  {
+    "Id": "champion_draich_master",
+    "Name": "Draich Master",
+    "Type": 5
+  },
+  {
+    "Id": "champion_dread_knight",
+    "Name": "Dread Knight",
+    "Type": 5
+  },
+  {
+    "Id": "champion_hag",
+    "Name": "Hag",
+    "Type": 5
+  },
+  {
+    "Id": "champion_herald",
+    "Name": "Herald",
+    "Type": 5
+  },
+  {
+    "Id": "champion_lordling",
+    "Name": "Lordling",
+    "Type": 5
+  },
+  {
+    "Id": "champion_master",
+    "Name": "Master",
+    "Type": 5
+  },
+  {
+    "Id": "champion_reaver",
+    "Name": "Reaver",
+    "Type": 5
+  },
+  {
+    "Id": "champion_tower_master",
+    "Name": "Tower Master",
+    "Type": 5
+  },
+  {
+    "Id": "55a0fb34-4d5d-46b5-bb47-4867b0571fb3",
+    "Name": "Brimstone Gun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "aa5b-18d2-c8c0-e4d6"
+      }
+    ]
+  },
+  {
+    "Id": "035e5221-4a9e-4de8-9824-b1eec474ed6e",
+    "Name": "Handgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4035-287b-e117-6b9b"
+      }
+    ]
+  },
+  {
+    "Id": "champion_shrine_keeper",
+    "Name": "Shrine Keeper",
+    "Type": 5
+  },
+  {
+    "Id": "f499c396-0e61-4b43-86a9-8635005b788e",
+    "Name": "Grand Cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ef00-e657-a314-91ab"
+      }
+    ]
+  },
+  {
+    "Id": "acf81fd3-f029-48cd-9f37-f079528f69a1",
+    "Name": "Granite Sentinel",
+    "Type": 1
+  },
+  {
+    "Id": "3e22a2af-1f06-4bbf-9135-574fc9e353da",
+    "Name": "Jade Sentinel",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b221-591c-1017-89e3"
+      }
+    ]
+  },
+  {
+    "Id": "1ddf551e-52f0-497d-a863-78dd26f7b98c",
+    "Name": "Obsidian Sentinel",
+    "Type": 1
+  },
+  {
+    "Id": "db312bc5-8f78-419c-8303-bc7a19da8918",
+    "Name": "Terracota Sentinel",
+    "Type": 1
+  },
+  {
+    "Id": "9e1e268d-b88e-4d9e-9854-99440747b1bc",
+    "Name": "Wizard Level 4",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5cee-9c31-3cc4-5c9f"
+      }
+    ]
+  },
+  {
+    "Id": "93c9f664-56b6-495d-af4c-470a0edd6113",
+    "Name": "Wrapstone Sentinel",
+    "Type": 1
+  },
+  {
+    "Id": "champion_jade_lancer_officer",
+    "Name": "Jade Lancer Officer",
+    "Type": 5
+  },
+  {
+    "Id": "champion_jade_officer",
+    "Name": "Jade Officer",
+    "Type": 5
+  },
+  {
+    "Id": "options_1779471192897",
+    "Name": "Marksman",
+    "Type": 5
+  },
+  {
+    "Id": "options_1779471748585",
+    "Name": "Gunpower Bombs",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1779471357889"
+      }
+    ]
+  },
+  {
+    "Id": "options_1779472636032",
+    "Name": "Peasant Elder",
+    "Type": 5,
+    "ItemsToAdd": [
+      {
+        "Id": "statlines_1779472285812"
+      }
+    ]
+  },
+  {
+    "Id": "7c04b4de-946e-4058-b7c4-e8256b25a422",
+    "Name": "Bow of Avelorn",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "e42c-4a2f-b084-91c0"
+      }
+    ]
+  },
+  {
+    "Id": "a1725a5c-3a5b-4616-9593-44c1a64f8821",
+    "Name": "Eagle-Eye Bolt Thrower",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6ff2-57b7-2d12-a850"
+      }
+    ]
+  },
+  {
+    "Id": "3f0d101a-0a72-4bb7-ba8a-7118357c2785",
+    "Name": "Handmaiden's Spear",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "429-8ae9-4365-b67"
+      }
+    ]
+  },
+  {
+    "Id": "475e8272-19cb-4e0b-8548-db4b97201bf4",
+    "Name": "Skycutter",
+    "Type": 1
+  },
+  {
+    "Id": "champion_bladelord",
+    "Name": "Bladelord",
+    "Type": 5
+  },
+  {
+    "Id": "champion_drakemaster",
+    "Name": "Drakemaster",
+    "Type": 5
+  },
+  {
+    "Id": "champion_high_helm",
+    "Name": "High Helm",
+    "Type": 5
+  },
+  {
+    "Id": "champion_keeper_of_the_flame",
+    "Name": "Keeper of the Flame",
+    "Type": 5
+  },
+  {
+    "Id": "bed025bf-e9ea-406b-8007-c8321f777943",
+    "Name": "Eagle-Eye Bolt Thrower",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6ff2-57b7-2d12-a850"
+      }
+    ]
+  },
+  {
+    "Id": "champion_chracian_captain",
+    "Name": "Chracian Captain",
+    "Type": 5
+  },
+  {
+    "Id": "champion_lion_guard_captain",
+    "Name": "Lion Guard Captain",
+    "Type": 5
+  },
+  {
+    "Id": "93ce35b5-1fc8-42e9-8865-031df6798005a",
+    "Name": "Midshipman",
+    "Type": 5
+  },
+  {
+    "Id": "93ce35b5-1fc8-42e9-8865-031df6798005b",
+    "Name": "Bosun",
+    "Type": 5
+  },
+  {
+    "Id": "b83c6c3a-ee6d-439b-888d-e56846159eed",
+    "Name": "Thrusting Spear and Shields",
+    "Type": 1
+  },
+  {
+    "Id": "af4d1bd0-b13b-4881-ad56-edb0639b8e84",
+    "Name": "Morning Star",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "caad-2fc0-e82a-18fd"
+      }
+    ]
+  },
+  {
+    "Id": "99a252a8-d289-46ce-9c51-ef5037dcb64b",
+    "Name": "Yeoman",
+    "Type": 1
+  },
+  {
+    "Id": "f9c7dfb5-9048-4876-b1e3-f0fe657554f3",
+    "Name": "Ancient Stegadon",
+    "Type": 0
+  },
+  {
+    "Id": "4fe2466e-224b-4e3c-b062-c2e615c70f9c",
+    "Name": "Blowpipe",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "d03f-1fcf-1246-19ef"
+      }
+    ]
+  },
+  {
+    "Id": "334d77a0-eff6-4ca2-bf06-76077ed6ec8f",
+    "Name": "Carnosaur",
+    "Type": 0
+  },
+  {
+    "Id": "e47ae8aa-59ad-4826-b3f2-643b8a830dbb",
+    "Name": "Javelins",
+    "Type": 1
+  },
+  {
+    "Id": "29a380ef-d00c-46dc-9f83-2a6d6f974415",
+    "Name": "Javelins and Shields",
+    "Type": 1
+  },
+  {
+    "Id": "150c2d6d-4d3f-4e90-ab43-6c9196a16895",
+    "Name": "Ripperdactyl",
+    "Type": 0
+  },
+  {
+    "Id": "2d71daf9-d28c-4838-87c2-a3b75351e2a1",
+    "Name": "Stegadon",
+    "Type": 0
+  },
+  {
+    "Id": "de55c052-13be-495e-af24-1d2fd0ce42ff",
+    "Name": "Terradon",
+    "Type": 0
+  },
+  {
+    "Id": "champion_pack_leader",
+    "Name": "Pack Leader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_patrol_leader",
+    "Name": "Patrol Leader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_revered_guardian",
+    "Name": "Revered Guardian",
+    "Type": 5
+  },
+  {
+    "Id": "champion_ripperdactyl_champion",
+    "Name": "Ripperdactyl Champion",
+    "Type": 5
+  },
+  {
+    "Id": "champion_sky_leader",
+    "Name": "Sky Leader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_spawn_leader",
+    "Name": "Spawn Leader",
+    "Type": 5
+  },
+  {
+    "Id": "791bca56-feaf-43b8-a253-9d4e23937622",
+    "Name": "Stonehorn",
+    "Type": 0
+  },
+  {
+    "Id": "1efa6aaf-40cb-41c4-afc2-365fc4fe5c21",
+    "Name": "Thundertusk",
+    "Type": 0
+  },
+  {
+    "Id": "champion_crusher",
+    "Name": "Crusher",
+    "Type": 5
+  },
+  {
+    "Id": "champion_greyback",
+    "Name": "Greyback",
+    "Type": 5
+  },
+  {
+    "Id": "champion_groinbiter",
+    "Name": "Groinbiter",
+    "Type": 5
+  },
+  {
+    "Id": "champion_gutlord",
+    "Name": "Gutlord",
+    "Type": 5
+  },
+  {
+    "Id": "champion_snarefinger",
+    "Name": "Snarefinger",
+    "Type": 5
+  },
+  {
+    "Id": "champion_thunderfist",
+    "Name": "Thunderfist",
+    "Type": 5
+  },
+  {
+    "Id": "ce2a8431-4b40-4ab8-bc31-3b151b82b0f0",
+    "Name": "Giant Cave Squig",
+    "Type": 0
+  },
+  {
+    "Id": "e4978352-2885-4da7-8491-7383aba672c8",
+    "Name": "Fanatic",
+    "Type": 6
+  },
+  {
+    "Id": "04cbbc86-b188-4bbc-99fb-29911bc6ed03obb",
+    "Name": "Orc Bully",
+    "Type": 6
+  },
+  {
+    "Id": "6e650715-c1da-49a0-b02b-41686ddf0f7c",
+    "Name": "Frenzy",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3b0c-a477-8823-3a25"
+      }
+    ]
+  },
+  {
+    "Id": "ae16fddf-468f-44ad-84d3-10be76f602e0",
+    "Name": "Giant Spider",
+    "Type": 1
+  },
+  {
+    "Id": "804c6106-fd0b-4129-bd26-0690f4b9be15",
+    "Name": "Spidersilk Lobber",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "1feb-b4ec-6cfc-8f7"
+      }
+    ]
+  },
+  {
+    "Id": "7cfa654f-0172-4b95-a16f-817883618471",
+    "Name": "Ambushers",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "8c0b-6fe6-dc06-512"
+      }
+    ]
+  },
+  {
+    "Id": "option_1764634465832",
+    "Name": "Barded Warhorses",
+    "Type": 0
+  },
+  {
+    "Id": "903e57c4-6f1b-4198-b065-ea5c64169aa3",
+    "Name": "Blunderbuss",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6a58-c350-5546-c86b"
+      }
+    ]
+  },
+  {
+    "Id": "8f2d6109-a50e-43db-bd76-37e7aa4bad87",
+    "Name": "Close Order",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "883e-e1b1-4fe9-5912"
+      }
+    ]
+  },
+  {
+    "Id": "688611ff-9383-42e3-8e1d-a17fdc0841a3",
+    "Name": "Full plate armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "9a1d-38b0-7d7-7552"
+      }
+    ]
+  },
+  {
+    "Id": "7da52554-545f-429e-b614-70c1385e8ab5",
+    "Name": "Great weapons",
+    "Type": 1
+  },
+  {
+    "Id": "88fda64a-18c4-4682-8266-5722cc73b9d9",
+    "Name": "Halberds",
+    "Type": 1
+  },
+  {
+    "Id": "83874d2c-edb2-43cc-873a-fc4e08485e77",
+    "Name": "Hand Weapons",
+    "Type": 1
+  },
+  {
+    "Id": "ce3c29ac-6c88-4803-b354-886622a3e064",
+    "Name": "Heavy armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c56e-8d1b-bb4-de99"
+      }
+    ]
+  },
+  {
+    "Id": "ee50f347-d500-49fc-88b2-04554aa8ceb8",
+    "Name": "Lances",
+    "Type": 1
+  },
+  {
+    "Id": "dabdfef0-b70e-4f20-afbf-b3a6f5e53f70",
+    "Name": "Militia Leader",
+    "Type": 1
+  },
+  {
+    "Id": "616708d6-425d-4b59-8d64-b5168194cc6f",
+    "Name": "Morning Star",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "caad-2fc0-e82a-18fd"
+      }
+    ]
+  },
+  {
+    "Id": "8d748ae9-93e6-4c6e-9f93-09411bbc3f02",
+    "Name": "Mortar",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "2115-8098-83e9-ead7"
+      }
+    ]
+  },
+  {
+    "Id": "6004211d-3ebc-4128-9036-5cae8b021752",
+    "Name": "Organ Gun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5635-efd8-13b6-c841"
+      }
+    ]
+  },
+  {
+    "Id": "7c0989ca-62c7-43b1-977c-34376da89285",
+    "Name": "Scouts",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "fe5e-8838-7fbd-a7ec"
+      }
+    ]
+  },
+  {
+    "Id": "651781e2-b9ba-432c-b017-9971e7ec2200",
+    "Name": "Shields",
+    "Type": 1
+  },
+  {
+    "Id": "18c3facb-d641-442a-9e65-c3491599907e",
+    "Name": "Skirmishers",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "59a5-7eca-ee35-96ac"
+      }
+    ]
+  },
+  {
+    "Id": "40ff2f12-82db-4b4c-ba84-b509922f2008",
+    "Name": "Throwing Weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "eee5-db12-1271-f2c5"
+      }
+    ]
+  },
+  {
+    "Id": "c556f4d6-2f5c-4782-ae0f-4ee880e37f1e",
+    "Name": "Thrusting spears",
+    "Type": 1
+  },
+  {
+    "Id": "19d94e60-6c2b-48b3-9d22-442c8c0eb449",
+    "Name": "Two Hand Weapons",
+    "Type": 1
+  },
+  {
+    "Id": "dd729c21-afcb-4359-80b8-b33e2d5a23dc",
+    "Name": "Veteran Officer",
+    "Type": 1
+  },
+  {
+    "Id": "option_1764634450939",
+    "Name": "Warhorses",
+    "Type": 0
+  },
+  {
+    "Id": "champion_commander",
+    "Name": "Commander",
+    "Type": 5
+  },
+  {
+    "Id": "champion_officer",
+    "Name": "Officer",
+    "Type": 5
+  },
+  {
+    "Id": "champion_veteran_commander",
+    "Name": "Veteran Commander",
+    "Type": 5
+  },
+  {
+    "Id": "champion_veteran_officer",
+    "Name": "Veteran Officer",
+    "Type": 5
+  },
+  {
+    "Id": "0876da70-80c7-4092-b7cc-078eb693226f",
+    "Name": "Doom-Flayer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3655-6c21-81d0-3e19"
+      }
+    ]
+  },
+  {
+    "Id": "752df0d6-6536-4f6b-90d4-1e2859a4e5femmgr",
+    "Name": "Master Moulder",
+    "Type": 6
+  },
+  {
+    "Id": "c934d54b-1f18-4f0c-a85a-1e6bf461702b",
+    "Name": "Plague Furnace",
+    "Type": 0
+  },
+  {
+    "Id": "bea987b0-6451-4d50-914f-d77e387b4375",
+    "Name": "Poisoned Wind Mortar",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b8de-ca62-739c-705c"
+      }
+    ]
+  },
+  {
+    "Id": "05282387-e265-47db-a858-c35f3cc08163",
+    "Name": "Ratling Gun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ad60-b43f-76fe-7ed1"
+      }
+    ]
+  },
+  {
+    "Id": "d9af2110-6bb4-4a57-a0b9-0357965120be",
+    "Name": "Screaming Bell",
+    "Type": 0
+  },
+  {
+    "Id": "8d86bbe7-39c1-4bdd-a1aa-925ae13c7fd2",
+    "Name": "Warp Grinder",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ded0-96c-4033-a27a"
+      }
+    ]
+  },
+  {
+    "Id": "d007b945-ec35-4d72-8049-10e696a5775f",
+    "Name": "Warpfire Thrower",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "47f3-8993-694f-46b1"
+      }
+    ]
+  },
+  {
+    "Id": "champion_assassin",
+    "Name": "Assassin",
+    "Type": 5
+  },
+  {
+    "Id": "champion_clawleader",
+    "Name": "Clawleader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_fangleader",
+    "Name": "Fangleader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_nightleader",
+    "Name": "Nightleader",
+    "Type": 5
+  },
+  {
+    "Id": "champion_plague_deacon",
+    "Name": "Plague Deacon",
+    "Type": 5
+  },
+  {
+    "Id": "4985fba1-9b52-4fe3-9403-9f70c07b5d9e",
+    "Name": "Grenade Launching Blunderbuss",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b8f7-c4e5-2793-bc18"
+      }
+    ]
+  },
+  {
+    "Id": "17c7be5a-27c6-4fd4-9ed9-89347b23ada8",
+    "Name": "Handgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "4035-287b-e117-6b9b"
+      }
+    ]
+  },
+  {
+    "Id": "70761c5e-f010-4132-8095-7cfdcdb4c11b",
+    "Name": "Handgun90",
+    "Type": 1
+  },
+  {
+    "Id": "18cea7f9-6ede-4c07-8c40-5c41669d6890",
+    "Name": "Hochland Long Rifle",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ec0a-ce53-127c-7c0d"
+      }
+    ]
+  },
+  {
+    "Id": "d9279b94-5f4a-4c5f-9c41-64d2cfcd51c9",
+    "Name": "Repeater Handgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "7f58-91d4-ee6c-3cb7"
+      }
+    ]
+  },
+  {
+    "Id": "a7760768-19e6-4f53-b01b-bcb1202860e8",
+    "Name": "Repeater Pistol",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "76e2-58f8-9f0d-2fce"
+      }
+    ]
+  },
+  {
+    "Id": "bc4527b0-1e0c-45c5-a6e2-dfb95d7565fd",
+    "Name": "War Altar",
+    "Type": 1
+  },
+  {
+    "Id": "df7e9145-054b-41db-a85a-d74406473fee",
+    "Name": "Grenade Launching Blunderbuss",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b8f7-c4e5-2793-bc18"
+      }
+    ]
+  },
+  {
+    "Id": "badfea82-410e-4d2d-a117-66b9e2cf5bb1",
+    "Name": "Hochland Long Rifle",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "ec0a-ce53-127c-7c0d"
+      }
+    ]
+  },
+  {
+    "Id": "957e2406-f76c-4a47-add2-f27a291f898a",
+    "Name": "Repeater Handgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "7f58-91d4-ee6c-3cb7"
+      }
+    ]
+  },
+  {
+    "Id": "76bd56e3-a331-413a-85d2-f13c2e3fd60d",
+    "Name": "Sergeant",
+    "Type": 1
+  },
+  {
+    "Id": "champion_sargeant",
+    "Name": "Sargeant",
+    "Type": 5
+  },
+  {
+    "Id": "champion_veteran_sargeant",
+    "Name": "Veteran Sargeant",
+    "Type": 5
+  },
+  {
+    "Id": "4abe0918-c2bd-4b4c-9271-10d973af4434",
+    "Name": "Barded Warhorse (Chariot)",
+    "Type": 1
+  },
+  {
+    "Id": "8c53e34c-f79c-4268-9b1e-43683f533e73",
+    "Name": "Ancient",
+    "Type": 1
+  },
+  {
+    "Id": "67ca1319-33ac-4385-9afd-26aeb0564826",
+    "Name": "Greatbow",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b005-a9dc-59f1-1977"
+      }
+    ]
+  },
+  {
+    "Id": "champion_venerable_ancient",
+    "Name": "Venerable Ancient",
+    "Type": 5
+  },
+  {
+    "Id": "c025862a-13fc-4f5e-8a83-c35aa384f4bb",
+    "Name": "Abyssal Terror",
+    "Type": 0
+  },
+  {
+    "Id": "4f4ed7de-d4c8-4a70-babb-94c798e22587",
+    "Name": "Coven Throne",
+    "Type": 0
+  },
+  {
+    "Id": "b6b4af18-c825-4028-85a7-dd99f1a05936",
+    "Name": "Crypt Ghast",
+    "Type": 1
+  },
+  {
+    "Id": "0daaada3-a95e-43bb-a2c6-27bc6bc2af3f",
+    "Name": "Crypt Haunter",
+    "Type": 1
+  },
+  {
+    "Id": "f6d593d4-c172-453b-bcb2-eedae8551644",
+    "Name": "Doom Wolf",
+    "Type": 1
+  },
+  {
+    "Id": "f5035e15-90a6-457b-9504-083596662c84",
+    "Name": "Hell Knight",
+    "Type": 1
+  },
+  {
+    "Id": "e23d4df3-30e9-4e44-b330-89571fe54ac9",
+    "Name": "Hellwraith",
+    "Type": 1
+  },
+  {
+    "Id": "ccfd53b6-70e2-4f32-b222-4665d04a0535",
+    "Name": "Kastellan",
+    "Type": 1
+  },
+  {
+    "Id": "65f77d2e-2cad-411a-af02-54217a6f0259",
+    "Name": "Mortis Engine",
+    "Type": 0
+  },
+  {
+    "Id": "81a87848-4676-42ce-9a12-c8c49add0e37",
+    "Name": "Nightmare",
+    "Type": 0
+  },
+  {
+    "Id": "ef603558-cec4-4813-b699-73c9560fd7c4",
+    "Name": "Seneschal",
+    "Type": 1
+  },
+  {
+    "Id": "b05e56ba-228c-424e-99c0-da30813bcadd",
+    "Name": "Skeleton Champion",
+    "Type": 1
+  },
+  {
+    "Id": "5d3c2da6-e25e-4628-9bcf-eb9d13b42de9",
+    "Name": "Terrorgheist",
+    "Type": 0
+  },
+  {
+    "Id": "7fc9401b-2faf-4f2c-b4ef-cbbacfafff82",
+    "Name": "Vargoyle",
+    "Type": 1
+  },
+  {
+    "Id": "4379b940-c81a-49fa-b440-36b325f97048",
+    "Name": "Zombie Dragon",
+    "Type": 0
+  },
+  {
+    "Id": "champion_crypt_ghast",
+    "Name": "Crypt Ghast",
+    "Type": 5
+  },
+  {
+    "Id": "champion_crypt_haunter",
+    "Name": "Crypt Haunter",
+    "Type": 5
+  },
+  {
+    "Id": "champion_doom_wolf",
+    "Name": "Doom Wolf",
+    "Type": 5
+  },
+  {
+    "Id": "champion_hell_knight",
+    "Name": "Hell Knight",
+    "Type": 5
+  },
+  {
+    "Id": "champion_hellwraith",
+    "Name": "Hellwraith",
+    "Type": 5
+  },
+  {
+    "Id": "champion_kastellan",
+    "Name": "Kastellan",
+    "Type": 5
+  },
+  {
+    "Id": "champion_seneschal",
+    "Name": "Seneschal",
+    "Type": 5
+  },
+  {
+    "Id": "champion_skeleton_champion",
+    "Name": "Skeleton Champion",
+    "Type": 5
+  },
+  {
+    "Id": "champion_vargoyle",
+    "Name": "Vargoyle",
+    "Type": 5
+  },
+  {
+    "Id": "64090588-2fe1-4ae0-b0cd-23542be77b40",
+    "Name": "Javelin",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "f3f8-7476-d165-1a5d"
+      }
+    ]
+  },
+  {
+    "Id": "8a00f332-b04f-4a3f-8e16-fd25fc614346",
+    "Name": "Whip",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "7505-7edf-c3de-57a6"
+      }
+    ]
+  },
+  {
+    "Id": "options_1791476262586",
+    "Name": "Full Plate Armour",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "9a1d-38b0-7d7-7552",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "champion_first_sword",
+    "Name": "First Sword",
+    "Type": 5
+  },
+  {
+    "Id": "champion_headtaker",
+    "Name": "Headtaker",
+    "Type": 5
+  },
+  {
+    "Id": "champion_skin_wolf_jarl",
+    "Name": "Skin Wolf Jarl",
+    "Type": 5
+  },
+  {
+    "Id": "864b0776-ddcc-4b92-8c31-f40e27e9cbe2",
+    "Name": "Great Eagles",
+    "Type": 1
+  },
+  {
+    "Id": "255c9556-8b60-49b9-8e4b-3aad5ec1afb3",
+    "Name": "Spear of Loec",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c611-4849-2aad-fb75"
+      }
+    ]
+  },
+  {
+    "Id": "bc399347-5044-4b39-979a-a63e9946e8a2",
+    "Name": "Trickster's Blade",
+    "Type": 1
+  },
+  {
+    "Id": "champion_watchmaster",
+    "Name": "Watchmaster",
+    "Type": 5
   }
 ]
