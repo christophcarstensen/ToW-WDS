@@ -4,307 +4,307 @@
     "Name": "Beastmen Brayherds",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/cfd20c19-b3c3-4d2e-8e34-aef06e0239eb.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/6abcf5a1-3224-46dc-a72a-566ace6da133.png"
   },
   {
     "Id": "c45da274-959b-4274-a5f6-7832c9cef4ad",
     "Name": "Beastmen Brayherds - Minotaur Blood Herd",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/df410561-bc4f-4a8c-821a-ac97b374e86f.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/8f121254-31a7-48b3-b34d-b9ed2421f712.png"
   },
   {
     "Id": "7e07bde7-4d88-4208-9bff-de0dd982a559",
     "Name": "Beastmen Brayherds - Wild Herd",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/dadc3f25-1ad0-49b5-b73b-a95fe986e8c2.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/752133ab-e465-4073-8e06-5a654830c3a8.png"
   },
   {
     "Id": "4741d1ba-d350-4bb4-af3c-54b8eecd5d9d",
     "Name": "Chaos Dwarfs",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/1e56188e-c8d6-4cb9-97bc-495d5156e205.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/4d4bcadf-47ad-42f3-9593-4096b5f231c8.png"
   },
   {
     "Id": "96d17c71-56da-4615-b09d-eb34868f40dd",
     "Name": "Daemons of Chaos",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/a310932a-7971-4251-bb04-ac71cc58186b.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/2a38f037-7383-4fee-b034-6d317d186281.png"
   },
   {
     "Id": "c1bcd5b4-5759-47a0-8cfa-5e1e85c713dc",
     "Name": "Dark Elves",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/baa28d15-3c0b-42f5-88ff-ef5a341fa298.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/56ee5c9c-d163-4552-b45e-c176a56f7e59.png"
   },
   {
     "Id": "b093b5dd-e3ed-4822-8c1a-51b9f8eb7943",
     "Name": "Dwarfen Mountain Holds",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/d33405bf-69cf-41c6-810f-27f70d1752a4.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/b3f50a4c-6ece-4145-9773-019f2c3d271a.png"
   },
   {
     "Id": "abc55a51-79e1-422d-b4fb-ec88b23595fc",
     "Name": "Dwarfen Mountain Holds - Royal Clan",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/6223b74f-5268-4eb9-a9b9-6c3f66605f54.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/db5db75e-4bf8-4d87-af36-46d76db7f357.png"
   },
   {
     "Id": "b1e26ac8-e3e9-4ed8-9126-295056f576f5",
     "Name": "Dwarfen Mountain Holds - Expeditionary Force",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/09997d48-4a49-4737-90bc-6986d6a1f5d1.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/e160cae1-163b-4bf4-8863-970da4467c40.png"
   },
   {
     "Id": "47b0e803-19bf-4bb2-b18e-2b85816979b1",
     "Name": "Grand Cathay",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/6b104f26-ae21-40b8-9779-07b8b0406db0.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/36451600-3f1d-4ab7-b544-9fd7f196a212.png"
   },
   {
     "Id": "1719110a-6094-4ada-8c04-26923e74c0aa",
     "Name": "High Elf Realms",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/fc35c3be-7e6c-4314-914c-6ab3687ffe80.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/7714a309-1942-4f2b-b1ce-25eb2f0acb22.png"
   },
   {
     "Id": "8ac07e31-c439-4526-84a7-3185f9e256e4",
     "Name": "High Elf Realms - Chracian Warhost",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/dac7cf08-13e8-4be5-8111-469ec814ec8f.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/1332e1df-318d-4486-874b-f7f8c5d4788e.png"
   },
   {
     "Id": "f032f7a8-948a-4d30-b8ed-eaf6f945e14d",
     "Name": "High Elf Realms - Sea Guard Garrison",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/cfd252be-5c70-4d90-bf94-4913c080794c.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/8450f33d-e187-4f66-83cd-cca1dfa253de.png"
   },
   {
     "Id": "12845634-62ea-42c9-9a37-777afb220353",
     "Name": "Kingdom of Bretonnia",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/02a86e58-e22e-4c96-bc27-5a803ba9fbe6.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/b8f4e91d-d363-4330-995f-9ed112c2ff67.png"
   },
   {
     "Id": "ff4003f6-94ba-4126-9bfd-8015ab892d5f",
     "Name": "Kingdom of Bretonnia - Bretonnian Exiles",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/ca70aa16-e0e2-4dea-a196-1dbbf9e73a1c.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/fe756ca4-809e-483b-8b18-7a2cfd22b1e4.png"
   },
   {
     "Id": "1f505e41-4de7-421e-b118-e33d28dcfe3e",
     "Name": "Kingdom of Bretonnia - Errantry Crusade",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/f5253e82-f500-40d0-8952-f12fc58f6adf.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/f2e99c1e-faf6-4127-bdd2-14aa4897abef.png"
   },
   {
     "Id": "7cd6b41c-f10f-4e8e-b4ee-ab1713187c62",
     "Name": "Lizardmen",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/0d407c13-81e0-4d66-9e98-da26d255cf63.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/cafdebb8-b6dc-4bd7-af32-54c742cd8056.png"
   },
   {
     "Id": "1cca1a0a-61ab-4a5b-808a-89e72b1f7792",
     "Name": "Ogre Kingdoms",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/c20fc0a7-cdf9-4150-8cd9-9d8b365cad03.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/840346b8-b486-4778-9c5d-13e6daced835.png"
   },
   {
     "Id": "11233762-ada1-428a-9f18-6bb015e7be4e",
     "Name": "Orc and Goblin Tribes",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/c3a14833-635f-4ab4-a127-a2407c7c6cc4.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/01572593-e787-42c3-9c82-8396e8e8eb64.png"
   },
   {
     "Id": "de4c65ec-fe1d-4ec9-a5b5-7c64be7362a1",
     "Name": "Orc and Goblin Tribes - Nomadic Waaagh!",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/81110f00-6ebc-4bb7-91c8-3af89b40cc80.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/1fbaddaf-611b-441e-b2ec-3473b7e69afb.png"
   },
   {
     "Id": "4efd1cbf-0dfe-4189-865e-a20fb5cf33fe",
     "Name": "Orc and Goblin Tribes - Troll Horde",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/d057caf6-3dce-485d-97fd-d7999e6ab4d7.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/05862d2f-260c-48c6-99ce-d9cb6e282719.png"
   },
   {
     "Id": "38440f3f-7d09-4cd6-8608-ea76af249cba",
     "Name": "Skaven",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/75096a10-c458-497a-959a-496deb100411.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/6fab2f4d-88e3-4f35-8322-528d18dd9ac8.png"
   },
   {
     "Id": "6b27f6f5-13c3-40ca-9666-85291321b2e6",
     "Name": "The Empire of Man",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/c1f97855-0521-4582-bb39-3ffec1a0375e.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/f55ff87c-59fb-4035-9e16-75b47e3d067b.png"
   },
   {
     "Id": "23ecb4c0-f799-4794-aa9d-c501f0290a61",
     "Name": "The Empire of Man - City-State of Nuln",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/aec5465a-6617-49ef-9a81-adf610a5cec2.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/6299b10c-2232-4ccf-9e00-3113acb140fe.png"
   },
   {
     "Id": "900bb9b9-e8cd-4231-bc32-746a8c36f402",
     "Name": "The Empire of Man - Knightly Order",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/25a2af79-c4ae-46de-b6ce-f7ba574307d9.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/816f675a-c4f9-4fbe-8c73-fdacbf59e5c7.png"
   },
   {
     "Id": "c134cbcf-718d-4178-bbfa-c4ed2c6fbd10",
     "Name": "Tomb Kings of Khemri",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/53637584-3fbb-4059-b017-c8f795c40851.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/9a03cbee-e3ed-45ac-afb2-78c79c0c30fb.png"
   },
   {
     "Id": "858250ef-c3e9-48c7-97b0-336ad20ae058",
     "Name": "Tomb Kings of Khemri - Mortuary Cult",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/3ad8d3e8-4c38-404e-80d3-b057b23bc78d.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/fafc32b6-196d-4cea-ac65-b1355f586e8b.png"
   },
   {
     "Id": "dcc9af6f-3dd2-4c4c-b714-3cfe7c34728f",
     "Name": "Tomb Kings of Khemri - Royal Host",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/55ac58aa-cd7f-461b-8931-574ad2d271be.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/5f5d81a1-17b2-4b78-a349-ab92cd4ad628.png"
   },
   {
     "Id": "06f3fc66-3f2b-420a-8d56-c1056f626d74",
     "Name": "Vampire Counts",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/502a1a96-47fd-4143-8ce0-c8eb098652a2.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/67129af0-90a3-4712-97cd-28e80901866f.png"
   },
   {
     "Id": "45f6fc57-3e90-4e9e-a0cc-93986d3daec0",
     "Name": "Warriors of Chaos",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/17255935-c903-4203-88b3-2f798c828397.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/ac20f8e2-97d2-4667-a1d4-72a0957ca599.png"
   },
   {
     "Id": "23c54e37-61ff-40a8-8e48-9824621669a3",
     "Name": "Warriors of Chaos - Heralds of Darkness",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/c7f24cb1-4dd5-4919-9d80-fce680fc227e.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/0f2b741f-8084-4bbd-8a86-671df65d99b1.png"
   },
   {
     "Id": "30d35843-2fc2-4921-8a6d-3e4973539eac",
     "Name": "Warriors of Chaos - Wolves of the Sea",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/a1c6c6e9-6909-4b6f-a01d-c49e001ad138.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/16faef3c-4aab-47ee-9a22-5f936d6d165b.png"
   },
   {
     "Id": "d0c721d7-44a4-4702-8271-3081d2bdd6a3",
     "Name": "Wood Elf Realms",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/354e8875-d5d8-4aee-94e0-41d7f55dd320.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/0ad0aed9-994c-42dc-a552-6e6e5529b87f.png"
   },
   {
     "Id": "6de8afef-c59d-4caf-8e4f-a1c2d86a3613",
     "Name": "Wood Elf Realms - Host of Talsyn",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/ba99ff09-c56a-4878-951b-098933b2088d.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/fb81bdc7-7433-4ea4-9e96-9fe2caeecd8a.png"
   },
   {
     "Id": "37c42317-110a-491f-95a6-cde4de929b4b",
     "Name": "Wood Elf Realms - Orion's Wild Hunt",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/ec3eb81e-991c-4d82-b0ba-99705c97b182.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/6d54529a-56da-4099-bbeb-7ba22bd7c6fd.png"
   },
   {
     "Id": "bcec0a24-6341-4e18-a824-b1a56e78f135",
-    "Name": "General",
+    "Name": "609a-2943-a6e1-e002",
     "Type": "unit",
     "MatchingRuleName": "609a-2943-a6e1-e002",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/b778466e-95fb-40b7-88b5-baabcf8fc5bd.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/f5c24420-8c3b-40f3-908e-aa39d6523e9d.png"
   },
   {
     "Id": "5c3ae142-ae67-468a-b692-51a0e06b7f10",
-    "Name": "Battle Standard Bearer",
+    "Name": "da9a-f205-577f-debb",
     "Type": "unit",
     "MatchingRuleName": "da9a-f205-577f-debb",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/e1a9055b-36ae-4cb5-b0f9-5d1e9cc97370.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/f1786588-8389-4fe7-84ba-508d3108363f.png"
   },
   {
     "Id": "21f6a3b9-f0ca-441b-bdf5-ef09ccc38624",
-    "Name": "Wizard Level 1",
+    "Name": "c3c-9624-c39-e86a",
     "Type": "unit",
     "MatchingRuleName": "c3c-9624-c39-e86a",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/aa0fbd99-d5a0-43d9-919b-75670d32e42a.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/1040fec3-ffb1-471f-a3ca-bde10d49a1c9.png"
   },
   {
     "Id": "5d935da3-4723-4bb9-b4d4-23e355317ffe",
-    "Name": "Wizard Level 2",
+    "Name": "f40c-d76a-fd42-fb9a",
     "Type": "unit",
     "MatchingRuleName": "f40c-d76a-fd42-fb9a",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/ace3fe5b-9d83-4273-b23c-b179a21a732c.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/14fa879a-ffed-435e-bfe0-4944c36ffd91.png"
   },
   {
     "Id": "b6a9ee0e-b67c-480d-8c8c-d5ff47819680",
-    "Name": "Wizard Level 3",
+    "Name": "1acd-4208-ba07-175b",
     "Type": "unit",
     "MatchingRuleName": "1acd-4208-ba07-175b",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/10c16775-7d16-434a-aa15-af5bff0ec10c.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/adf99689-31bf-48d0-aae6-cc4227d85fa7.png"
   },
   {
     "Id": "c81a76a6-bd72-40f2-9322-007c5c9a8e1b",
-    "Name": "Wizard Level 4",
+    "Name": "5cee-9c31-3cc4-5c9f",
     "Type": "unit",
     "MatchingRuleName": "5cee-9c31-3cc4-5c9f",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/3d55a03e-ab5d-447a-85d7-b13417cc78da.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/f45fdd3b-bd18-4da6-956c-af13747aac23.png"
   },
   {
     "Id": "fa3fa22e-350d-4905-9c2d-0d476a4994f2",
     "Name": "Grand Cathay - Jade Fleet",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/96414545-c3e3-44f2-9bec-67007f626db1.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/ab638558-e2a4-4a4a-bd7c-695e819e6a56.png"
   },
   {
     "Id": "e6dbd91c-05b8-4542-8c0a-f4fa6543ebf7",
     "Name": "Grand Cathay - Warriors of Wind & Field",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/c824d34e-7a6f-4fe8-b7a9-e26952ad853f.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/6a838149-d38e-42a7-8496-67b46eff9382.png"
   },
   {
     "Id": "92d0bdfe-6687-4552-ad81-b6eb01ac5d68",
     "Name": "Realms of Man - Renegade Crowns",
     "Type": "faction",
     "MatchingRuleName": "",
-    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/release/TOW/icons/ec401190-cdef-4467-a111-9a588b9aeab6.png"
+    "URL": "https://raw.githubusercontent.com/christophcarstensen/ToW-WDS/test/TOW/icons/e62e4500-8efa-4f01-834d-28169f4c6194.png"
   }
 ]
