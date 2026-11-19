@@ -1,21 +1,4 @@
 {
-  "ExtraLines": {
-    "Quadrants": true,
-    "QuadrantsName": "Quadrants",
-    "Borders": [
-      { "Name": "6\" border", "Values": [6] }
-    ],
-    "MiddleCircles": [
-      { "Name": "3\" / 6\" circles", "Values": [3, 6] },
-      { "Name": "9\" circle", "Values": [9] }
-    ],
-    "Sides": [
-      { "Name": "3\" / 5\" sides", "Values": [3, 5] }
-    ],
-    "Grid": [
-      { "Name": "1\" grid", "Values": [1] }
-    ]
-  },
   "BattleReportScreenshotTiming": "AtEndOfTurn",
   "BattleReportScreenshotCardStackId": null,
   "BattleReportScreenshotAtDeployment": true,
@@ -111,5 +94,42 @@
     "Concentric lines",
     "Pivot decal",
     "Magnet"
-  ]
+  ],
+  "ExtraLines": {
+    "Quadrants": true,
+    "QuadrantsName": "Quadrants",
+    "MiddleCircles": [
+      { "Name": "9\" circle", "Values": [9] }
+    ],
+    "Grid": [
+      { "Name": "1\" grid", "Values": [1] }
+    ]
+  },
+  "Scoreboard": {
+    "Enabled": true,
+    "Columns": [
+      { "Label": "Combat score" }
+    ],
+    "Rows": [
+      { "Label": "Wounds" },
+      { "Label": "Overkill" },
+      { "Label": "Ranks" },
+      { "Label": "Banners" },
+      { "Label": "Flank/Rear" },
+      { "Label": "Close Order" },
+      { "Label": "High ground" },
+      { "Label": "Other" }
+    ],
+    "PlayerColors": "Army",
+    "Reset": true
+  },
+  "RandomTerrainGenerator": "Alternative",
+  "MarkShowsTrails": true,
+  "ChessClockDefaultMinutes": 90,
+  "WoundCount": "Up",
+  "PassTimerOnTurnPass": true,
+  "VisibilityBlockUnits": true,
+  "VisibilityBlockAllies": true,
+  "VisibilityBlockTerrainBases": true,
+  "ExtraPointsToOpponent": true
 }
