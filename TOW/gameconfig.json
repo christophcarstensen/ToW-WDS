@@ -17,7 +17,6 @@
   ],
   "UseTurnController": true,
   "ResultCalculatorAlgorithm": 2,
-  "GameStateViewSections": [ 0, 1, 2 ],
   "CounterLabel": "Banners Lost",
   "PointCounting": "Graduated",
   "ShowAttribHeader": false,
