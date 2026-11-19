@@ -1,4 +1,21 @@
 {
+  "ExtraLines": {
+    "Quadrants": true,
+    "QuadrantsName": "Quadrants",
+    "Borders": [
+      { "Name": "6\" border", "Values": [6] }
+    ],
+    "MiddleCircles": [
+      { "Name": "3\" / 6\" circles", "Values": [3, 6] },
+      { "Name": "9\" circle", "Values": [9] }
+    ],
+    "Sides": [
+      { "Name": "3\" / 5\" sides", "Values": [3, 5] }
+    ],
+    "Grid": [
+      { "Name": "1\" grid", "Values": [1] }
+    ]
+  },
   "BattleReportScreenshotTiming": "AtEndOfTurn",
   "BattleReportScreenshotCardStackId": null,
   "BattleReportScreenshotAtDeployment": true,
