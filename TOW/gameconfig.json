@@ -1,98 +1,145 @@
 {
-  "BattleReportScreenshotTiming": "AtEndOfTurn",
-  "BattleReportScreenshotCardStackId": null,
-  "BattleReportScreenshotAtDeployment": true,
+  "BattlegroundWidth": 72,
+  "BattlegroundHeight": 48,
   "WoundsAttribute": "W",
-  "MaxCloudSeparation": 1.2,
-  "CloudLargeNeighborCount": 1,
+  "AvailableDice": [
+    "D6",
+    "D3",
+    "Artillery",
+    "Scatter"
+  ],
+  "PivotDistanceMeasurement": "Straight",
   "Formations": [
-    { "Index": 0, "Type": "RankAndFile" },
-    { "Index": 1, "Type": "Cloud" },
-    { "Index": 2, "Type": "Lance" },
-    { "Index": 3, "Type": "CloudCheckerboard" },
-    { "Index": 4, "Type": "RankAndFileSeparated" }
+    {
+      "Index": 0,
+      "Type": "RankAndFile"
+    },
+    {
+      "Index": 1,
+      "Type": "Cloud"
+    },
+    {
+      "Index": 2,
+      "Type": "Lance"
+    },
+    {
+      "Index": 3,
+      "Type": "CloudCheckerboard"
+    }
   ],
+  "DefaultFormation": "RankAndFile",
   "FormationChangingRules": [
-    { "Rule": "Skirmishers", "FormationType": "Cloud" }
+    {
+      "Rule": "Skirmishers",
+      "FormationType": "Cloud"
+    }
   ],
-  "UseTurnController": true,
-  "ResultCalculatorAlgorithm": 2,
-  "GameStateViewSections": [ 0, 1, 2 ],
-  "CounterLabel": "Banners Lost",
-  "PointCounting": "Graduated",
-  "ShowAttribHeader": false,
-  "GeneralKillPoints": 100,
-  "BsbKillPoints": 100,
-  "GameStateViewSections": [
-    0,
-    1,
-    2,
-    4,
-    5
-  ],
-  "CounterMultiplier": 50,
-  "ListParsingAlgorithm": 2,
-  "AlternativeRandomTerrainGenerator": true,
-  "AvailableDice": [ "D6", "D3", "Artillery", "Scatter" ],
+  "MaxCloudSeparation": 1.2,
+  "DefaultSoldierSelectionMode": false,
   "DefaultCardConfig": {
-    "Width": 50.0,
-    "Length": 50.0,
+    "Width": 50,
+    "Length": 50,
     "IsRound": true,
     "ShowInitials": true,
     "TextColor": "#000000",
     "Color": "rgb(163, 163, 163)",
     "Border": true,
-    "BorderColor": "#000000",
-    "ImageURLBack": "https://raw.githubusercontent.com/Jucyliana/Jucyliana.github.io/main/40k/CardImages/cardBackExample.png"
+    "BorderColor": "#000000"
   },
+  "ResultCalculatorAlgorithm": 2,
+  "ListParsingAlgorithm": 2,
+  "PointCounting": "Graduated",
   "PointCountingStatusNames": [
-    { "Status": 0, "Name": "" },
-    { "Status": 1, "Name": "DEAD" },
-    { "Status": 2, "Name": "FLEEING" },
-    { "Status": 3, "Name": "FLEEING & DECIMATED" },
-    { "Status": 4, "Name": "DECIMATED" }
-  ],
-  "DeploymentTerrains": [
     {
-      "DeploymentIndex": 6,
-      "Items": [
-        { "Name": "2764", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
-      ]
+      "Status": 0,
+      "Name": ""
     },
     {
-      "DeploymentIndex": 8,
-      "Items": [
-        { "Name": "3806", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
-      ]
+      "Status": 1,
+      "Name": "DEAD"
     },
     {
-      "DeploymentIndex": 13,
-      "Items": [
-        { "Name": "2765", "X": 0.0, "Y": 0.0, "Z": 0.0, "RotY": 0.0, "IsToken": false, "UseHalfBattlegroundHeight": false }
-      ]
+      "Status": 2,
+      "Name": "FLEEING"
+    },
+    {
+      "Status": 3,
+      "Name": "FLEEING & DECIMATED"
+    },
+    {
+      "Status": 4,
+      "Name": "DECIMATED"
     }
   ],
+  "cm": false,
+  "ShowCardinalPointsOnBases": false,
+  "DefaultZenithLight": false,
+  "BattleReportScreenshotTiming": "AtEndOfTurn",
+  "BattleReportScreenshotItemId": null,
+  "BattleReportScreenshotAtDeployment": true,
+  "UseTurnController": true,
+  "PassTimerOnTurnPass": true,
+  "ChessClockDefaultMinutes": 90,
+  "VisibilityBlockUnits": true,
+  "VisibilityBlockAllies": true,
+  "VisibilityBlockTerrainBases": true,
+  "VisibilityBlockTerrain3D": false,
+  "VisibilityBlockTokens": false,
+  "MarkShowsTrails": true,
   "ShownButtons": [
     "Radius",
     "Base Size",
     "Base Color",
     "Align center to center",
     "Delete",
-    "Draw Card Stack",
     "Duplicate",
-    "Flip Card",
     "Line of Sight",
     "Random Direction",
     "Reform",
     "Reorder",
-    "Reset Card Stack",
-    "Return Card",
     "Rotate 90",
-    "Shuffle Card Stack",
     "Add wounds",
     "Remove wounds",
     "Concentric lines",
     "Pivot decal",
     "Magnet"
-  ]
+  ],
+  "Scoreboard": {
+    "Enabled": true,
+    "Columns": [
+      {
+        "Label": "Combat score"
+      }
+    ],
+    "Rows": [
+      {
+        "Label": "Wounds"
+      },
+      {
+        "Label": "Overkill"
+      },
+      {
+        "Label": "Ranks"
+      },
+      {
+        "Label": "Banners"
+      },
+      {
+        "Label": "Flank/Rear"
+      },
+      {
+        "Label": "Close Order"
+      },
+      {
+        "Label": "High ground"
+      },
+      {
+        "Label": "Other"
+      }
+    ],
+    "PlayerColors": "Army",
+    "Reset": true
+  },
+  "RandomTerrainGenerator": "Alternative",
+  "AlternativeRandomTerrainGenerator": true
 }
