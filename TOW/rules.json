@@ -13113,5 +13113,47 @@
     "Name": "The Kinband of Torgovann",
     "Type": "Rule",
     "Description": "Choose one non-magical combat weapon wielded by this unit and improve the Armour Piercing characteristic of that weapon by 1. The chosen weapon must be clearly noted on your muster list."
+  },
+  {
+    "Id": "rules_1795186610123",
+    "Name": "Mawseeker",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry only. This character has a +1 modifier to their Toughness characteristic. However, this character is also subject to the Stupidity special rule."
+  },
+  {
+    "Id": "rules_1795186615415",
+    "Name": "Mountaineater",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry only. This character cannot be wounded by a roll To Wound of 2, regardless of the Strength of the attack."
+  },
+  {
+    "Id": "rules_1795186626258",
+    "Name": "Giantbreaker",
+    "Type": "Rule",
+    "Description": "This character (but not their mount) has a +1 modifier to their Strength characteristic. However, this character cannot refuse a challenge and neither they, nor any unit they have joined, can Flee as a charge reaction."
+  },
+  {
+    "Id": "rules_1795186632963",
+    "Name": "Kineater",
+    "Type": "Rule",
+    "Description": "Army General only. Unless this character is fleeing, friendly models within this character's Command range may re-roll any failed Panic or Rally test."
+  },
+  {
+    "Id": "rules_1795186641280",
+    "Name": "Longstrider",
+    "Type": "Rule",
+    "Description": "Models whose troop type is infantry only. This character has a +1 modifier to their Movement characteristic."
+  },
+  {
+    "Id": "rules_1795186646668",
+    "Name": "Beastkiller",
+    "Type": "Rule",
+    "Description": "Once per turn, this character may re-roll a single failed roll To Wound made against an enemy model with the Large Target special rule."
+  },
+  {
+    "Id": "rules_1795186656752",
+    "Name": "Deathcheater",
+    "Type": "Rule",
+    "Description": "Once per game, you may make your opponent re-roll a single roll To Wound made against this character."
   }
 ]
