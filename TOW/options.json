@@ -3236,5 +3236,11 @@
     "Id": "champion_watchmaster",
     "Name": "Watchmaster",
     "Type": 5
+  },
+  {
+    "Id": "options_1795186696989",
+    "Name": "Butcher's Cauldron",
+    "Type": 0,
+    "ItemsToAdd": []
   }
 ]
