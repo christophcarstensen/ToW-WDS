@@ -44625,10 +44625,56 @@
     "Id": "profiles_1795188432059",
     "Name": "Slaughtermaster on Butcher's Cauldron",
     "Type": "Profile"
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_481"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5a89-b3b8-ce4e-80c1"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      }
+    ]
   },
   {
     "Id": "profiles_1795188454594",
     "Name": "Butcher on Butcher's Cauldron",
     "Type": "Profile"
+	"BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_478"
+      },
+      {
+        "Id": "2af0-975f-bb14-8b8f",
+        "Info": "(1)"
+      },
+      {
+        "Id": "5ec9-a98-d8c5-e18b"
+      },
+      {
+        "Id": "5c2-e9dd-2715-a0c0",
+        "Info": "(2)"
+      },
+      {
+        "Id": "5a89-b3b8-ce4e-80c1"
+      },
+      {
+        "Id": "9e92-303-8d40-895c"
+      }
+    ]
   }
 ]
