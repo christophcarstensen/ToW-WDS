@@ -44620,5 +44620,15 @@
       }
     ],
     "BaseId": "7"
+  },
+  {
+    "Id": "profiles_1795188432059",
+    "Name": "Slaughtermaster on Butcher's Cauldron",
+    "Type": "Profile"
+  },
+  {
+    "Id": "profiles_1795188454594",
+    "Name": "Butcher on Butcher's Cauldron",
+    "Type": "Profile"
   }
 ]
