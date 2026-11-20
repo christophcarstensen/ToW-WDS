@@ -1,24 +1,24 @@
 {
-  "version": 124,
+  "version": 125,
   "files": [
-    "deployments.json",
-    "gameconfig.json",
     "tokens.json",
     "bases.json",
-    "objectives.json",
-    "terrains.json",
     "hierarchy.json",
-    "rules.json",
     "maps.json",
-    "equipment.json",
-    "cards.json",
-    "options.json",
-    "modifiedunit.json",
-    "modifiedprofile.json",
+    "deployments.json",
+    "gameconfig.json",
     "icons.json",
-    "units.json",
-    "profiles.json",
+    "options.json",
+    "modifiedprofile.json",
+    "equipment.json",
     "dummylist.json",
-    "statlines.json"
+    "cards.json",
+    "statlines.json",
+    "terrains.json",
+    "units.json",
+    "modifiedunit.json",
+    "objectives.json",
+    "profiles.json",
+    "rules.json"
   ]
 }
